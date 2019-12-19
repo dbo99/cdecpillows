@@ -159,7 +159,7 @@ server <- function(input, output) {
       
       mapview(cdec_swe_table["dwrapr1mean"], 
               col.regions = viridisLite::viridis, 
-              cex = cdec_swe_table$dwrapr1mean /10,
+              cex = cdec_swe_table$dwrapr1mean,
               alpha.regions = 0.5,
               map.types = maptypes,
               legend = TRUE,
@@ -169,7 +169,7 @@ server <- function(input, output) {
       
       mapview(cdec_swe_table["swe_percapr1"], 
               col.regions = viridisLite::viridis, 
-              cex = cdec_swe_table$swe_percapr1,
+              cex = cdec_swe_table$swe_percapr1/2,
               alpha.regions = 0.5,
               map.types = maptypes,
               legend = TRUE,

@@ -1,6 +1,6 @@
-rm(list = ls())
-rstudioapi::getActiveDocumentContext
-setwd(dirname(rstudioapi::getActiveDocumentContext()$path))
+#rm(list = ls())
+#rstudioapi::getActiveDocumentContext
+#setwd(dirname(rstudioapi::getActiveDocumentContext()$path))
 
 source("libs.r")
 source("fun_defs.r")
