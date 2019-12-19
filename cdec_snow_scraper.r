@@ -71,9 +71,13 @@ cdec_swe_table <- cdec_swe_table %>% mutate(swe_percapr1 = as.numeric(swe_percap
                                             swe_latest = as.numeric(swe_latest ),
                                              swe_24hrprev = as.numeric(swe_24hrprev ),
                                               swe_7dayprev = as.numeric(swe_7dayprev))
-cdec_swe_table <- cdec_swe_table %>% mutate(dailydiff =  swe_latest - swe_24hrprev,
-                                            weeklydiff = swe_latest - swe_7dayprev)
+cdec_swe_table <- cdec_swe_table %>% mutate(swe_dailydiff =  swe_latest - swe_24hrprev,
+                                            swe_weeklydiff = swe_latest - swe_7dayprev)
 
 cdec_swe_table <- st_as_sf(cdec_swe_table, coords = c("lon", "lat"), crs = 4326) 
 
 
+# -----------------------------
+
+zones <- readOGR(".", "cnrfc_zones_11052019_wgs84_thin_0.1_ret") %>% st_as_sf()
+basins <- readOGR(".", "cnrfc_basins_11052019_wgs84_unprojected_0.3_ret") %>% st_as_sf()
