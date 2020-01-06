@@ -66,7 +66,7 @@ head(cdec_swe_table)
 #colnames
 
 cdec_swe_table <- cdec_swe_table %>% transmute(Station, ID,
-                  dwrapr1mean = `Apr 1 Avg (IN)`, swe_latest = `Today (IN)`, 
+                  apr1mean = `Apr 1 Avg (IN)`, swe_latest = `Today (IN)`, 
                   swe_percapr1 = `Percent Apr 1`, swe_24hrprev = `24 Hrs Ago (IN)`, 
                   swe_7dayprev = `1 Week Ago (IN)`)
 
@@ -76,6 +76,7 @@ head(cdec_swe_table)
 cdec_swe_table2 <- cdec_swe_table %>% pivot_longer(3:7)
 head(cdec_swe_table2)
 
+# remove any non numeric characters
 cdec_swe_table2$value <- as.numeric(gsub("[^0-9.-]", "", cdec_swe_table2$value))
 head(cdec_swe_table2)
 
