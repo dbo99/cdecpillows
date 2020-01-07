@@ -6,24 +6,63 @@ source("libs.r")
 source("fun_defs.r")
 
 
-page <- "https://cdec.water.ca.gov/reportapp/javareports?name=PAGE6.20200102"
+page <- "http://cdec.water.ca.gov/reportapp/javareports?name=PAGE6.20200102"
+
+nodatatest <- "http://cdec.water.ca.gov/reportapp/javareports?name=PAGE6.20191130"
+test <- html_text(html_node(read_html(nodatatest),"h2 , h2"))
 
 
-start_date <- ymd("2019-11-26")
-end_date <- ymd("2020-01-06")
 
-dates <- seq(start_date, end_date, by = "days") %>% rev()
+start_date <- ymd("2019-12-08")
+end_date <- ymd("2019-12-13")
 
-# for (i in 1:length(dates)) { 
-#
-#  year <- as.character(year(dates[i]))
-#  monthnum <- as.character(month(dates[i]))
-#  dayofmon <- as.character(day(dates[i]))
-#  
+nodatatest <- "http://cdec.water.ca.gov/reportapp/javareports?name=PAGE6.20191130"
+test <- html_text(html_node(read_html(nodatatest),"h2 , h2"))
+
+
+dates <- seq(start_date, end_date, by = "days") #%>% rev()
+dates <- gsub("-","",dates)
+urlbase <- "http://cdec.water.ca.gov/reportapp/javareports?name=PAGE6."
+
+dayswithdatalist <- data.frame(h2 = character(), stringsAsFactors = FALSE)
+dayswithdatalist <- vector(mode = "list")
+head(dayswithdatalist)
+
+for (i in 1:length(dates)) { 
+
+url <- paste0(urlbase, dates[i])
+dayswithdatalist_i <- html_text(html_node(read_html(url),"h2 , h2"))
+   
+dayswithdatalist <- append(dayswithdatalist,dayswithdatalist_i) #%>% unique()
+message(dates[i])
+
+}
+   
+dayswithdatalist
+dayswithdatalist <- dayswithdatalist %>% unlist() %>% as.data.frame()
+# rename column
+colnames(dayswithdatalist)[colnames(dayswithdatalist)=="."] <- "h2"
+head(dayswithdatalist)
+dayswithdatalist <- dayswithdatalist %>% mutate(h2 = mdy(h2), h2 = as.character(h2))
+as_tibble(dayswithdatalist)
+# remove hyphens to match url format
+dayswithdatalist$h2 <- gsub("-","",dayswithdatalist$h2)
+as_tibble(dayswithdatalist)
+
+# remove the days with no data (the NAs)
+dayswithdatalist <- dayswithdatalist[complete.cases(dayswithdatalist), ]
+as_tibble(dayswithdatalist)
+
+
+
+ # year <- as.character(year(dates[i]))
+ # monthnum <- as.character(month(dates[i]))
+ # dayofmon <- as.character(day(dates[i]))
+  
   
 cdec_swe_table <- "http://cdec.water.ca.gov/reportapp/javareports?name=PAGE6.20191230"
 
-date <- mdy(html_text(html_node(read_html(page),"h2 , h2"))) #.h2 & pre Id'd by SelectorGadget
+date <- mdy(html_text(html_node(read_html(page),"h2 , h2"))) 
 
 date1 <- gsub("-","",date)
 
@@ -73,17 +112,23 @@ cdec_swe_table <- cdec_swe_table %>% transmute(Station, ID,
 head(cdec_swe_table)
 
 
-cdec_swe_table2 <- cdec_swe_table %>% pivot_longer(3:7)
+cdec_swe_table <- cdec_swe_table %>% pivot_longer(3:ncol(cdec_swe_table))
 head(cdec_swe_table2)
 
 # remove any non numeric characters
-cdec_swe_table2$value <- as.numeric(gsub("[^0-9.-]", "", cdec_swe_table2$value))
-head(cdec_swe_table2)
+cdec_swe_table$value <- as.numeric(gsub("[^0-9.-]", "", cdec_swe_table$value))
+head(cdec_swe_table)
+
+# pivot wider to calculate some new difference parameters
+
+cdec_swe_table <- cdec_swe_table %>% pivot_wider(names_from = name)
+cdec_swe_table <- cdec_swe_table %>% mutate(dailydiff = swe_latest - swe_24hrprev)
+
 
 
 cdec_swe_table <- st_as_sf(cdec_swe_table, coords = c("lon", "lat"), crs = 4326) 
-
-
+cdec_swe_table <- cdec_swe_table %>% pivot_longer(3:ncol(cdec_swe_table))
+head(cdec_swe_table)
 # -----------------------------
 
 zones <- readOGR(".", "cnrfc_zones_11052019_wgs84_thin_0.1_ret") %>% st_as_sf()
