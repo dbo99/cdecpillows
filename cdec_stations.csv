@@ -1,4 +1,4 @@
-ID,dwr_name,dwr_elev,lat,lon,dwrapr1mean,oper,river
+dwr3id,name_cdec,elev_cdec,lat,lon,apr1mean_cdec,oper,river
 CWF,CROWDER FLAT,5100,41.893398,-120.7519,NA,NRCS,Klamath River
 MB3,MIDDLE BOULDER 3,6200,41.224998,-122.810997,28.3,CaDWR,Scott River
 SCT,SCOTT MOUNTAIN,5900,41.271999,-122.718002,16,CaDWR,Scott River

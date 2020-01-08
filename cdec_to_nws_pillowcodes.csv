@@ -1,129 +1,130 @@
-dwr3id, nws5id, river
-PET, PTFC1, trinity
-RRM, RRMC1, trinity
-BNK, BNKC1, trinity
-SHM, SHMC1, trinity
-MB3, MDBC1, trinity
-HIG, HIGC1, trinity
-SCT, SCMC1, trinity
-MUM, MUMC1, trinity
-BFL, BFLC1, trinity
-CWF, CRWC1, trinity
-CDP, CDRC1, sacramento 
-BLA, BLXC1, sacramento
-SDF, SDFC1, sacramento
-MED, MDCC1, sacramento
-ADM, ADMC1, sacramento
-SNM, SNWC1, sacramento
-SLT, SLTC1, sacramento
-STM, STMC1, sacramento
-LLP, LLPC1, feather
-KTL, KRKC1, feather
-GRZ, GRZC1, feather
-PLP, PLPC1, feather
-GOL, GDLC1, feather
-HMB, HMGC1, feather
-HRK, HRKC1, feather
-RTL, RTLC1, feather
-BKL, BKLC1, feather
-FOR, FRTC1, feather
-NLS, NLSC1, eel
-MDW, MELC1, yuba
-RCC, RCWC1, yuba
-SCN, SCEC1, american
-LOS, LLSC1, american
-CXS, CXSC1, american
-CAP, CPSC1, american
-ALP, APHC1, american
-FRN, FOIC1, american
-SIL, SILC1, american
-CSL, CSSC1, american
-VVL, VNVC1, american
-HYS, HYSC1, american
-RBB, RBSC1, american
-GKS, GKSC1, american
-BLC, BCYC1, american
-RBP, POLC1, american
-HHM, HHMC1, mokelumne
-BLK, BLAC1, mokelumne
-BLD, BLCC1, stanislaus
-BLS, BLSC1, stanislaus
-DDM, DDMC1, stanislaus
-GNL, GNLC1, stanislaus
-REL, RELC1, stanislaus
-SLM, SLMC1, stanislaus
-DAN, TIOC1, tuolumne
-SLI, SLIC1, tuolumne
-TUM, TUMC1, tuolumne
-HRS, HRSC1, tuolumne
-WHW, WWRC1, tuolumne
-PDS, PDSC1, tuolumne
-GIN, GINC1, tuolumne
-KIB, KIBC1, tuolumne
-STR, OSTC1, merced
-TNY, TYLC1, merced
-VLC, VKOC1, sanjoaquin
-AGP, AGPC1, sanjoaquin
-KSP, KSPC1, sanjoaquin
-GRM, GRMC1, sanjoaquin
-DPO, DPPC1, sanjoaquin
-TMR, TMRC1, sanjoaquin
-CHM, CHMC1, sanjoaquin
-HNT, HNTC1, sanjoaquin
-GRV, GVYC1, sanjoaquin
-PSR, POSC1, sanjoaquin
-BSH, BSHC1, kings
-CRL, CRLC1, kings
-STL, STZC1, kings
-BCB, BCBC1, kings
-MTM, MITC1, kings
-UBC, UBCC1, kings
-WWC, WCKC1, kings
-BIM, BIMC1, kings
-FRW, FGPC1, kaweah
-QUA, QUAC1, kaweah
-GNF, GNFC1, kaweah
-UTY, UTYC1, kern
-CBT, CBTC1, kern
-CHP, CHPC1, kern
-PSC, PSCC1, kern
-WTM, WEMC1, kern
-TUN, TUNC1, kern
-CSV, CVMC1, kern
-BCH, BCHC1, kern
-DSS, DMLC1, surprise
-BMW, BIMC1, truckee
-IDP, ILKC1, truckee
-SQV, SQWC1, truckee
-IDC, ICPC1, truckee
-INN, ICKC1, truckee
-TK2, TRUC1, truckee
-MSK, MRSN2, tahoe
-HVN, HVNC1, tahoe
-HGM, HGNC1, tahoe
-MRL, MRLN2, tahoe
-EP5, ECOC1, tahoe
-RP2, RUBC1, tahoe
-TCC, THOC1, tahoe
-WC3, WRDC1, tahoe
-FLL, FLFC1, tahoe
-EBB, EBTC1, carson
-HOR, HORC1, carson
-MNT, MNPC1, carson
-BSK, BSKC1, carson
-FDC, FDCC1, carson
-PSN, XXXC1, carson
-SPT, SPCC1, carson
-LVT, LELC1, walker
-SDW, SDWC1, walker
-VRG, VGAC1, walker
-LBD, LOBC1, walker
-SPS, SRAC1, walker
-LVM, LVTC1, walker
-GEM, JEMC1, owens
-SWM, SAWC1, owens
-CWD, CWDC1, owens
-BGP, BGPC1, owens
-RCK, RKKC1, owens
-SLK, SOUC1, owens
-MHP, MAMC1, owens
+dwr3id,nws5id,river
+NLS,NLSC1,Eel
+PET,PTFC1,Trinity
+RRM,RRMC1,Trinity
+BNK,BNKC1,Trinity
+SHM,SHMC1,Trinity
+MB3,MDBC1,Trinity
+HIG,HIGC1,Trinity
+SCT,SCMC1,Trinity
+MUM,MUMC1,Trinity
+BFL,BFLC1,Trinity
+CWF,CRWC1,Trinity
+CDP,CDRC1,Sacramento 
+BLA,BLXC1,Sacramento
+SDF,SDFC1,Sacramento
+MED,MDCC1,Sacramento
+ADM,ADMC1,Sacramento
+SNM,SNWC1,Sacramento
+SLT,SLTC1,Sacramento
+STM,STMC1,Sacramento
+LLP,LLPC1,Feather
+KTL,KRKC1,Feather
+GRZ,GRZC1,Feather
+PLP,PLPC1,Feather
+GOL,GDLC1,Feather
+HMB,HMGC1,Feather
+HRK,HRKC1,Feather
+RTL,RTLC1,Feather
+BKL,BKLC1,Feather
+FOR,FRTC1,Feather
+MDW,MELC1,Yuba
+RCC,RCWC1,Yuba
+CSL,CSSC1,Yuba
+SSM,SSMC1,Yuba
+SCN,SCEC1,American
+LOS,LLSC1,American
+CXS,CXSC1,American
+CAP,CPSC1,American
+ALP,APHC1,American
+FRN,FOIC1,American
+SIL,SILC1,American
+VVL,VNVC1,American
+HYS,HYSC1,American
+RBB,RBSC1,American
+GKS,GKSC1,American
+BLC,BCYC1,American
+RBP,POLC1,American
+HHM,HHMC1,Mokelumne
+BLK,BLAC1,Mokelumne
+BLD,BLCC1,Stanislaus
+BLS,BLSC1,Stanislaus
+DDM,DDMC1,Stanislaus
+GNL,GNLC1,Stanislaus
+REL,RELC1,Stanislaus
+SLM,SLMC1,Stanislaus
+DAN,TIOC1,Tuolumne
+SLI,SLIC1,Tuolumne
+TUM,TUMC1,Tuolumne
+HRS,HRSC1,Tuolumne
+WHW,WWRC1,Tuolumne
+PDS,PDSC1,Tuolumne
+GIN,GINC1,Tuolumne
+KIB,KIBC1,Tuolumne
+STR,OSTC1,Merced
+TNY,TYLC1,Merced
+VLC,VKOC1,San Joaquin
+AGP,AGPC1,San Joaquin
+KSP,KSPC1,San Joaquin
+GRM,GRMC1,San Joaquin
+DPO,DPPC1,San Joaquin
+TMR,TMRC1,San Joaquin
+CHM,CHMC1,San Joaquin
+HNT,HNTC1,San Joaquin
+GRV,GVYC1,San Joaquin
+PSR,POSC1,San Joaquin
+BSH,BSHC1,Kings
+CRL,CRLC1,Kings
+STL,STZC1,Kings
+BCB,BCBC1,Kings
+MTM,MITC1,Kings
+UBC,UBCC1,Kings
+WWC,WCKC1,Kings
+BIM,BIMC1,Kings
+FRW,FGPC1,Kaweah
+QUA,QUAC1,Kaweah
+GNF,GNFC1,Kaweah
+UTY,UTYC1,Kern
+CBT,CBTC1,Kern
+CHP,CHPC1,Kern
+PSC,PSCC1,Kern
+WTM,WEMC1,Kern
+TUN,TUNC1,Kern
+CSV,CVMC1,Kern
+BCH,BCHC1,Kern
+DSS,DMLC1,Surprise
+BMW,BIMC1,Truckee
+IDP,ILKC1,Truckee
+SQV,SQWC1,Truckee
+IDC,ICPC1,Truckee
+INN,ICKC1,Truckee
+TK2,TRUC1,Truckee
+MSK,MRSN2,Tahoe
+HVN,HVNC1,Tahoe
+HGM,HGNC1,Tahoe
+MRL,MRLN2,Tahoe
+EP5,ECOC1,Tahoe
+RP2,RUBC1,Tahoe
+TCC,THOC1,Tahoe
+WC3,WRDC1,Tahoe
+FLL,FLFC1,Tahoe
+EBB,EBTC1,Carson
+HOR,HORC1,Carson
+MNT,MNPC1,Carson
+BSK,BSKC1,Carson
+FDC,FDCC1,Carson
+PSN,XXXC1,Carson
+SPT,SPCC1,Carson
+LVT,LELC1,Walker
+SDW,SDWC1,Walker
+VRG,VGAC1,Walker
+LBD,LOBC1,Walker
+SPS,SRAC1,Walker
+LVM,LVTC1,Walker
+GEM,JEMC1,Owens
+SWM,SAWC1,Owens
+CWD,CWDC1,Owens
+BGP,BGPC1,Owens
+RCK,RKKC1,Owens
+SLK,SOUC1,Owens
+MHP,MAMC1,Owens

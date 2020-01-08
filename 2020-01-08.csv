@@ -1,0 +1,2093 @@
+station,dwr3id,pname,value,cdecday
+Peterson Flat,PET,swe_latest,5.9,2019-12-29
+Peterson Flat,PET,swe_percapr1,20,2019-12-29
+Red Rock Mountain,RRM,swe_latest,14.8,2019-12-29
+Red Rock Mountain,RRM,swe_percapr1,37,2019-12-29
+Bonanza King,BNK,swe_latest,9.1,2019-12-29
+Bonanza King,BNK,swe_percapr1,23,2019-12-29
+Shimmy Lake,SHM,swe_latest,8.7,2019-12-29
+Shimmy Lake,SHM,swe_percapr1,22,2019-12-29
+Middle Boulder 3,MB3,swe_latest,10.8,2019-12-29
+Middle Boulder 3,MB3,swe_percapr1,38,2019-12-29
+Scott Mountain,SCT,swe_latest,2.5,2019-12-29
+Scott Mountain,SCT,swe_percapr1,16,2019-12-29
+Mumbo Basin,MUM,swe_latest,7.2,2019-12-29
+Mumbo Basin,MUM,swe_percapr1,32,2019-12-29
+Big Flat,BFL,swe_latest,5.6,2019-12-29
+Big Flat,BFL,swe_percapr1,36,2019-12-29
+Crowder Flat,CWF,swe_latest,1,2019-12-29
+Cedar Pass,CDP,swe_latest,5.7,2019-12-29
+Cedar Pass,CDP,swe_percapr1,31,2019-12-29
+Sand Flat,SDF,swe_latest,8.5,2019-12-29
+Sand Flat,SDF,swe_percapr1,20,2019-12-29
+Medicine Lake,MED,swe_latest,8.4,2019-12-29
+Medicine Lake,MED,swe_percapr1,26,2019-12-29
+Adin Mountain,ADM,swe_latest,3.8,2019-12-29
+Adin Mountain,ADM,swe_percapr1,28,2019-12-29
+Snow Mountain,SNM,swe_latest,4.9,2019-12-29
+Snow Mountain,SNM,swe_percapr1,18,2019-12-29
+Slate Creek,SLT,swe_latest,2.4,2019-12-29
+Slate Creek,SLT,swe_percapr1,8,2019-12-29
+Stouts Meadow,STM,swe_latest,7.1,2019-12-29
+Stouts Meadow,STM,swe_percapr1,20,2019-12-29
+Kettle Rock,KTL,swe_latest,8.9,2019-12-29
+Kettle Rock,KTL,swe_percapr1,35,2019-12-29
+Grizzly Ridge,GRZ,swe_latest,9.6,2019-12-29
+Grizzly Ridge,GRZ,swe_percapr1,32,2019-12-29
+Pilot Peak,PLP,swe_latest,13.5,2019-12-29
+Pilot Peak,PLP,swe_percapr1,26,2019-12-29
+Gold Lake,GOL,swe_latest,11.2,2019-12-29
+Gold Lake,GOL,swe_percapr1,31,2019-12-29
+Humbug,HMB,swe_latest,15,2019-12-29
+Humbug,HMB,swe_percapr1,54,2019-12-29
+Harkness Flat,HRK,swe_latest,7.2,2019-12-29
+Harkness Flat,HRK,swe_percapr1,25,2019-12-29
+Rattlesnake,RTL,swe_latest,7.8,2019-12-29
+Rattlesnake,RTL,swe_percapr1,56,2019-12-29
+Bucks Lake,BKL,swe_latest,11.3,2019-12-29
+Bucks Lake,BKL,swe_percapr1,25,2019-12-29
+Four Trees,FOR,swe_latest,5.4,2019-12-29
+Four Trees,FOR,swe_percapr1,27,2019-12-29
+Noel Spring,NLS,swe_latest,0.7,2019-12-29
+Carson Pass,CXS,swe_latest,14,2019-12-29
+Alpha,ALP,swe_latest,13.1,2019-12-29
+Alpha,ALP,swe_percapr1,36,2019-12-29
+Forni Ridge,FRN,swe_latest,13.2,2019-12-29
+Forni Ridge,FRN,swe_percapr1,36,2019-12-29
+Meadow Lake,MDW,swe_latest,16.6,2019-12-29
+Meadow Lake,MDW,swe_percapr1,30,2019-12-29
+Silver Lake,SIL,swe_latest,11.8,2019-12-29
+Silver Lake,SIL,swe_percapr1,52,2019-12-29
+Central Sierra Snow Lab,CSL,swe_latest,12.9,2019-12-29
+Central Sierra Snow Lab,CSL,swe_percapr1,38,2019-12-29
+Van Vleck,VVL,swe_latest,14.3,2019-12-29
+Van Vleck,VVL,swe_percapr1,40,2019-12-29
+Robbs Saddle,RBB,swe_latest,3.5,2019-12-29
+Robbs Saddle,RBB,swe_percapr1,16,2019-12-29
+Blue Canyon,BLC,swe_latest,2,2019-12-29
+Blue Canyon,BLC,swe_percapr1,22,2019-12-29
+Robbs Powerhouse,RBP,swe_latest,1,2019-12-29
+Robbs Powerhouse,RBP,swe_percapr1,19,2019-12-29
+Deadman Creek,DDM,swe_latest,6.1,2019-12-29
+Deadman Creek,DDM,swe_percapr1,16,2019-12-29
+Highland Meadow,HHM,swe_latest,16.6,2019-12-29
+Highland Meadow,HHM,swe_percapr1,35,2019-12-29
+Gianelli Meadow,GNL,swe_latest,15.1,2019-12-29
+Gianelli Meadow,GNL,swe_percapr1,27,2019-12-29
+Blue Lakes,BLK,swe_latest,12.2,2019-12-29
+Blue Lakes,BLK,swe_percapr1,37,2019-12-29
+Stanislaus Meadow,SLM,swe_latest,19.1,2019-12-29
+Stanislaus Meadow,SLM,swe_percapr1,40,2019-12-29
+Bloods Creek,BLD,swe_latest,16.2,2019-12-29
+Bloods Creek,BLD,swe_percapr1,46,2019-12-29
+Black Springs,BLS,swe_latest,12.2,2019-12-29
+Black Springs,BLS,swe_percapr1,38,2019-12-29
+Dana Meadows,DAN,swe_latest,8.3,2019-12-29
+Dana Meadows,DAN,swe_percapr1,30,2019-12-29
+Slide Canyon,SLI,swe_latest,10.7,2019-12-29
+Slide Canyon,SLI,swe_percapr1,26,2019-12-29
+Tuolumne Meadows,TUM,swe_latest,6.5,2019-12-29
+Tuolumne Meadows,TUM,swe_percapr1,29,2019-12-29
+Horse Meadow,HRS,swe_latest,16.9,2019-12-29
+Horse Meadow,HRS,swe_percapr1,35,2019-12-29
+Ostrander Lake,STR,swe_latest,12.6,2019-12-29
+Ostrander Lake,STR,swe_percapr1,36,2019-12-29
+Lake Tenaya,TNY,swe_latest,11.3,2019-12-29
+Lake Tenaya,TNY,swe_percapr1,34,2019-12-29
+Paradise Meadow,PDS,swe_latest,12.7,2019-12-29
+Paradise Meadow,PDS,swe_percapr1,31,2019-12-29
+Gin Flat,GIN,swe_latest,8.7,2019-12-29
+Gin Flat,GIN,swe_percapr1,25,2019-12-29
+Lower Kibbie Ridge,KIB,swe_latest,7.3,2019-12-29
+Lower Kibbie Ridge,KIB,swe_percapr1,26,2019-12-29
+Volcanic Knob,VLC,swe_latest,10.9,2019-12-29
+Volcanic Knob,VLC,swe_percapr1,36,2019-12-29
+Kaiser Point,KSP,swe_latest,9.4,2019-12-29
+Kaiser Point,KSP,swe_percapr1,25,2019-12-29
+Green Mountain,GRM,swe_latest,9.7,2019-12-29
+Green Mountain,GRM,swe_percapr1,32,2019-12-29
+Chilkoot Meadow,CHM,swe_latest,10.2,2019-12-29
+Chilkoot Meadow,CHM,swe_percapr1,27,2019-12-29
+Huntington Lake,HNT,swe_latest,8,2019-12-29
+Huntington Lake,HNT,swe_percapr1,40,2019-12-29
+Graveyard Meadow,GRV,swe_latest,7.2,2019-12-29
+Graveyard Meadow,GRV,swe_percapr1,39,2019-12-29
+Poison Ridge,PSR,swe_latest,12,2019-12-29
+Poison Ridge,PSR,swe_percapr1,41,2019-12-29
+Charlotte Lake,CRL,swe_latest,12.3,2019-12-29
+Charlotte Lake,CRL,swe_percapr1,45,2019-12-29
+State Lakes,STL,swe_latest,10.8,2019-12-29
+State Lakes,STL,swe_percapr1,37,2019-12-29
+Mitchell Meadow,MTM,swe_latest,12.6,2019-12-29
+Mitchell Meadow,MTM,swe_percapr1,38,2019-12-29
+Upper Burnt Corral,UBC,swe_latest,12.7,2019-12-29
+Upper Burnt Corral,UBC,swe_percapr1,37,2019-12-29
+West Woodchuck Meadow,WWC,swe_latest,14.1,2019-12-29
+West Woodchuck Meadow,WWC,swe_percapr1,43,2019-12-29
+Quaking Aspen,QUA,swe_latest,9.8,2019-12-29
+Quaking Aspen,QUA,swe_percapr1,47,2019-12-29
+Giant Forest,GNF,swe_latest,4.7,2019-12-29
+Giant Forest,GNF,swe_percapr1,47,2019-12-29
+Upper Tyndall Creek,UTY,swe_latest,6.2,2019-12-29
+Upper Tyndall Creek,UTY,swe_percapr1,22,2019-12-29
+Crabtree Meadow,CBT,swe_latest,5.6,2019-12-29
+Crabtree Meadow,CBT,swe_percapr1,28,2019-12-29
+Chagoopa Plateau,CHP,swe_latest,7.3,2019-12-29
+Chagoopa Plateau,CHP,swe_percapr1,34,2019-12-29
+Pascoes,PSC,swe_latest,9.6,2019-12-29
+Pascoes,PSC,swe_percapr1,39,2019-12-29
+Wet Meadows,WTM,swe_latest,10.8,2019-12-29
+Wet Meadows,WTM,swe_percapr1,35,2019-12-29
+Casa Vieja Meadows,CSV,swe_latest,8,2019-12-29
+Casa Vieja Meadows,CSV,swe_percapr1,38,2019-12-29
+Beach Meadows,BCH,swe_latest,5.4,2019-12-29
+Beach Meadows,BCH,swe_percapr1,49,2019-12-29
+Dismal Swamp,DSS,swe_latest,10.4,2019-12-29
+Dismal Swamp,DSS,swe_percapr1,36,2019-12-29
+Big Meadows,BMW,swe_latest,8.8,2019-12-29
+Big Meadows,BMW,swe_percapr1,34,2019-12-29
+Squaw Valley,SQV,swe_latest,16.4,2019-12-29
+Squaw Valley,SQV,swe_percapr1,35,2019-12-29
+Independence Creek,INN,swe_latest,4.1,2019-12-29
+Independence Creek,INN,swe_percapr1,32,2019-12-29
+Truckee 2,TK2,swe_latest,6.4,2019-12-29
+Truckee 2,TK2,swe_percapr1,45,2019-12-29
+Mount Rose Ski Area,MSK,swe_latest,15.6,2019-12-29
+Mount Rose Ski Area,MSK,swe_percapr1,41,2019-12-29
+Heavenly Valley,HVN,swe_latest,7.3,2019-12-29
+Heavenly Valley,HVN,swe_percapr1,26,2019-12-29
+Hagans Meadow,HGM,swe_latest,7.8,2019-12-29
+Hagans Meadow,HGM,swe_percapr1,47,2019-12-29
+Marlette Lake,MRL,swe_latest,9.4,2019-12-29
+Marlette Lake,MRL,swe_percapr1,45,2019-12-29
+Echo Peak 5,EP5,swe_latest,15.3,2019-12-29
+Echo Peak 5,EP5,swe_percapr1,39,2019-12-29
+Rubicon Peak 2,RP2,swe_latest,9.6,2019-12-29
+Rubicon Peak 2,RP2,swe_percapr1,33,2019-12-29
+Tahoe City Cross,TCC,swe_latest,6.7,2019-12-29
+Tahoe City Cross,TCC,swe_percapr1,42,2019-12-29
+Ward Creek 3,WC3,swe_latest,11.9,2019-12-29
+Ward Creek 3,WC3,swe_percapr1,30,2019-12-29
+Fallen Leaf Lake,FLL,swe_latest,2,2019-12-29
+Fallen Leaf Lake,FLL,swe_percapr1,29,2019-12-29
+Ebbetts Pass,EBB,swe_latest,14.2,2019-12-29
+Ebbetts Pass,EBB,swe_percapr1,37,2019-12-29
+Horse Meadow,HOR,swe_latest,9.8,2019-12-29
+Monitor Pass,MNT,swe_latest,5.7,2019-12-29
+Burnside Lake,BSK,swe_latest,12.5,2019-12-29
+Forestdale Creek,FDC,swe_latest,15.5,2019-12-29
+Poison Flat,PSN,swe_latest,6.8,2019-12-29
+Poison Flat,PSN,swe_percapr1,42,2019-12-29
+Spratt Creek,SPT,swe_latest,3.1,2019-12-29
+Spratt Creek,SPT,swe_percapr1,69,2019-12-29
+Leavitt Lake,LVT,swe_latest,17.9,2019-12-29
+Summit Meadow,SDW,swe_latest,6.5,2019-12-29
+Virginia Lakes,VRG,swe_latest,4.3,2019-12-29
+Virginia Lakes,VRG,swe_percapr1,21,2019-12-29
+Lobdell Lake,LBD,swe_latest,3.2,2019-12-29
+Lobdell Lake,LBD,swe_percapr1,18,2019-12-29
+Sonora Pass Bridge,SPS,swe_latest,7.1,2019-12-29
+Sonora Pass Bridge,SPS,swe_percapr1,27,2019-12-29
+Leavitt Meadows,LVM,swe_latest,5.4,2019-12-29
+Leavitt Meadows,LVM,swe_percapr1,68,2019-12-29
+Gem Pass,GEM,swe_latest,6.7,2019-12-29
+Gem Pass,GEM,swe_percapr1,21,2019-12-29
+Sawmill,SWM,swe_latest,6.6,2019-12-29
+Sawmill,SWM,swe_percapr1,34,2019-12-29
+Cottonwood Lakes,CWD,swe_latest,7,2019-12-29
+Cottonwood Lakes,CWD,swe_percapr1,60,2019-12-29
+Rock Creek Lakes,RCK,swe_latest,4.8,2019-12-29
+Rock Creek Lakes,RCK,swe_percapr1,35,2019-12-29
+South Lake,SLK,swe_latest,4.9,2019-12-29
+South Lake,SLK,swe_percapr1,31,2019-12-29
+Mammoth Pass,MHP,swe_latest,10.8,2019-12-29
+Mammoth Pass,MHP,swe_percapr1,25,2019-12-29
+Peterson Flat,PET,swe_latest,6,2019-12-30
+Peterson Flat,PET,swe_percapr1,21,2019-12-30
+Red Rock Mountain,RRM,swe_latest,15.4,2019-12-30
+Red Rock Mountain,RRM,swe_percapr1,39,2019-12-30
+Bonanza King,BNK,swe_latest,9.1,2019-12-30
+Bonanza King,BNK,swe_percapr1,23,2019-12-30
+Shimmy Lake,SHM,swe_latest,8.3,2019-12-30
+Shimmy Lake,SHM,swe_percapr1,21,2019-12-30
+Middle Boulder 3,MB3,swe_latest,10.4,2019-12-30
+Middle Boulder 3,MB3,swe_percapr1,37,2019-12-30
+Scott Mountain,SCT,swe_latest,2.6,2019-12-30
+Scott Mountain,SCT,swe_percapr1,16,2019-12-30
+Mumbo Basin,MUM,swe_latest,7.6,2019-12-30
+Mumbo Basin,MUM,swe_percapr1,34,2019-12-30
+Big Flat,BFL,swe_latest,5.2,2019-12-30
+Big Flat,BFL,swe_percapr1,33,2019-12-30
+Crowder Flat,CWF,swe_latest,1.2,2019-12-30
+Cedar Pass,CDP,swe_latest,5.7,2019-12-30
+Cedar Pass,CDP,swe_percapr1,31,2019-12-30
+Sand Flat,SDF,swe_latest,8.6,2019-12-30
+Sand Flat,SDF,swe_percapr1,20,2019-12-30
+Medicine Lake,MED,swe_latest,8.3,2019-12-30
+Medicine Lake,MED,swe_percapr1,25,2019-12-30
+Adin Mountain,ADM,swe_latest,3.3,2019-12-30
+Adin Mountain,ADM,swe_percapr1,24,2019-12-30
+Snow Mountain,SNM,swe_latest,5,2019-12-30
+Snow Mountain,SNM,swe_percapr1,19,2019-12-30
+Slate Creek,SLT,swe_latest,2.4,2019-12-30
+Slate Creek,SLT,swe_percapr1,8,2019-12-30
+Stouts Meadow,STM,swe_latest,7.1,2019-12-30
+Stouts Meadow,STM,swe_percapr1,20,2019-12-30
+Kettle Rock,KTL,swe_latest,9,2019-12-30
+Kettle Rock,KTL,swe_percapr1,35,2019-12-30
+Grizzly Ridge,GRZ,swe_latest,9.7,2019-12-30
+Grizzly Ridge,GRZ,swe_percapr1,33,2019-12-30
+Pilot Peak,PLP,swe_latest,13.1,2019-12-30
+Pilot Peak,PLP,swe_percapr1,25,2019-12-30
+Gold Lake,GOL,swe_latest,11.8,2019-12-30
+Gold Lake,GOL,swe_percapr1,32,2019-12-30
+Humbug,HMB,swe_latest,15,2019-12-30
+Humbug,HMB,swe_percapr1,54,2019-12-30
+Harkness Flat,HRK,swe_latest,7.2,2019-12-30
+Harkness Flat,HRK,swe_percapr1,25,2019-12-30
+Rattlesnake,RTL,swe_latest,8,2019-12-30
+Rattlesnake,RTL,swe_percapr1,57,2019-12-30
+Bucks Lake,BKL,swe_latest,11.4,2019-12-30
+Bucks Lake,BKL,swe_percapr1,26,2019-12-30
+Four Trees,FOR,swe_latest,5.4,2019-12-30
+Four Trees,FOR,swe_percapr1,27,2019-12-30
+Noel Spring,NLS,swe_latest,0.7,2019-12-30
+Carson Pass,CXS,swe_latest,14,2019-12-30
+Alpha,ALP,swe_latest,13.1,2019-12-30
+Alpha,ALP,swe_percapr1,36,2019-12-30
+Forni Ridge,FRN,swe_latest,13.3,2019-12-30
+Forni Ridge,FRN,swe_percapr1,36,2019-12-30
+Meadow Lake,MDW,swe_latest,16.7,2019-12-30
+Meadow Lake,MDW,swe_percapr1,30,2019-12-30
+Silver Lake,SIL,swe_latest,11.9,2019-12-30
+Silver Lake,SIL,swe_percapr1,52,2019-12-30
+Central Sierra Snow Lab,CSL,swe_latest,12.9,2019-12-30
+Central Sierra Snow Lab,CSL,swe_percapr1,38,2019-12-30
+Van Vleck,VVL,swe_latest,14.2,2019-12-30
+Van Vleck,VVL,swe_percapr1,39,2019-12-30
+Robbs Saddle,RBB,swe_latest,3.6,2019-12-30
+Robbs Saddle,RBB,swe_percapr1,17,2019-12-30
+Blue Canyon,BLC,swe_latest,2.2,2019-12-30
+Blue Canyon,BLC,swe_percapr1,25,2019-12-30
+Robbs Powerhouse,RBP,swe_latest,0.9,2019-12-30
+Robbs Powerhouse,RBP,swe_percapr1,17,2019-12-30
+Deadman Creek,DDM,swe_latest,6.1,2019-12-30
+Deadman Creek,DDM,swe_percapr1,16,2019-12-30
+Highland Meadow,HHM,swe_latest,17,2019-12-30
+Highland Meadow,HHM,swe_percapr1,35,2019-12-30
+Gianelli Meadow,GNL,swe_latest,15.1,2019-12-30
+Gianelli Meadow,GNL,swe_percapr1,27,2019-12-30
+Blue Lakes,BLK,swe_latest,12.4,2019-12-30
+Blue Lakes,BLK,swe_percapr1,37,2019-12-30
+Stanislaus Meadow,SLM,swe_latest,19.2,2019-12-30
+Stanislaus Meadow,SLM,swe_percapr1,40,2019-12-30
+Bloods Creek,BLD,swe_latest,16.3,2019-12-30
+Bloods Creek,BLD,swe_percapr1,46,2019-12-30
+Black Springs,BLS,swe_latest,12.2,2019-12-30
+Black Springs,BLS,swe_percapr1,38,2019-12-30
+Dana Meadows,DAN,swe_latest,8.3,2019-12-30
+Dana Meadows,DAN,swe_percapr1,30,2019-12-30
+Slide Canyon,SLI,swe_latest,10.8,2019-12-30
+Slide Canyon,SLI,swe_percapr1,26,2019-12-30
+Tuolumne Meadows,TUM,swe_latest,6.6,2019-12-30
+Tuolumne Meadows,TUM,swe_percapr1,29,2019-12-30
+Horse Meadow,HRS,swe_latest,17,2019-12-30
+Horse Meadow,HRS,swe_percapr1,35,2019-12-30
+Ostrander Lake,STR,swe_latest,12.6,2019-12-30
+Ostrander Lake,STR,swe_percapr1,36,2019-12-30
+Lake Tenaya,TNY,swe_latest,11.3,2019-12-30
+Lake Tenaya,TNY,swe_percapr1,34,2019-12-30
+Paradise Meadow,PDS,swe_latest,12.7,2019-12-30
+Paradise Meadow,PDS,swe_percapr1,31,2019-12-30
+Gin Flat,GIN,swe_latest,8.8,2019-12-30
+Gin Flat,GIN,swe_percapr1,26,2019-12-30
+Lower Kibbie Ridge,KIB,swe_latest,7.2,2019-12-30
+Lower Kibbie Ridge,KIB,swe_percapr1,26,2019-12-30
+Volcanic Knob,VLC,swe_latest,11,2019-12-30
+Volcanic Knob,VLC,swe_percapr1,37,2019-12-30
+Kaiser Point,KSP,swe_latest,9.5,2019-12-30
+Kaiser Point,KSP,swe_percapr1,25,2019-12-30
+Green Mountain,GRM,swe_latest,9.7,2019-12-30
+Green Mountain,GRM,swe_percapr1,32,2019-12-30
+Chilkoot Meadow,CHM,swe_latest,10.2,2019-12-30
+Chilkoot Meadow,CHM,swe_percapr1,27,2019-12-30
+Huntington Lake,HNT,swe_latest,8,2019-12-30
+Huntington Lake,HNT,swe_percapr1,40,2019-12-30
+Graveyard Meadow,GRV,swe_latest,7.2,2019-12-30
+Graveyard Meadow,GRV,swe_percapr1,39,2019-12-30
+Poison Ridge,PSR,swe_latest,12,2019-12-30
+Poison Ridge,PSR,swe_percapr1,41,2019-12-30
+Charlotte Lake,CRL,swe_latest,12.5,2019-12-30
+Charlotte Lake,CRL,swe_percapr1,45,2019-12-30
+State Lakes,STL,swe_latest,11.1,2019-12-30
+State Lakes,STL,swe_percapr1,38,2019-12-30
+Mitchell Meadow,MTM,swe_latest,12.7,2019-12-30
+Mitchell Meadow,MTM,swe_percapr1,39,2019-12-30
+Upper Burnt Corral,UBC,swe_latest,12.7,2019-12-30
+Upper Burnt Corral,UBC,swe_percapr1,37,2019-12-30
+West Woodchuck Meadow,WWC,swe_latest,14.1,2019-12-30
+West Woodchuck Meadow,WWC,swe_percapr1,43,2019-12-30
+Quaking Aspen,QUA,swe_latest,9.9,2019-12-30
+Quaking Aspen,QUA,swe_percapr1,47,2019-12-30
+Giant Forest,GNF,swe_latest,4.7,2019-12-30
+Giant Forest,GNF,swe_percapr1,47,2019-12-30
+Upper Tyndall Creek,UTY,swe_latest,6.2,2019-12-30
+Upper Tyndall Creek,UTY,swe_percapr1,22,2019-12-30
+Crabtree Meadow,CBT,swe_latest,5.7,2019-12-30
+Crabtree Meadow,CBT,swe_percapr1,29,2019-12-30
+Chagoopa Plateau,CHP,swe_latest,7.4,2019-12-30
+Chagoopa Plateau,CHP,swe_percapr1,34,2019-12-30
+Pascoes,PSC,swe_latest,9.6,2019-12-30
+Pascoes,PSC,swe_percapr1,39,2019-12-30
+Wet Meadows,WTM,swe_latest,10.9,2019-12-30
+Wet Meadows,WTM,swe_percapr1,36,2019-12-30
+Casa Vieja Meadows,CSV,swe_latest,8,2019-12-30
+Casa Vieja Meadows,CSV,swe_percapr1,38,2019-12-30
+Beach Meadows,BCH,swe_latest,5.4,2019-12-30
+Beach Meadows,BCH,swe_percapr1,49,2019-12-30
+Dismal Swamp,DSS,swe_latest,10.3,2019-12-30
+Dismal Swamp,DSS,swe_percapr1,35,2019-12-30
+Big Meadows,BMW,swe_latest,8.9,2019-12-30
+Big Meadows,BMW,swe_percapr1,35,2019-12-30
+Squaw Valley,SQV,swe_latest,16.2,2019-12-30
+Squaw Valley,SQV,swe_percapr1,35,2019-12-30
+Independence Creek,INN,swe_latest,4.3,2019-12-30
+Independence Creek,INN,swe_percapr1,34,2019-12-30
+Truckee 2,TK2,swe_latest,6.2,2019-12-30
+Truckee 2,TK2,swe_percapr1,43,2019-12-30
+Mount Rose Ski Area,MSK,swe_latest,15.8,2019-12-30
+Mount Rose Ski Area,MSK,swe_percapr1,41,2019-12-30
+Heavenly Valley,HVN,swe_latest,7.3,2019-12-30
+Heavenly Valley,HVN,swe_percapr1,26,2019-12-30
+Hagans Meadow,HGM,swe_latest,7.9,2019-12-30
+Hagans Meadow,HGM,swe_percapr1,48,2019-12-30
+Marlette Lake,MRL,swe_latest,9.5,2019-12-30
+Marlette Lake,MRL,swe_percapr1,45,2019-12-30
+Echo Peak 5,EP5,swe_latest,15.6,2019-12-30
+Echo Peak 5,EP5,swe_percapr1,39,2019-12-30
+Rubicon Peak 2,RP2,swe_latest,9.6,2019-12-30
+Rubicon Peak 2,RP2,swe_percapr1,33,2019-12-30
+Tahoe City Cross,TCC,swe_latest,6.6,2019-12-30
+Tahoe City Cross,TCC,swe_percapr1,41,2019-12-30
+Ward Creek 3,WC3,swe_latest,11.9,2019-12-30
+Ward Creek 3,WC3,swe_percapr1,30,2019-12-30
+Fallen Leaf Lake,FLL,swe_latest,2.1,2019-12-30
+Fallen Leaf Lake,FLL,swe_percapr1,30,2019-12-30
+Ebbetts Pass,EBB,swe_latest,14.4,2019-12-30
+Ebbetts Pass,EBB,swe_percapr1,37,2019-12-30
+Horse Meadow,HOR,swe_latest,9.8,2019-12-30
+Monitor Pass,MNT,swe_latest,5.8,2019-12-30
+Burnside Lake,BSK,swe_latest,12.7,2019-12-30
+Forestdale Creek,FDC,swe_latest,15.6,2019-12-30
+Poison Flat,PSN,swe_latest,7,2019-12-30
+Poison Flat,PSN,swe_percapr1,43,2019-12-30
+Spratt Creek,SPT,swe_latest,3.3,2019-12-30
+Spratt Creek,SPT,swe_percapr1,73,2019-12-30
+Leavitt Lake,LVT,swe_latest,18.1,2019-12-30
+Summit Meadow,SDW,swe_latest,6.7,2019-12-30
+Virginia Lakes,VRG,swe_latest,4.4,2019-12-30
+Virginia Lakes,VRG,swe_percapr1,22,2019-12-30
+Lobdell Lake,LBD,swe_latest,3.2,2019-12-30
+Lobdell Lake,LBD,swe_percapr1,18,2019-12-30
+Sonora Pass Bridge,SPS,swe_latest,7.2,2019-12-30
+Sonora Pass Bridge,SPS,swe_percapr1,28,2019-12-30
+Leavitt Meadows,LVM,swe_latest,5.3,2019-12-30
+Leavitt Meadows,LVM,swe_percapr1,66,2019-12-30
+Gem Pass,GEM,swe_latest,6.8,2019-12-30
+Gem Pass,GEM,swe_percapr1,21,2019-12-30
+Sawmill,SWM,swe_latest,6.6,2019-12-30
+Sawmill,SWM,swe_percapr1,34,2019-12-30
+Cottonwood Lakes,CWD,swe_latest,7,2019-12-30
+Cottonwood Lakes,CWD,swe_percapr1,61,2019-12-30
+Rock Creek Lakes,RCK,swe_latest,4.8,2019-12-30
+Rock Creek Lakes,RCK,swe_percapr1,35,2019-12-30
+South Lake,SLK,swe_latest,4.9,2019-12-30
+South Lake,SLK,swe_percapr1,31,2019-12-30
+Mammoth Pass,MHP,swe_latest,10.8,2019-12-30
+Mammoth Pass,MHP,swe_percapr1,25,2019-12-30
+Peterson Flat,PET,swe_latest,6.1,2019-12-31
+Peterson Flat,PET,swe_percapr1,21,2019-12-31
+Red Rock Mountain,RRM,swe_latest,15.4,2019-12-31
+Red Rock Mountain,RRM,swe_percapr1,39,2019-12-31
+Bonanza King,BNK,swe_latest,9.2,2019-12-31
+Bonanza King,BNK,swe_percapr1,23,2019-12-31
+Shimmy Lake,SHM,swe_latest,8.5,2019-12-31
+Shimmy Lake,SHM,swe_percapr1,21,2019-12-31
+Middle Boulder 3,MB3,swe_latest,10.5,2019-12-31
+Middle Boulder 3,MB3,swe_percapr1,37,2019-12-31
+Scott Mountain,SCT,swe_latest,2.8,2019-12-31
+Scott Mountain,SCT,swe_percapr1,17,2019-12-31
+Mumbo Basin,MUM,swe_latest,7.2,2019-12-31
+Mumbo Basin,MUM,swe_percapr1,32,2019-12-31
+Big Flat,BFL,swe_latest,5,2019-12-31
+Big Flat,BFL,swe_percapr1,32,2019-12-31
+Crowder Flat,CWF,swe_latest,1,2019-12-31
+Cedar Pass,CDP,swe_latest,5.7,2019-12-31
+Cedar Pass,CDP,swe_percapr1,31,2019-12-31
+Sand Flat,SDF,swe_latest,8.6,2019-12-31
+Sand Flat,SDF,swe_percapr1,20,2019-12-31
+Medicine Lake,MED,swe_latest,8.4,2019-12-31
+Medicine Lake,MED,swe_percapr1,26,2019-12-31
+Adin Mountain,ADM,swe_latest,3.4,2019-12-31
+Adin Mountain,ADM,swe_percapr1,25,2019-12-31
+Snow Mountain,SNM,swe_latest,5.4,2019-12-31
+Snow Mountain,SNM,swe_percapr1,20,2019-12-31
+Slate Creek,SLT,swe_latest,2.4,2019-12-31
+Slate Creek,SLT,swe_percapr1,8,2019-12-31
+Stouts Meadow,STM,swe_latest,7.1,2019-12-31
+Stouts Meadow,STM,swe_percapr1,20,2019-12-31
+Kettle Rock,KTL,swe_latest,9,2019-12-31
+Kettle Rock,KTL,swe_percapr1,35,2019-12-31
+Grizzly Ridge,GRZ,swe_latest,9.7,2019-12-31
+Grizzly Ridge,GRZ,swe_percapr1,33,2019-12-31
+Pilot Peak,PLP,swe_latest,13,2019-12-31
+Pilot Peak,PLP,swe_percapr1,25,2019-12-31
+Gold Lake,GOL,swe_latest,12,2019-12-31
+Gold Lake,GOL,swe_percapr1,33,2019-12-31
+Humbug,HMB,swe_latest,15,2019-12-31
+Humbug,HMB,swe_percapr1,54,2019-12-31
+Harkness Flat,HRK,swe_latest,7.5,2019-12-31
+Harkness Flat,HRK,swe_percapr1,26,2019-12-31
+Rattlesnake,RTL,swe_latest,8.2,2019-12-31
+Rattlesnake,RTL,swe_percapr1,58,2019-12-31
+Bucks Lake,BKL,swe_latest,11.6,2019-12-31
+Bucks Lake,BKL,swe_percapr1,26,2019-12-31
+Four Trees,FOR,swe_latest,5.5,2019-12-31
+Four Trees,FOR,swe_percapr1,28,2019-12-31
+Noel Spring,NLS,swe_latest,1.1,2019-12-31
+Carson Pass,CXS,swe_latest,14.1,2019-12-31
+Alpha,ALP,swe_latest,13.1,2019-12-31
+Alpha,ALP,swe_percapr1,36,2019-12-31
+Forni Ridge,FRN,swe_latest,13.3,2019-12-31
+Forni Ridge,FRN,swe_percapr1,36,2019-12-31
+Meadow Lake,MDW,swe_latest,16.7,2019-12-31
+Meadow Lake,MDW,swe_percapr1,30,2019-12-31
+Silver Lake,SIL,swe_latest,11.9,2019-12-31
+Silver Lake,SIL,swe_percapr1,53,2019-12-31
+Central Sierra Snow Lab,CSL,swe_latest,12.8,2019-12-31
+Central Sierra Snow Lab,CSL,swe_percapr1,38,2019-12-31
+Van Vleck,VVL,swe_latest,14.1,2019-12-31
+Van Vleck,VVL,swe_percapr1,39,2019-12-31
+Robbs Saddle,RBB,swe_latest,3.5,2019-12-31
+Robbs Saddle,RBB,swe_percapr1,16,2019-12-31
+Blue Canyon,BLC,swe_latest,2,2019-12-31
+Blue Canyon,BLC,swe_percapr1,22,2019-12-31
+Robbs Powerhouse,RBP,swe_latest,1,2019-12-31
+Robbs Powerhouse,RBP,swe_percapr1,18,2019-12-31
+Deadman Creek,DDM,swe_latest,6.1,2019-12-31
+Deadman Creek,DDM,swe_percapr1,16,2019-12-31
+Highland Meadow,HHM,swe_latest,16.7,2019-12-31
+Highland Meadow,HHM,swe_percapr1,35,2019-12-31
+Gianelli Meadow,GNL,swe_latest,15.2,2019-12-31
+Gianelli Meadow,GNL,swe_percapr1,27,2019-12-31
+Blue Lakes,BLK,swe_latest,12.4,2019-12-31
+Blue Lakes,BLK,swe_percapr1,37,2019-12-31
+Stanislaus Meadow,SLM,swe_latest,19.3,2019-12-31
+Stanislaus Meadow,SLM,swe_percapr1,41,2019-12-31
+Bloods Creek,BLD,swe_latest,16.3,2019-12-31
+Bloods Creek,BLD,swe_percapr1,46,2019-12-31
+Black Springs,BLS,swe_latest,12.2,2019-12-31
+Black Springs,BLS,swe_percapr1,38,2019-12-31
+Dana Meadows,DAN,swe_latest,8.3,2019-12-31
+Dana Meadows,DAN,swe_percapr1,30,2019-12-31
+Slide Canyon,SLI,swe_latest,10.8,2019-12-31
+Slide Canyon,SLI,swe_percapr1,26,2019-12-31
+Tuolumne Meadows,TUM,swe_latest,6.5,2019-12-31
+Tuolumne Meadows,TUM,swe_percapr1,29,2019-12-31
+Horse Meadow,HRS,swe_latest,17,2019-12-31
+Horse Meadow,HRS,swe_percapr1,35,2019-12-31
+Ostrander Lake,STR,swe_latest,12.6,2019-12-31
+Ostrander Lake,STR,swe_percapr1,36,2019-12-31
+Lake Tenaya,TNY,swe_latest,11.3,2019-12-31
+Lake Tenaya,TNY,swe_percapr1,34,2019-12-31
+Paradise Meadow,PDS,swe_latest,12.7,2019-12-31
+Paradise Meadow,PDS,swe_percapr1,31,2019-12-31
+Gin Flat,GIN,swe_latest,8.8,2019-12-31
+Gin Flat,GIN,swe_percapr1,26,2019-12-31
+Lower Kibbie Ridge,KIB,swe_latest,7.2,2019-12-31
+Lower Kibbie Ridge,KIB,swe_percapr1,26,2019-12-31
+Volcanic Knob,VLC,swe_latest,11,2019-12-31
+Volcanic Knob,VLC,swe_percapr1,37,2019-12-31
+Kaiser Point,KSP,swe_latest,9.5,2019-12-31
+Kaiser Point,KSP,swe_percapr1,25,2019-12-31
+Green Mountain,GRM,swe_latest,9.7,2019-12-31
+Green Mountain,GRM,swe_percapr1,32,2019-12-31
+Chilkoot Meadow,CHM,swe_latest,10.2,2019-12-31
+Chilkoot Meadow,CHM,swe_percapr1,27,2019-12-31
+Huntington Lake,HNT,swe_latest,8,2019-12-31
+Huntington Lake,HNT,swe_percapr1,40,2019-12-31
+Graveyard Meadow,GRV,swe_latest,7.2,2019-12-31
+Graveyard Meadow,GRV,swe_percapr1,39,2019-12-31
+Poison Ridge,PSR,swe_latest,12.1,2019-12-31
+Poison Ridge,PSR,swe_percapr1,42,2019-12-31
+Charlotte Lake,CRL,swe_latest,12.5,2019-12-31
+Charlotte Lake,CRL,swe_percapr1,46,2019-12-31
+State Lakes,STL,swe_latest,11.1,2019-12-31
+State Lakes,STL,swe_percapr1,38,2019-12-31
+Mitchell Meadow,MTM,swe_latest,12.8,2019-12-31
+Mitchell Meadow,MTM,swe_percapr1,39,2019-12-31
+Upper Burnt Corral,UBC,swe_latest,12.7,2019-12-31
+Upper Burnt Corral,UBC,swe_percapr1,37,2019-12-31
+West Woodchuck Meadow,WWC,swe_latest,14.1,2019-12-31
+West Woodchuck Meadow,WWC,swe_percapr1,43,2019-12-31
+Quaking Aspen,QUA,swe_latest,9.7,2019-12-31
+Quaking Aspen,QUA,swe_percapr1,46,2019-12-31
+Giant Forest,GNF,swe_latest,4.7,2019-12-31
+Giant Forest,GNF,swe_percapr1,47,2019-12-31
+Upper Tyndall Creek,UTY,swe_latest,6.3,2019-12-31
+Upper Tyndall Creek,UTY,swe_percapr1,23,2019-12-31
+Crabtree Meadow,CBT,swe_latest,5.6,2019-12-31
+Crabtree Meadow,CBT,swe_percapr1,28,2019-12-31
+Chagoopa Plateau,CHP,swe_latest,7.4,2019-12-31
+Chagoopa Plateau,CHP,swe_percapr1,34,2019-12-31
+Pascoes,PSC,swe_latest,9.8,2019-12-31
+Pascoes,PSC,swe_percapr1,39,2019-12-31
+Wet Meadows,WTM,swe_latest,10.9,2019-12-31
+Wet Meadows,WTM,swe_percapr1,36,2019-12-31
+Casa Vieja Meadows,CSV,swe_latest,8.1,2019-12-31
+Casa Vieja Meadows,CSV,swe_percapr1,39,2019-12-31
+Beach Meadows,BCH,swe_latest,5.8,2019-12-31
+Beach Meadows,BCH,swe_percapr1,53,2019-12-31
+Dismal Swamp,DSS,swe_latest,10.3,2019-12-31
+Dismal Swamp,DSS,swe_percapr1,35,2019-12-31
+Big Meadows,BMW,swe_latest,8.9,2019-12-31
+Big Meadows,BMW,swe_percapr1,35,2019-12-31
+Squaw Valley,SQV,swe_latest,16.2,2019-12-31
+Squaw Valley,SQV,swe_percapr1,35,2019-12-31
+Independence Creek,INN,swe_latest,4.6,2019-12-31
+Independence Creek,INN,swe_percapr1,36,2019-12-31
+Truckee 2,TK2,swe_latest,6.5,2019-12-31
+Truckee 2,TK2,swe_percapr1,45,2019-12-31
+Mount Rose Ski Area,MSK,swe_latest,15.6,2019-12-31
+Mount Rose Ski Area,MSK,swe_percapr1,41,2019-12-31
+Heavenly Valley,HVN,swe_latest,7.3,2019-12-31
+Heavenly Valley,HVN,swe_percapr1,26,2019-12-31
+Hagans Meadow,HGM,swe_latest,7.8,2019-12-31
+Hagans Meadow,HGM,swe_percapr1,47,2019-12-31
+Marlette Lake,MRL,swe_latest,9.5,2019-12-31
+Marlette Lake,MRL,swe_percapr1,45,2019-12-31
+Echo Peak 5,EP5,swe_latest,15.5,2019-12-31
+Echo Peak 5,EP5,swe_percapr1,39,2019-12-31
+Rubicon Peak 2,RP2,swe_latest,9.5,2019-12-31
+Rubicon Peak 2,RP2,swe_percapr1,33,2019-12-31
+Tahoe City Cross,TCC,swe_latest,6.4,2019-12-31
+Tahoe City Cross,TCC,swe_percapr1,40,2019-12-31
+Ward Creek 3,WC3,swe_latest,11.9,2019-12-31
+Ward Creek 3,WC3,swe_percapr1,30,2019-12-31
+Fallen Leaf Lake,FLL,swe_latest,2.1,2019-12-31
+Fallen Leaf Lake,FLL,swe_percapr1,30,2019-12-31
+Ebbetts Pass,EBB,swe_latest,14.4,2019-12-31
+Ebbetts Pass,EBB,swe_percapr1,37,2019-12-31
+Horse Meadow,HOR,swe_latest,9.7,2019-12-31
+Monitor Pass,MNT,swe_latest,5.8,2019-12-31
+Burnside Lake,BSK,swe_latest,12.6,2019-12-31
+Forestdale Creek,FDC,swe_latest,15.6,2019-12-31
+Poison Flat,PSN,swe_latest,6.9,2019-12-31
+Poison Flat,PSN,swe_percapr1,43,2019-12-31
+Spratt Creek,SPT,swe_latest,3.4,2019-12-31
+Spratt Creek,SPT,swe_percapr1,76,2019-12-31
+Leavitt Lake,LVT,swe_latest,18,2019-12-31
+Summit Meadow,SDW,swe_latest,6.5,2019-12-31
+Virginia Lakes,VRG,swe_latest,4.4,2019-12-31
+Virginia Lakes,VRG,swe_percapr1,22,2019-12-31
+Lobdell Lake,LBD,swe_latest,3.2,2019-12-31
+Lobdell Lake,LBD,swe_percapr1,18,2019-12-31
+Sonora Pass Bridge,SPS,swe_latest,7.1,2019-12-31
+Sonora Pass Bridge,SPS,swe_percapr1,27,2019-12-31
+Leavitt Meadows,LVM,swe_latest,5.6,2019-12-31
+Leavitt Meadows,LVM,swe_percapr1,70,2019-12-31
+Gem Pass,GEM,swe_latest,6.8,2019-12-31
+Gem Pass,GEM,swe_percapr1,22,2019-12-31
+Sawmill,SWM,swe_latest,6.7,2019-12-31
+Sawmill,SWM,swe_percapr1,34,2019-12-31
+Cottonwood Lakes,CWD,swe_latest,7.2,2019-12-31
+Cottonwood Lakes,CWD,swe_percapr1,62,2019-12-31
+Rock Creek Lakes,RCK,swe_latest,4.8,2019-12-31
+Rock Creek Lakes,RCK,swe_percapr1,35,2019-12-31
+South Lake,SLK,swe_latest,4.9,2019-12-31
+South Lake,SLK,swe_percapr1,31,2019-12-31
+Mammoth Pass,MHP,swe_latest,10.9,2019-12-31
+Mammoth Pass,MHP,swe_percapr1,26,2019-12-31
+Peterson Flat,PET,swe_latest,6.2,2020-01-02
+Peterson Flat,PET,swe_percapr1,21,2020-01-02
+Red Rock Mountain,RRM,swe_latest,13.7,2020-01-02
+Red Rock Mountain,RRM,swe_percapr1,34,2020-01-02
+Bonanza King,BNK,swe_latest,9.2,2020-01-02
+Bonanza King,BNK,swe_percapr1,23,2020-01-02
+Shimmy Lake,SHM,swe_latest,7.6,2020-01-02
+Shimmy Lake,SHM,swe_percapr1,19,2020-01-02
+Middle Boulder 3,MB3,swe_latest,10.2,2020-01-02
+Middle Boulder 3,MB3,swe_percapr1,36,2020-01-02
+Scott Mountain,SCT,swe_latest,2.6,2020-01-02
+Scott Mountain,SCT,swe_percapr1,16,2020-01-02
+Mumbo Basin,MUM,swe_latest,7.1,2020-01-02
+Mumbo Basin,MUM,swe_percapr1,32,2020-01-02
+Big Flat,BFL,swe_latest,4.6,2020-01-02
+Big Flat,BFL,swe_percapr1,29,2020-01-02
+Crowder Flat,CWF,swe_latest,1.2,2020-01-02
+Cedar Pass,CDP,swe_latest,5.8,2020-01-02
+Cedar Pass,CDP,swe_percapr1,32,2020-01-02
+Sand Flat,SDF,swe_latest,8.6,2020-01-02
+Sand Flat,SDF,swe_percapr1,20,2020-01-02
+Medicine Lake,MED,swe_latest,8.5,2020-01-02
+Medicine Lake,MED,swe_percapr1,26,2020-01-02
+Adin Mountain,ADM,swe_latest,3.8,2020-01-02
+Adin Mountain,ADM,swe_percapr1,28,2020-01-02
+Snow Mountain,SNM,swe_latest,5.4,2020-01-02
+Snow Mountain,SNM,swe_percapr1,20,2020-01-02
+Slate Creek,SLT,swe_latest,2.3,2020-01-02
+Slate Creek,SLT,swe_percapr1,8,2020-01-02
+Stouts Meadow,STM,swe_latest,7,2020-01-02
+Stouts Meadow,STM,swe_percapr1,19,2020-01-02
+Kettle Rock,KTL,swe_latest,8.9,2020-01-02
+Kettle Rock,KTL,swe_percapr1,35,2020-01-02
+Grizzly Ridge,GRZ,swe_latest,9.7,2020-01-02
+Grizzly Ridge,GRZ,swe_percapr1,33,2020-01-02
+Pilot Peak,PLP,swe_latest,12.9,2020-01-02
+Pilot Peak,PLP,swe_percapr1,25,2020-01-02
+Gold Lake,GOL,swe_latest,11.9,2020-01-02
+Gold Lake,GOL,swe_percapr1,33,2020-01-02
+Humbug,HMB,swe_latest,15.2,2020-01-02
+Humbug,HMB,swe_percapr1,54,2020-01-02
+Harkness Flat,HRK,swe_latest,7.5,2020-01-02
+Harkness Flat,HRK,swe_percapr1,26,2020-01-02
+Rattlesnake,RTL,swe_latest,8,2020-01-02
+Rattlesnake,RTL,swe_percapr1,57,2020-01-02
+Bucks Lake,BKL,swe_latest,12,2020-01-02
+Bucks Lake,BKL,swe_percapr1,27,2020-01-02
+Four Trees,FOR,swe_latest,5.4,2020-01-02
+Four Trees,FOR,swe_percapr1,27,2020-01-02
+Noel Spring,NLS,swe_latest,1.2,2020-01-02
+Schneiders,SCN,swe_latest,18,2020-01-02
+Schneiders,SCN,swe_percapr1,52,2020-01-02
+Carson Pass,CXS,swe_latest,14.2,2020-01-02
+Alpha,ALP,swe_latest,13.3,2020-01-02
+Alpha,ALP,swe_percapr1,37,2020-01-02
+Forni Ridge,FRN,swe_latest,13.1,2020-01-02
+Forni Ridge,FRN,swe_percapr1,35,2020-01-02
+Meadow Lake,MDW,swe_latest,16.6,2020-01-02
+Meadow Lake,MDW,swe_percapr1,30,2020-01-02
+Silver Lake,SIL,swe_latest,12,2020-01-02
+Silver Lake,SIL,swe_percapr1,53,2020-01-02
+Central Sierra Snow Lab,CSL,swe_latest,12.4,2020-01-02
+Central Sierra Snow Lab,CSL,swe_percapr1,37,2020-01-02
+Van Vleck,VVL,swe_latest,13.9,2020-01-02
+Van Vleck,VVL,swe_percapr1,39,2020-01-02
+Huysink,HYS,swe_latest,10.6,2020-01-02
+Huysink,HYS,swe_percapr1,25,2020-01-02
+Robbs Saddle,RBB,swe_latest,3.6,2020-01-02
+Robbs Saddle,RBB,swe_percapr1,17,2020-01-02
+Blue Canyon,BLC,swe_latest,2.1,2020-01-02
+Blue Canyon,BLC,swe_percapr1,23,2020-01-02
+Robbs Powerhouse,RBP,swe_latest,1,2020-01-02
+Robbs Powerhouse,RBP,swe_percapr1,19,2020-01-02
+Deadman Creek,DDM,swe_latest,6.2,2020-01-02
+Deadman Creek,DDM,swe_percapr1,17,2020-01-02
+Highland Meadow,HHM,swe_latest,16.8,2020-01-02
+Highland Meadow,HHM,swe_percapr1,35,2020-01-02
+Gianelli Meadow,GNL,swe_latest,15.2,2020-01-02
+Gianelli Meadow,GNL,swe_percapr1,27,2020-01-02
+Blue Lakes,BLK,swe_latest,12.5,2020-01-02
+Blue Lakes,BLK,swe_percapr1,38,2020-01-02
+Stanislaus Meadow,SLM,swe_latest,19.5,2020-01-02
+Stanislaus Meadow,SLM,swe_percapr1,41,2020-01-02
+Bloods Creek,BLD,swe_latest,16.5,2020-01-02
+Bloods Creek,BLD,swe_percapr1,47,2020-01-02
+Black Springs,BLS,swe_latest,12.2,2020-01-02
+Black Springs,BLS,swe_percapr1,38,2020-01-02
+Dana Meadows,DAN,swe_latest,8.2,2020-01-02
+Dana Meadows,DAN,swe_percapr1,30,2020-01-02
+Slide Canyon,SLI,swe_latest,10.8,2020-01-02
+Slide Canyon,SLI,swe_percapr1,26,2020-01-02
+Tuolumne Meadows,TUM,swe_latest,6.5,2020-01-02
+Tuolumne Meadows,TUM,swe_percapr1,29,2020-01-02
+Horse Meadow,HRS,swe_latest,17.1,2020-01-02
+Horse Meadow,HRS,swe_percapr1,35,2020-01-02
+Ostrander Lake,STR,swe_latest,12.6,2020-01-02
+Ostrander Lake,STR,swe_percapr1,36,2020-01-02
+Lake Tenaya,TNY,swe_latest,11.3,2020-01-02
+Lake Tenaya,TNY,swe_percapr1,34,2020-01-02
+Paradise Meadow,PDS,swe_latest,12.9,2020-01-02
+Paradise Meadow,PDS,swe_percapr1,31,2020-01-02
+Gin Flat,GIN,swe_latest,8.6,2020-01-02
+Gin Flat,GIN,swe_percapr1,25,2020-01-02
+Lower Kibbie Ridge,KIB,swe_latest,6.9,2020-01-02
+Lower Kibbie Ridge,KIB,swe_percapr1,25,2020-01-02
+Volcanic Knob,VLC,swe_latest,10.8,2020-01-02
+Volcanic Knob,VLC,swe_percapr1,36,2020-01-02
+Kaiser Point,KSP,swe_latest,9.6,2020-01-02
+Kaiser Point,KSP,swe_percapr1,25,2020-01-02
+Green Mountain,GRM,swe_latest,9.7,2020-01-02
+Green Mountain,GRM,swe_percapr1,32,2020-01-02
+Chilkoot Meadow,CHM,swe_latest,10.3,2020-01-02
+Chilkoot Meadow,CHM,swe_percapr1,27,2020-01-02
+Huntington Lake,HNT,swe_latest,7.8,2020-01-02
+Huntington Lake,HNT,swe_percapr1,39,2020-01-02
+Graveyard Meadow,GRV,swe_latest,7.5,2020-01-02
+Graveyard Meadow,GRV,swe_percapr1,40,2020-01-02
+Poison Ridge,PSR,swe_latest,12.1,2020-01-02
+Poison Ridge,PSR,swe_percapr1,42,2020-01-02
+Charlotte Lake,CRL,swe_latest,12.7,2020-01-02
+Charlotte Lake,CRL,swe_percapr1,46,2020-01-02
+Charlotte Lake,CRL,swe_latest,12.7,2020-01-02
+Charlotte Lake,CRL,swe_percapr1,46,2020-01-02
+State Lakes,STL,swe_latest,11.2,2020-01-02
+State Lakes,STL,swe_percapr1,39,2020-01-02
+State Lakes,STL,swe_latest,11.2,2020-01-02
+State Lakes,STL,swe_percapr1,39,2020-01-02
+Mitchell Meadow,MTM,swe_latest,12.9,2020-01-02
+Mitchell Meadow,MTM,swe_percapr1,39,2020-01-02
+Mitchell Meadow,MTM,swe_latest,12.9,2020-01-02
+Mitchell Meadow,MTM,swe_percapr1,39,2020-01-02
+Upper Burnt Corral,UBC,swe_latest,12.6,2020-01-02
+Upper Burnt Corral,UBC,swe_percapr1,36,2020-01-02
+Upper Burnt Corral,UBC,swe_latest,12.6,2020-01-02
+Upper Burnt Corral,UBC,swe_percapr1,36,2020-01-02
+West Woodchuck Meadow,WWC,swe_latest,13.5,2020-01-02
+West Woodchuck Meadow,WWC,swe_percapr1,41,2020-01-02
+West Woodchuck Meadow,WWC,swe_latest,13.5,2020-01-02
+West Woodchuck Meadow,WWC,swe_percapr1,41,2020-01-02
+Quaking Aspen,QUA,swe_latest,9.7,2020-01-02
+Quaking Aspen,QUA,swe_percapr1,46,2020-01-02
+Quaking Aspen,QUA,swe_latest,9.7,2020-01-02
+Quaking Aspen,QUA,swe_percapr1,46,2020-01-02
+Giant Forest,GNF,swe_latest,4.7,2020-01-02
+Giant Forest,GNF,swe_percapr1,47,2020-01-02
+Giant Forest,GNF,swe_latest,4.7,2020-01-02
+Giant Forest,GNF,swe_percapr1,47,2020-01-02
+Upper Tyndall Creek,UTY,swe_latest,6.4,2020-01-02
+Upper Tyndall Creek,UTY,swe_percapr1,23,2020-01-02
+Upper Tyndall Creek,UTY,swe_latest,6.4,2020-01-02
+Upper Tyndall Creek,UTY,swe_percapr1,23,2020-01-02
+Crabtree Meadow,CBT,swe_latest,5.9,2020-01-02
+Crabtree Meadow,CBT,swe_percapr1,30,2020-01-02
+Crabtree Meadow,CBT,swe_latest,5.9,2020-01-02
+Crabtree Meadow,CBT,swe_percapr1,30,2020-01-02
+Chagoopa Plateau,CHP,swe_latest,7.4,2020-01-02
+Chagoopa Plateau,CHP,swe_percapr1,34,2020-01-02
+Chagoopa Plateau,CHP,swe_latest,7.4,2020-01-02
+Chagoopa Plateau,CHP,swe_percapr1,34,2020-01-02
+Pascoes,PSC,swe_latest,9.9,2020-01-02
+Pascoes,PSC,swe_percapr1,40,2020-01-02
+Pascoes,PSC,swe_latest,9.9,2020-01-02
+Pascoes,PSC,swe_percapr1,40,2020-01-02
+Wet Meadows,WTM,swe_latest,10.9,2020-01-02
+Wet Meadows,WTM,swe_percapr1,36,2020-01-02
+Wet Meadows,WTM,swe_latest,10.9,2020-01-02
+Wet Meadows,WTM,swe_percapr1,36,2020-01-02
+Casa Vieja Meadows,CSV,swe_latest,8.1,2020-01-02
+Casa Vieja Meadows,CSV,swe_percapr1,39,2020-01-02
+Casa Vieja Meadows,CSV,swe_latest,8.1,2020-01-02
+Casa Vieja Meadows,CSV,swe_percapr1,39,2020-01-02
+Beach Meadows,BCH,swe_latest,6,2020-01-02
+Beach Meadows,BCH,swe_percapr1,54,2020-01-02
+Beach Meadows,BCH,swe_latest,6,2020-01-02
+Beach Meadows,BCH,swe_percapr1,54,2020-01-02
+Dismal Swamp,DSS,swe_latest,10.9,2020-01-02
+Dismal Swamp,DSS,swe_percapr1,37,2020-01-02
+Dismal Swamp,DSS,swe_latest,10.9,2020-01-02
+Dismal Swamp,DSS,swe_percapr1,37,2020-01-02
+Big Meadows,BMW,swe_latest,9,2020-01-02
+Big Meadows,BMW,swe_percapr1,35,2020-01-02
+Big Meadows,BMW,swe_latest,9,2020-01-02
+Big Meadows,BMW,swe_percapr1,35,2020-01-02
+Squaw Valley,SQV,swe_latest,16.6,2020-01-02
+Squaw Valley,SQV,swe_percapr1,36,2020-01-02
+Squaw Valley,SQV,swe_latest,16.6,2020-01-02
+Squaw Valley,SQV,swe_percapr1,36,2020-01-02
+Independence Creek,INN,swe_latest,4.8,2020-01-02
+Independence Creek,INN,swe_percapr1,38,2020-01-02
+Independence Creek,INN,swe_latest,4.8,2020-01-02
+Independence Creek,INN,swe_percapr1,38,2020-01-02
+Truckee 2,TK2,swe_latest,6.7,2020-01-02
+Truckee 2,TK2,swe_percapr1,47,2020-01-02
+Truckee 2,TK2,swe_latest,6.7,2020-01-02
+Truckee 2,TK2,swe_percapr1,47,2020-01-02
+Mount Rose Ski Area,MSK,swe_latest,15.8,2020-01-02
+Mount Rose Ski Area,MSK,swe_percapr1,41,2020-01-02
+Mount Rose Ski Area,MSK,swe_latest,15.8,2020-01-02
+Mount Rose Ski Area,MSK,swe_percapr1,41,2020-01-02
+Heavenly Valley,HVN,swe_latest,7.3,2020-01-02
+Heavenly Valley,HVN,swe_percapr1,26,2020-01-02
+Hagans Meadow,HGM,swe_latest,7.9,2020-01-02
+Hagans Meadow,HGM,swe_percapr1,48,2020-01-02
+Marlette Lake,MRL,swe_latest,9.5,2020-01-02
+Marlette Lake,MRL,swe_percapr1,45,2020-01-02
+Echo Peak 5,EP5,swe_latest,15.3,2020-01-02
+Echo Peak 5,EP5,swe_percapr1,39,2020-01-02
+Rubicon Peak 2,RP2,swe_latest,9.5,2020-01-02
+Rubicon Peak 2,RP2,swe_percapr1,33,2020-01-02
+Tahoe City Cross,TCC,swe_latest,6.6,2020-01-02
+Tahoe City Cross,TCC,swe_percapr1,41,2020-01-02
+Ward Creek 3,WC3,swe_latest,12.3,2020-01-02
+Ward Creek 3,WC3,swe_percapr1,31,2020-01-02
+Fallen Leaf Lake,FLL,swe_latest,2.1,2020-01-02
+Fallen Leaf Lake,FLL,swe_percapr1,30,2020-01-02
+Ebbetts Pass,EBB,swe_latest,14.4,2020-01-02
+Ebbetts Pass,EBB,swe_percapr1,37,2020-01-02
+Horse Meadow,HOR,swe_latest,9.8,2020-01-02
+Monitor Pass,MNT,swe_latest,5.8,2020-01-02
+Burnside Lake,BSK,swe_latest,12.4,2020-01-02
+Forestdale Creek,FDC,swe_latest,15.6,2020-01-02
+Poison Flat,PSN,swe_latest,6.9,2020-01-02
+Poison Flat,PSN,swe_percapr1,43,2020-01-02
+Spratt Creek,SPT,swe_latest,3.4,2020-01-02
+Spratt Creek,SPT,swe_percapr1,76,2020-01-02
+Leavitt Lake,LVT,swe_latest,18.1,2020-01-02
+Summit Meadow,SDW,swe_latest,6.7,2020-01-02
+Virginia Lakes,VRG,swe_latest,4.5,2020-01-02
+Virginia Lakes,VRG,swe_percapr1,22,2020-01-02
+Lobdell Lake,LBD,swe_latest,3.3,2020-01-02
+Lobdell Lake,LBD,swe_percapr1,19,2020-01-02
+Sonora Pass Bridge,SPS,swe_latest,7.3,2020-01-02
+Sonora Pass Bridge,SPS,swe_percapr1,28,2020-01-02
+Leavitt Meadows,LVM,swe_latest,5.8,2020-01-02
+Leavitt Meadows,LVM,swe_percapr1,72,2020-01-02
+Gem Pass,GEM,swe_latest,6.7,2020-01-02
+Gem Pass,GEM,swe_percapr1,21,2020-01-02
+Sawmill,SWM,swe_latest,6.7,2020-01-02
+Sawmill,SWM,swe_percapr1,34,2020-01-02
+Cottonwood Lakes,CWD,swe_latest,7.3,2020-01-02
+Cottonwood Lakes,CWD,swe_percapr1,63,2020-01-02
+Rock Creek Lakes,RCK,swe_latest,4.8,2020-01-02
+Rock Creek Lakes,RCK,swe_percapr1,34,2020-01-02
+South Lake,SLK,swe_latest,4.9,2020-01-02
+South Lake,SLK,swe_percapr1,31,2020-01-02
+Mammoth Pass,MHP,swe_latest,10.9,2020-01-02
+Mammoth Pass,MHP,swe_percapr1,26,2020-01-02
+Peterson Flat,PET,swe_latest,6.1,2020-01-03
+Peterson Flat,PET,swe_percapr1,21,2020-01-03
+Red Rock Mountain,RRM,swe_latest,13.9,2020-01-03
+Red Rock Mountain,RRM,swe_percapr1,35,2020-01-03
+Bonanza King,BNK,swe_latest,9.2,2020-01-03
+Bonanza King,BNK,swe_percapr1,23,2020-01-03
+Shimmy Lake,SHM,swe_latest,7.5,2020-01-03
+Shimmy Lake,SHM,swe_percapr1,19,2020-01-03
+Middle Boulder 3,MB3,swe_latest,10.4,2020-01-03
+Middle Boulder 3,MB3,swe_percapr1,37,2020-01-03
+Scott Mountain,SCT,swe_latest,2.6,2020-01-03
+Scott Mountain,SCT,swe_percapr1,16,2020-01-03
+Mumbo Basin,MUM,swe_latest,7,2020-01-03
+Mumbo Basin,MUM,swe_percapr1,31,2020-01-03
+Big Flat,BFL,swe_latest,4.6,2020-01-03
+Big Flat,BFL,swe_percapr1,29,2020-01-03
+Crowder Flat,CWF,swe_latest,1.2,2020-01-03
+Cedar Pass,CDP,swe_latest,5.8,2020-01-03
+Cedar Pass,CDP,swe_percapr1,32,2020-01-03
+Sand Flat,SDF,swe_latest,8.6,2020-01-03
+Sand Flat,SDF,swe_percapr1,20,2020-01-03
+Medicine Lake,MED,swe_latest,8.6,2020-01-03
+Medicine Lake,MED,swe_percapr1,27,2020-01-03
+Adin Mountain,ADM,swe_latest,3.4,2020-01-03
+Adin Mountain,ADM,swe_percapr1,25,2020-01-03
+Snow Mountain,SNM,swe_latest,5.4,2020-01-03
+Snow Mountain,SNM,swe_percapr1,20,2020-01-03
+Slate Creek,SLT,swe_latest,2.2,2020-01-03
+Slate Creek,SLT,swe_percapr1,7,2020-01-03
+Stouts Meadow,STM,swe_latest,6.7,2020-01-03
+Stouts Meadow,STM,swe_percapr1,19,2020-01-03
+Kettle Rock,KTL,swe_latest,9,2020-01-03
+Kettle Rock,KTL,swe_percapr1,35,2020-01-03
+Grizzly Ridge,GRZ,swe_latest,9.7,2020-01-03
+Grizzly Ridge,GRZ,swe_percapr1,33,2020-01-03
+Pilot Peak,PLP,swe_latest,13.2,2020-01-03
+Pilot Peak,PLP,swe_percapr1,25,2020-01-03
+Gold Lake,GOL,swe_latest,11.8,2020-01-03
+Gold Lake,GOL,swe_percapr1,32,2020-01-03
+Humbug,HMB,swe_latest,15.4,2020-01-03
+Humbug,HMB,swe_percapr1,55,2020-01-03
+Harkness Flat,HRK,swe_latest,7.5,2020-01-03
+Harkness Flat,HRK,swe_percapr1,26,2020-01-03
+Rattlesnake,RTL,swe_latest,7.9,2020-01-03
+Rattlesnake,RTL,swe_percapr1,57,2020-01-03
+Bucks Lake,BKL,swe_latest,12,2020-01-03
+Bucks Lake,BKL,swe_percapr1,27,2020-01-03
+Four Trees,FOR,swe_latest,5.4,2020-01-03
+Four Trees,FOR,swe_percapr1,27,2020-01-03
+Noel Spring,NLS,swe_latest,1.2,2020-01-03
+Schneiders,SCN,swe_latest,18.1,2020-01-03
+Schneiders,SCN,swe_percapr1,53,2020-01-03
+Carson Pass,CXS,swe_latest,14.2,2020-01-03
+Alpha,ALP,swe_latest,13.2,2020-01-03
+Alpha,ALP,swe_percapr1,37,2020-01-03
+Forni Ridge,FRN,swe_latest,13.2,2020-01-03
+Forni Ridge,FRN,swe_percapr1,36,2020-01-03
+Meadow Lake,MDW,swe_latest,16.6,2020-01-03
+Meadow Lake,MDW,swe_percapr1,30,2020-01-03
+Silver Lake,SIL,swe_latest,12.2,2020-01-03
+Silver Lake,SIL,swe_percapr1,54,2020-01-03
+Central Sierra Snow Lab,CSL,swe_latest,12.3,2020-01-03
+Central Sierra Snow Lab,CSL,swe_percapr1,37,2020-01-03
+Van Vleck,VVL,swe_latest,13.9,2020-01-03
+Van Vleck,VVL,swe_percapr1,39,2020-01-03
+Huysink,HYS,swe_latest,10.6,2020-01-03
+Huysink,HYS,swe_percapr1,25,2020-01-03
+Robbs Saddle,RBB,swe_latest,3.6,2020-01-03
+Robbs Saddle,RBB,swe_percapr1,17,2020-01-03
+Blue Canyon,BLC,swe_latest,2,2020-01-03
+Blue Canyon,BLC,swe_percapr1,22,2020-01-03
+Robbs Powerhouse,RBP,swe_latest,1,2020-01-03
+Robbs Powerhouse,RBP,swe_percapr1,20,2020-01-03
+Deadman Creek,DDM,swe_latest,6.3,2020-01-03
+Deadman Creek,DDM,swe_percapr1,17,2020-01-03
+Highland Meadow,HHM,swe_latest,16.8,2020-01-03
+Highland Meadow,HHM,swe_percapr1,35,2020-01-03
+Gianelli Meadow,GNL,swe_latest,15.5,2020-01-03
+Gianelli Meadow,GNL,swe_percapr1,28,2020-01-03
+Blue Lakes,BLK,swe_latest,12.4,2020-01-03
+Blue Lakes,BLK,swe_percapr1,37,2020-01-03
+Stanislaus Meadow,SLM,swe_latest,19.4,2020-01-03
+Stanislaus Meadow,SLM,swe_percapr1,41,2020-01-03
+Bloods Creek,BLD,swe_latest,16.5,2020-01-03
+Bloods Creek,BLD,swe_percapr1,47,2020-01-03
+Black Springs,BLS,swe_latest,12.6,2020-01-03
+Black Springs,BLS,swe_percapr1,39,2020-01-03
+Dana Meadows,DAN,swe_latest,8.2,2020-01-03
+Dana Meadows,DAN,swe_percapr1,29,2020-01-03
+Slide Canyon,SLI,swe_latest,10.8,2020-01-03
+Slide Canyon,SLI,swe_percapr1,26,2020-01-03
+Tuolumne Meadows,TUM,swe_latest,6.5,2020-01-03
+Tuolumne Meadows,TUM,swe_percapr1,29,2020-01-03
+Horse Meadow,HRS,swe_latest,17.1,2020-01-03
+Horse Meadow,HRS,swe_percapr1,35,2020-01-03
+Ostrander Lake,STR,swe_latest,12.5,2020-01-03
+Ostrander Lake,STR,swe_percapr1,36,2020-01-03
+Lake Tenaya,TNY,swe_latest,11.2,2020-01-03
+Lake Tenaya,TNY,swe_percapr1,34,2020-01-03
+Paradise Meadow,PDS,swe_latest,12.8,2020-01-03
+Paradise Meadow,PDS,swe_percapr1,31,2020-01-03
+Gin Flat,GIN,swe_latest,8.7,2020-01-03
+Gin Flat,GIN,swe_percapr1,25,2020-01-03
+Lower Kibbie Ridge,KIB,swe_latest,6.7,2020-01-03
+Lower Kibbie Ridge,KIB,swe_percapr1,24,2020-01-03
+Volcanic Knob,VLC,swe_latest,10.6,2020-01-03
+Volcanic Knob,VLC,swe_percapr1,35,2020-01-03
+Kaiser Point,KSP,swe_latest,9.6,2020-01-03
+Kaiser Point,KSP,swe_percapr1,25,2020-01-03
+Green Mountain,GRM,swe_latest,9.7,2020-01-03
+Green Mountain,GRM,swe_percapr1,32,2020-01-03
+Chilkoot Meadow,CHM,swe_latest,10.3,2020-01-03
+Chilkoot Meadow,CHM,swe_percapr1,27,2020-01-03
+Huntington Lake,HNT,swe_latest,7.8,2020-01-03
+Huntington Lake,HNT,swe_percapr1,39,2020-01-03
+Graveyard Meadow,GRV,swe_latest,7.6,2020-01-03
+Graveyard Meadow,GRV,swe_percapr1,40,2020-01-03
+Poison Ridge,PSR,swe_latest,12.3,2020-01-03
+Poison Ridge,PSR,swe_percapr1,43,2020-01-03
+Charlotte Lake,CRL,swe_latest,12.7,2020-01-03
+Charlotte Lake,CRL,swe_percapr1,46,2020-01-03
+State Lakes,STL,swe_latest,11.2,2020-01-03
+State Lakes,STL,swe_percapr1,39,2020-01-03
+Mitchell Meadow,MTM,swe_latest,12.9,2020-01-03
+Mitchell Meadow,MTM,swe_percapr1,39,2020-01-03
+Upper Burnt Corral,UBC,swe_latest,12.4,2020-01-03
+Upper Burnt Corral,UBC,swe_percapr1,36,2020-01-03
+West Woodchuck Meadow,WWC,swe_latest,13.6,2020-01-03
+West Woodchuck Meadow,WWC,swe_percapr1,41,2020-01-03
+Quaking Aspen,QUA,swe_latest,9.5,2020-01-03
+Quaking Aspen,QUA,swe_percapr1,45,2020-01-03
+Giant Forest,GNF,swe_latest,4.7,2020-01-03
+Giant Forest,GNF,swe_percapr1,47,2020-01-03
+Upper Tyndall Creek,UTY,swe_latest,6.4,2020-01-03
+Upper Tyndall Creek,UTY,swe_percapr1,23,2020-01-03
+Crabtree Meadow,CBT,swe_latest,5.8,2020-01-03
+Crabtree Meadow,CBT,swe_percapr1,29,2020-01-03
+Chagoopa Plateau,CHP,swe_latest,7.3,2020-01-03
+Chagoopa Plateau,CHP,swe_percapr1,34,2020-01-03
+Pascoes,PSC,swe_latest,9.9,2020-01-03
+Pascoes,PSC,swe_percapr1,40,2020-01-03
+Wet Meadows,WTM,swe_latest,10.9,2020-01-03
+Wet Meadows,WTM,swe_percapr1,36,2020-01-03
+Casa Vieja Meadows,CSV,swe_latest,8,2020-01-03
+Casa Vieja Meadows,CSV,swe_percapr1,38,2020-01-03
+Beach Meadows,BCH,swe_latest,6,2020-01-03
+Beach Meadows,BCH,swe_percapr1,54,2020-01-03
+Dismal Swamp,DSS,swe_latest,10.9,2020-01-03
+Dismal Swamp,DSS,swe_percapr1,37,2020-01-03
+Big Meadows,BMW,swe_latest,9,2020-01-03
+Big Meadows,BMW,swe_percapr1,35,2020-01-03
+Squaw Valley,SQV,swe_latest,16.7,2020-01-03
+Squaw Valley,SQV,swe_percapr1,36,2020-01-03
+Independence Creek,INN,swe_latest,4.8,2020-01-03
+Independence Creek,INN,swe_percapr1,38,2020-01-03
+Truckee 2,TK2,swe_latest,6.7,2020-01-03
+Truckee 2,TK2,swe_percapr1,47,2020-01-03
+Mount Rose Ski Area,MSK,swe_latest,15.9,2020-01-03
+Mount Rose Ski Area,MSK,swe_percapr1,41,2020-01-03
+Heavenly Valley,HVN,swe_latest,7.3,2020-01-03
+Heavenly Valley,HVN,swe_percapr1,26,2020-01-03
+Hagans Meadow,HGM,swe_latest,7.9,2020-01-03
+Hagans Meadow,HGM,swe_percapr1,48,2020-01-03
+Marlette Lake,MRL,swe_latest,9.6,2020-01-03
+Marlette Lake,MRL,swe_percapr1,45,2020-01-03
+Echo Peak 5,EP5,swe_latest,15.2,2020-01-03
+Echo Peak 5,EP5,swe_percapr1,38,2020-01-03
+Rubicon Peak 2,RP2,swe_latest,9.5,2020-01-03
+Rubicon Peak 2,RP2,swe_percapr1,33,2020-01-03
+Tahoe City Cross,TCC,swe_latest,6.5,2020-01-03
+Tahoe City Cross,TCC,swe_percapr1,41,2020-01-03
+Ward Creek 3,WC3,swe_latest,12.3,2020-01-03
+Ward Creek 3,WC3,swe_percapr1,31,2020-01-03
+Fallen Leaf Lake,FLL,swe_latest,2,2020-01-03
+Fallen Leaf Lake,FLL,swe_percapr1,29,2020-01-03
+Ebbetts Pass,EBB,swe_latest,14.4,2020-01-03
+Ebbetts Pass,EBB,swe_percapr1,37,2020-01-03
+Horse Meadow,HOR,swe_latest,9.8,2020-01-03
+Monitor Pass,MNT,swe_latest,5.8,2020-01-03
+Burnside Lake,BSK,swe_latest,12.5,2020-01-03
+Forestdale Creek,FDC,swe_latest,15.7,2020-01-03
+Poison Flat,PSN,swe_latest,7,2020-01-03
+Poison Flat,PSN,swe_percapr1,43,2020-01-03
+Spratt Creek,SPT,swe_latest,3.3,2020-01-03
+Spratt Creek,SPT,swe_percapr1,73,2020-01-03
+Leavitt Lake,LVT,swe_latest,18.1,2020-01-03
+Summit Meadow,SDW,swe_latest,6.7,2020-01-03
+Virginia Lakes,VRG,swe_latest,4.4,2020-01-03
+Virginia Lakes,VRG,swe_percapr1,22,2020-01-03
+Lobdell Lake,LBD,swe_latest,3.3,2020-01-03
+Lobdell Lake,LBD,swe_percapr1,19,2020-01-03
+Sonora Pass Bridge,SPS,swe_latest,7.2,2020-01-03
+Sonora Pass Bridge,SPS,swe_percapr1,28,2020-01-03
+Leavitt Meadows,LVM,swe_latest,5.7,2020-01-03
+Leavitt Meadows,LVM,swe_percapr1,71,2020-01-03
+Gem Pass,GEM,swe_latest,6.7,2020-01-03
+Gem Pass,GEM,swe_percapr1,21,2020-01-03
+Sawmill,SWM,swe_latest,6.7,2020-01-03
+Sawmill,SWM,swe_percapr1,34,2020-01-03
+Cottonwood Lakes,CWD,swe_latest,7.4,2020-01-03
+Cottonwood Lakes,CWD,swe_percapr1,64,2020-01-03
+Rock Creek Lakes,RCK,swe_latest,4.7,2020-01-03
+Rock Creek Lakes,RCK,swe_percapr1,34,2020-01-03
+South Lake,SLK,swe_latest,4.9,2020-01-03
+South Lake,SLK,swe_percapr1,31,2020-01-03
+Mammoth Pass,MHP,swe_latest,10.9,2020-01-03
+Mammoth Pass,MHP,swe_percapr1,26,2020-01-03
+Peterson Flat,PET,swe_latest,6.1,2020-01-04
+Peterson Flat,PET,swe_percapr1,21,2020-01-04
+Red Rock Mountain,RRM,swe_latest,14.6,2020-01-04
+Red Rock Mountain,RRM,swe_percapr1,37,2020-01-04
+Bonanza King,BNK,swe_latest,9.1,2020-01-04
+Bonanza King,BNK,swe_percapr1,23,2020-01-04
+Shimmy Lake,SHM,swe_latest,7.9,2020-01-04
+Shimmy Lake,SHM,swe_percapr1,20,2020-01-04
+Middle Boulder 3,MB3,swe_latest,10.7,2020-01-04
+Middle Boulder 3,MB3,swe_percapr1,38,2020-01-04
+Scott Mountain,SCT,swe_latest,2.6,2020-01-04
+Scott Mountain,SCT,swe_percapr1,16,2020-01-04
+Mumbo Basin,MUM,swe_latest,7.1,2020-01-04
+Mumbo Basin,MUM,swe_percapr1,32,2020-01-04
+Big Flat,BFL,swe_latest,4.4,2020-01-04
+Big Flat,BFL,swe_percapr1,28,2020-01-04
+Crowder Flat,CWF,swe_latest,1.1,2020-01-04
+Cedar Pass,CDP,swe_latest,5.8,2020-01-04
+Cedar Pass,CDP,swe_percapr1,32,2020-01-04
+Sand Flat,SDF,swe_latest,8.8,2020-01-04
+Sand Flat,SDF,swe_percapr1,21,2020-01-04
+Medicine Lake,MED,swe_latest,8.9,2020-01-04
+Medicine Lake,MED,swe_percapr1,27,2020-01-04
+Adin Mountain,ADM,swe_latest,3.9,2020-01-04
+Adin Mountain,ADM,swe_percapr1,29,2020-01-04
+Snow Mountain,SNM,swe_latest,5.3,2020-01-04
+Snow Mountain,SNM,swe_percapr1,20,2020-01-04
+Slate Creek,SLT,swe_latest,2.3,2020-01-04
+Slate Creek,SLT,swe_percapr1,8,2020-01-04
+Stouts Meadow,STM,swe_latest,7.2,2020-01-04
+Stouts Meadow,STM,swe_percapr1,20,2020-01-04
+Kettle Rock,KTL,swe_latest,9,2020-01-04
+Kettle Rock,KTL,swe_percapr1,35,2020-01-04
+Grizzly Ridge,GRZ,swe_latest,9.8,2020-01-04
+Grizzly Ridge,GRZ,swe_percapr1,33,2020-01-04
+Pilot Peak,PLP,swe_latest,13,2020-01-04
+Pilot Peak,PLP,swe_percapr1,25,2020-01-04
+Gold Lake,GOL,swe_latest,11.6,2020-01-04
+Gold Lake,GOL,swe_percapr1,32,2020-01-04
+Humbug,HMB,swe_latest,15.4,2020-01-04
+Humbug,HMB,swe_percapr1,55,2020-01-04
+Harkness Flat,HRK,swe_latest,7.4,2020-01-04
+Harkness Flat,HRK,swe_percapr1,26,2020-01-04
+Rattlesnake,RTL,swe_latest,8,2020-01-04
+Rattlesnake,RTL,swe_percapr1,57,2020-01-04
+Bucks Lake,BKL,swe_latest,12,2020-01-04
+Bucks Lake,BKL,swe_percapr1,27,2020-01-04
+Four Trees,FOR,swe_latest,5.3,2020-01-04
+Four Trees,FOR,swe_percapr1,26,2020-01-04
+Noel Spring,NLS,swe_latest,1.2,2020-01-04
+Schneiders,SCN,swe_latest,18.2,2020-01-04
+Schneiders,SCN,swe_percapr1,53,2020-01-04
+Carson Pass,CXS,swe_latest,14.2,2020-01-04
+Alpha,ALP,swe_latest,13.1,2020-01-04
+Alpha,ALP,swe_percapr1,37,2020-01-04
+Forni Ridge,FRN,swe_latest,13.2,2020-01-04
+Forni Ridge,FRN,swe_percapr1,36,2020-01-04
+Meadow Lake,MDW,swe_latest,16.6,2020-01-04
+Meadow Lake,MDW,swe_percapr1,30,2020-01-04
+Silver Lake,SIL,swe_latest,12.3,2020-01-04
+Silver Lake,SIL,swe_percapr1,54,2020-01-04
+Central Sierra Snow Lab,CSL,swe_latest,12.3,2020-01-04
+Central Sierra Snow Lab,CSL,swe_percapr1,37,2020-01-04
+Van Vleck,VVL,swe_latest,14,2020-01-04
+Van Vleck,VVL,swe_percapr1,39,2020-01-04
+Huysink,HYS,swe_latest,10.6,2020-01-04
+Huysink,HYS,swe_percapr1,25,2020-01-04
+Robbs Saddle,RBB,swe_latest,3.5,2020-01-04
+Robbs Saddle,RBB,swe_percapr1,17,2020-01-04
+Blue Canyon,BLC,swe_latest,2,2020-01-04
+Blue Canyon,BLC,swe_percapr1,22,2020-01-04
+Robbs Powerhouse,RBP,swe_latest,1.1,2020-01-04
+Robbs Powerhouse,RBP,swe_percapr1,21,2020-01-04
+Deadman Creek,DDM,swe_latest,6.3,2020-01-04
+Deadman Creek,DDM,swe_percapr1,17,2020-01-04
+Highland Meadow,HHM,swe_latest,16.8,2020-01-04
+Highland Meadow,HHM,swe_percapr1,35,2020-01-04
+Gianelli Meadow,GNL,swe_latest,15.5,2020-01-04
+Gianelli Meadow,GNL,swe_percapr1,28,2020-01-04
+Blue Lakes,BLK,swe_latest,12.4,2020-01-04
+Blue Lakes,BLK,swe_percapr1,37,2020-01-04
+Stanislaus Meadow,SLM,swe_latest,19.3,2020-01-04
+Stanislaus Meadow,SLM,swe_percapr1,41,2020-01-04
+Bloods Creek,BLD,swe_latest,16.6,2020-01-04
+Bloods Creek,BLD,swe_percapr1,47,2020-01-04
+Black Springs,BLS,swe_latest,12.7,2020-01-04
+Black Springs,BLS,swe_percapr1,40,2020-01-04
+Dana Meadows,DAN,swe_latest,8.2,2020-01-04
+Dana Meadows,DAN,swe_percapr1,30,2020-01-04
+Slide Canyon,SLI,swe_latest,10.8,2020-01-04
+Slide Canyon,SLI,swe_percapr1,26,2020-01-04
+Tuolumne Meadows,TUM,swe_latest,6.4,2020-01-04
+Tuolumne Meadows,TUM,swe_percapr1,28,2020-01-04
+Horse Meadow,HRS,swe_latest,17.2,2020-01-04
+Horse Meadow,HRS,swe_percapr1,35,2020-01-04
+Ostrander Lake,STR,swe_latest,12.5,2020-01-04
+Ostrander Lake,STR,swe_percapr1,36,2020-01-04
+Lake Tenaya,TNY,swe_latest,11.2,2020-01-04
+Lake Tenaya,TNY,swe_percapr1,34,2020-01-04
+Paradise Meadow,PDS,swe_latest,12.9,2020-01-04
+Paradise Meadow,PDS,swe_percapr1,31,2020-01-04
+Gin Flat,GIN,swe_latest,8.7,2020-01-04
+Gin Flat,GIN,swe_percapr1,25,2020-01-04
+Lower Kibbie Ridge,KIB,swe_latest,6.5,2020-01-04
+Lower Kibbie Ridge,KIB,swe_percapr1,24,2020-01-04
+Volcanic Knob,VLC,swe_latest,10.6,2020-01-04
+Volcanic Knob,VLC,swe_percapr1,35,2020-01-04
+Kaiser Point,KSP,swe_latest,9.6,2020-01-04
+Kaiser Point,KSP,swe_percapr1,25,2020-01-04
+Green Mountain,GRM,swe_latest,9.7,2020-01-04
+Green Mountain,GRM,swe_percapr1,32,2020-01-04
+Chilkoot Meadow,CHM,swe_latest,10.3,2020-01-04
+Chilkoot Meadow,CHM,swe_percapr1,27,2020-01-04
+Huntington Lake,HNT,swe_latest,7.8,2020-01-04
+Huntington Lake,HNT,swe_percapr1,39,2020-01-04
+Graveyard Meadow,GRV,swe_latest,7.6,2020-01-04
+Graveyard Meadow,GRV,swe_percapr1,40,2020-01-04
+Poison Ridge,PSR,swe_latest,12.3,2020-01-04
+Poison Ridge,PSR,swe_percapr1,43,2020-01-04
+Charlotte Lake,CRL,swe_latest,12.8,2020-01-04
+Charlotte Lake,CRL,swe_percapr1,46,2020-01-04
+State Lakes,STL,swe_latest,11.2,2020-01-04
+State Lakes,STL,swe_percapr1,39,2020-01-04
+Mitchell Meadow,MTM,swe_latest,12.9,2020-01-04
+Mitchell Meadow,MTM,swe_percapr1,39,2020-01-04
+Upper Burnt Corral,UBC,swe_latest,12.5,2020-01-04
+Upper Burnt Corral,UBC,swe_percapr1,36,2020-01-04
+West Woodchuck Meadow,WWC,swe_latest,13.6,2020-01-04
+West Woodchuck Meadow,WWC,swe_percapr1,41,2020-01-04
+Quaking Aspen,QUA,swe_latest,9.3,2020-01-04
+Quaking Aspen,QUA,swe_percapr1,44,2020-01-04
+Giant Forest,GNF,swe_latest,4.7,2020-01-04
+Giant Forest,GNF,swe_percapr1,47,2020-01-04
+Upper Tyndall Creek,UTY,swe_latest,6.4,2020-01-04
+Upper Tyndall Creek,UTY,swe_percapr1,23,2020-01-04
+Crabtree Meadow,CBT,swe_latest,5.7,2020-01-04
+Crabtree Meadow,CBT,swe_percapr1,29,2020-01-04
+Chagoopa Plateau,CHP,swe_latest,7.4,2020-01-04
+Chagoopa Plateau,CHP,swe_percapr1,34,2020-01-04
+Pascoes,PSC,swe_latest,9.9,2020-01-04
+Pascoes,PSC,swe_percapr1,40,2020-01-04
+Wet Meadows,WTM,swe_latest,10.9,2020-01-04
+Wet Meadows,WTM,swe_percapr1,36,2020-01-04
+Casa Vieja Meadows,CSV,swe_latest,8.1,2020-01-04
+Casa Vieja Meadows,CSV,swe_percapr1,39,2020-01-04
+Beach Meadows,BCH,swe_latest,6.1,2020-01-04
+Beach Meadows,BCH,swe_percapr1,55,2020-01-04
+Dismal Swamp,DSS,swe_latest,11,2020-01-04
+Dismal Swamp,DSS,swe_percapr1,38,2020-01-04
+Big Meadows,BMW,swe_latest,9,2020-01-04
+Big Meadows,BMW,swe_percapr1,35,2020-01-04
+Squaw Valley,SQV,swe_latest,16.8,2020-01-04
+Squaw Valley,SQV,swe_percapr1,36,2020-01-04
+Independence Creek,INN,swe_latest,4.2,2020-01-04
+Independence Creek,INN,swe_percapr1,33,2020-01-04
+Truckee 2,TK2,swe_latest,6.6,2020-01-04
+Truckee 2,TK2,swe_percapr1,46,2020-01-04
+Mount Rose Ski Area,MSK,swe_latest,15.9,2020-01-04
+Mount Rose Ski Area,MSK,swe_percapr1,41,2020-01-04
+Heavenly Valley,HVN,swe_latest,7.4,2020-01-04
+Heavenly Valley,HVN,swe_percapr1,26,2020-01-04
+Hagans Meadow,HGM,swe_latest,7.9,2020-01-04
+Hagans Meadow,HGM,swe_percapr1,48,2020-01-04
+Marlette Lake,MRL,swe_latest,9.6,2020-01-04
+Marlette Lake,MRL,swe_percapr1,45,2020-01-04
+Echo Peak 5,EP5,swe_latest,15.1,2020-01-04
+Echo Peak 5,EP5,swe_percapr1,38,2020-01-04
+Rubicon Peak 2,RP2,swe_latest,9.5,2020-01-04
+Rubicon Peak 2,RP2,swe_percapr1,33,2020-01-04
+Tahoe City Cross,TCC,swe_latest,6.3,2020-01-04
+Tahoe City Cross,TCC,swe_percapr1,39,2020-01-04
+Ward Creek 3,WC3,swe_latest,12.3,2020-01-04
+Ward Creek 3,WC3,swe_percapr1,31,2020-01-04
+Fallen Leaf Lake,FLL,swe_latest,2.1,2020-01-04
+Fallen Leaf Lake,FLL,swe_percapr1,30,2020-01-04
+Ebbetts Pass,EBB,swe_latest,14.5,2020-01-04
+Ebbetts Pass,EBB,swe_percapr1,37,2020-01-04
+Horse Meadow,HOR,swe_latest,9.8,2020-01-04
+Monitor Pass,MNT,swe_latest,6,2020-01-04
+Burnside Lake,BSK,swe_latest,12.7,2020-01-04
+Forestdale Creek,FDC,swe_latest,15.9,2020-01-04
+Poison Flat,PSN,swe_latest,7.1,2020-01-04
+Poison Flat,PSN,swe_percapr1,44,2020-01-04
+Spratt Creek,SPT,swe_latest,3.4,2020-01-04
+Spratt Creek,SPT,swe_percapr1,76,2020-01-04
+Leavitt Lake,LVT,swe_latest,18.1,2020-01-04
+Summit Meadow,SDW,swe_latest,6.7,2020-01-04
+Virginia Lakes,VRG,swe_latest,4.4,2020-01-04
+Virginia Lakes,VRG,swe_percapr1,22,2020-01-04
+Lobdell Lake,LBD,swe_latest,3.3,2020-01-04
+Lobdell Lake,LBD,swe_percapr1,19,2020-01-04
+Sonora Pass Bridge,SPS,swe_latest,7.3,2020-01-04
+Sonora Pass Bridge,SPS,swe_percapr1,28,2020-01-04
+Leavitt Meadows,LVM,swe_latest,5.4,2020-01-04
+Leavitt Meadows,LVM,swe_percapr1,68,2020-01-04
+Gem Pass,GEM,swe_latest,6.7,2020-01-04
+Gem Pass,GEM,swe_percapr1,21,2020-01-04
+Sawmill,SWM,swe_latest,6.7,2020-01-04
+Sawmill,SWM,swe_percapr1,34,2020-01-04
+Cottonwood Lakes,CWD,swe_latest,7.5,2020-01-04
+Cottonwood Lakes,CWD,swe_percapr1,64,2020-01-04
+Rock Creek Lakes,RCK,swe_latest,4.7,2020-01-04
+Rock Creek Lakes,RCK,swe_percapr1,34,2020-01-04
+South Lake,SLK,swe_latest,4.9,2020-01-04
+South Lake,SLK,swe_percapr1,31,2020-01-04
+Mammoth Pass,MHP,swe_latest,10.9,2020-01-04
+Mammoth Pass,MHP,swe_percapr1,26,2020-01-04
+Peterson Flat,PET,swe_latest,6.2,2020-01-05
+Peterson Flat,PET,swe_percapr1,21,2020-01-05
+Red Rock Mountain,RRM,swe_latest,14.9,2020-01-05
+Red Rock Mountain,RRM,swe_percapr1,38,2020-01-05
+Bonanza King,BNK,swe_latest,9.2,2020-01-05
+Bonanza King,BNK,swe_percapr1,23,2020-01-05
+Shimmy Lake,SHM,swe_latest,8.4,2020-01-05
+Shimmy Lake,SHM,swe_percapr1,21,2020-01-05
+Middle Boulder 3,MB3,swe_latest,10.6,2020-01-05
+Middle Boulder 3,MB3,swe_percapr1,37,2020-01-05
+Scott Mountain,SCT,swe_latest,2.8,2020-01-05
+Scott Mountain,SCT,swe_percapr1,17,2020-01-05
+Mumbo Basin,MUM,swe_latest,7.1,2020-01-05
+Mumbo Basin,MUM,swe_percapr1,32,2020-01-05
+Big Flat,BFL,swe_latest,4.7,2020-01-05
+Big Flat,BFL,swe_percapr1,30,2020-01-05
+Crowder Flat,CWF,swe_latest,1.2,2020-01-05
+Cedar Pass,CDP,swe_latest,6,2020-01-05
+Cedar Pass,CDP,swe_percapr1,33,2020-01-05
+Sand Flat,SDF,swe_latest,8.8,2020-01-05
+Sand Flat,SDF,swe_percapr1,21,2020-01-05
+Medicine Lake,MED,swe_latest,9,2020-01-05
+Medicine Lake,MED,swe_percapr1,28,2020-01-05
+Adin Mountain,ADM,swe_latest,3.8,2020-01-05
+Adin Mountain,ADM,swe_percapr1,28,2020-01-05
+Snow Mountain,SNM,swe_latest,5.5,2020-01-05
+Snow Mountain,SNM,swe_percapr1,20,2020-01-05
+Slate Creek,SLT,swe_latest,2.3,2020-01-05
+Slate Creek,SLT,swe_percapr1,8,2020-01-05
+Stouts Meadow,STM,swe_latest,7.3,2020-01-05
+Stouts Meadow,STM,swe_percapr1,20,2020-01-05
+Kettle Rock,KTL,swe_latest,9,2020-01-05
+Kettle Rock,KTL,swe_percapr1,35,2020-01-05
+Grizzly Ridge,GRZ,swe_latest,9.8,2020-01-05
+Grizzly Ridge,GRZ,swe_percapr1,33,2020-01-05
+Pilot Peak,PLP,swe_latest,13.9,2020-01-05
+Pilot Peak,PLP,swe_percapr1,26,2020-01-05
+Gold Lake,GOL,swe_latest,11.8,2020-01-05
+Gold Lake,GOL,swe_percapr1,32,2020-01-05
+Humbug,HMB,swe_latest,15.4,2020-01-05
+Humbug,HMB,swe_percapr1,55,2020-01-05
+Harkness Flat,HRK,swe_latest,7.6,2020-01-05
+Harkness Flat,HRK,swe_percapr1,27,2020-01-05
+Rattlesnake,RTL,swe_latest,8.2,2020-01-05
+Rattlesnake,RTL,swe_percapr1,58,2020-01-05
+Bucks Lake,BKL,swe_latest,12.4,2020-01-05
+Bucks Lake,BKL,swe_percapr1,28,2020-01-05
+Four Trees,FOR,swe_latest,5.4,2020-01-05
+Four Trees,FOR,swe_percapr1,27,2020-01-05
+Noel Spring,NLS,swe_latest,1.2,2020-01-05
+Schneiders,SCN,swe_latest,18.3,2020-01-05
+Schneiders,SCN,swe_percapr1,53,2020-01-05
+Carson Pass,CXS,swe_latest,14.2,2020-01-05
+Alpha,ALP,swe_latest,13.1,2020-01-05
+Alpha,ALP,swe_percapr1,37,2020-01-05
+Forni Ridge,FRN,swe_latest,13.3,2020-01-05
+Forni Ridge,FRN,swe_percapr1,36,2020-01-05
+Meadow Lake,MDW,swe_latest,16.7,2020-01-05
+Meadow Lake,MDW,swe_percapr1,30,2020-01-05
+Silver Lake,SIL,swe_latest,12.2,2020-01-05
+Silver Lake,SIL,swe_percapr1,54,2020-01-05
+Central Sierra Snow Lab,CSL,swe_latest,12.3,2020-01-05
+Central Sierra Snow Lab,CSL,swe_percapr1,37,2020-01-05
+Van Vleck,VVL,swe_latest,14.2,2020-01-05
+Van Vleck,VVL,swe_percapr1,39,2020-01-05
+Huysink,HYS,swe_latest,10.6,2020-01-05
+Huysink,HYS,swe_percapr1,25,2020-01-05
+Robbs Saddle,RBB,swe_latest,3.5,2020-01-05
+Robbs Saddle,RBB,swe_percapr1,16,2020-01-05
+Blue Canyon,BLC,swe_latest,2.1,2020-01-05
+Blue Canyon,BLC,swe_percapr1,23,2020-01-05
+Robbs Powerhouse,RBP,swe_latest,1,2020-01-05
+Robbs Powerhouse,RBP,swe_percapr1,19,2020-01-05
+Deadman Creek,DDM,swe_latest,6.1,2020-01-05
+Deadman Creek,DDM,swe_percapr1,16,2020-01-05
+Highland Meadow,HHM,swe_latest,16.5,2020-01-05
+Highland Meadow,HHM,swe_percapr1,34,2020-01-05
+Gianelli Meadow,GNL,swe_latest,15.5,2020-01-05
+Gianelli Meadow,GNL,swe_percapr1,28,2020-01-05
+Blue Lakes,BLK,swe_latest,12.4,2020-01-05
+Blue Lakes,BLK,swe_percapr1,37,2020-01-05
+Stanislaus Meadow,SLM,swe_latest,19.1,2020-01-05
+Stanislaus Meadow,SLM,swe_percapr1,40,2020-01-05
+Bloods Creek,BLD,swe_latest,16.8,2020-01-05
+Bloods Creek,BLD,swe_percapr1,47,2020-01-05
+Black Springs,BLS,swe_latest,12.7,2020-01-05
+Black Springs,BLS,swe_percapr1,40,2020-01-05
+Dana Meadows,DAN,swe_latest,8.3,2020-01-05
+Dana Meadows,DAN,swe_percapr1,30,2020-01-05
+Slide Canyon,SLI,swe_latest,10.9,2020-01-05
+Slide Canyon,SLI,swe_percapr1,26,2020-01-05
+Tuolumne Meadows,TUM,swe_latest,6.4,2020-01-05
+Tuolumne Meadows,TUM,swe_percapr1,28,2020-01-05
+Horse Meadow,HRS,swe_latest,17.3,2020-01-05
+Horse Meadow,HRS,swe_percapr1,36,2020-01-05
+Ostrander Lake,STR,swe_latest,12.5,2020-01-05
+Ostrander Lake,STR,swe_percapr1,36,2020-01-05
+Lake Tenaya,TNY,swe_latest,11.2,2020-01-05
+Lake Tenaya,TNY,swe_percapr1,34,2020-01-05
+Paradise Meadow,PDS,swe_latest,12.9,2020-01-05
+Paradise Meadow,PDS,swe_percapr1,31,2020-01-05
+Gin Flat,GIN,swe_latest,8.8,2020-01-05
+Gin Flat,GIN,swe_percapr1,26,2020-01-05
+Lower Kibbie Ridge,KIB,swe_latest,6.4,2020-01-05
+Lower Kibbie Ridge,KIB,swe_percapr1,23,2020-01-05
+Volcanic Knob,VLC,swe_latest,10.6,2020-01-05
+Volcanic Knob,VLC,swe_percapr1,35,2020-01-05
+Kaiser Point,KSP,swe_latest,9.6,2020-01-05
+Kaiser Point,KSP,swe_percapr1,25,2020-01-05
+Green Mountain,GRM,swe_latest,9.7,2020-01-05
+Green Mountain,GRM,swe_percapr1,32,2020-01-05
+Chilkoot Meadow,CHM,swe_latest,10.3,2020-01-05
+Chilkoot Meadow,CHM,swe_percapr1,27,2020-01-05
+Huntington Lake,HNT,swe_latest,7.8,2020-01-05
+Huntington Lake,HNT,swe_percapr1,39,2020-01-05
+Graveyard Meadow,GRV,swe_latest,7.7,2020-01-05
+Graveyard Meadow,GRV,swe_percapr1,41,2020-01-05
+Poison Ridge,PSR,swe_latest,12.4,2020-01-05
+Poison Ridge,PSR,swe_percapr1,43,2020-01-05
+Charlotte Lake,CRL,swe_latest,12.8,2020-01-05
+Charlotte Lake,CRL,swe_percapr1,46,2020-01-05
+State Lakes,STL,swe_latest,11.3,2020-01-05
+State Lakes,STL,swe_percapr1,39,2020-01-05
+Mitchell Meadow,MTM,swe_latest,12.9,2020-01-05
+Mitchell Meadow,MTM,swe_percapr1,39,2020-01-05
+Upper Burnt Corral,UBC,swe_latest,12.6,2020-01-05
+Upper Burnt Corral,UBC,swe_percapr1,36,2020-01-05
+West Woodchuck Meadow,WWC,swe_latest,13.6,2020-01-05
+West Woodchuck Meadow,WWC,swe_percapr1,41,2020-01-05
+Quaking Aspen,QUA,swe_latest,9.3,2020-01-05
+Quaking Aspen,QUA,swe_percapr1,44,2020-01-05
+Giant Forest,GNF,swe_latest,4.7,2020-01-05
+Giant Forest,GNF,swe_percapr1,47,2020-01-05
+Upper Tyndall Creek,UTY,swe_latest,6.4,2020-01-05
+Upper Tyndall Creek,UTY,swe_percapr1,23,2020-01-05
+Crabtree Meadow,CBT,swe_latest,5.6,2020-01-05
+Crabtree Meadow,CBT,swe_percapr1,28,2020-01-05
+Chagoopa Plateau,CHP,swe_latest,7.5,2020-01-05
+Chagoopa Plateau,CHP,swe_percapr1,34,2020-01-05
+Pascoes,PSC,swe_latest,9.9,2020-01-05
+Pascoes,PSC,swe_percapr1,40,2020-01-05
+Wet Meadows,WTM,swe_latest,10.9,2020-01-05
+Wet Meadows,WTM,swe_percapr1,36,2020-01-05
+Casa Vieja Meadows,CSV,swe_latest,8.1,2020-01-05
+Casa Vieja Meadows,CSV,swe_percapr1,39,2020-01-05
+Beach Meadows,BCH,swe_latest,6.6,2020-01-05
+Beach Meadows,BCH,swe_percapr1,60,2020-01-05
+Dismal Swamp,DSS,swe_latest,11.5,2020-01-05
+Dismal Swamp,DSS,swe_percapr1,39,2020-01-05
+Big Meadows,BMW,swe_latest,9,2020-01-05
+Big Meadows,BMW,swe_percapr1,35,2020-01-05
+Squaw Valley,SQV,swe_latest,16.7,2020-01-05
+Squaw Valley,SQV,swe_percapr1,36,2020-01-05
+Independence Creek,INN,swe_latest,4.3,2020-01-05
+Independence Creek,INN,swe_percapr1,34,2020-01-05
+Truckee 2,TK2,swe_latest,6.7,2020-01-05
+Truckee 2,TK2,swe_percapr1,47,2020-01-05
+Mount Rose Ski Area,MSK,swe_latest,15.8,2020-01-05
+Mount Rose Ski Area,MSK,swe_percapr1,41,2020-01-05
+Heavenly Valley,HVN,swe_latest,7.3,2020-01-05
+Heavenly Valley,HVN,swe_percapr1,26,2020-01-05
+Hagans Meadow,HGM,swe_latest,7.8,2020-01-05
+Hagans Meadow,HGM,swe_percapr1,47,2020-01-05
+Marlette Lake,MRL,swe_latest,9.6,2020-01-05
+Marlette Lake,MRL,swe_percapr1,45,2020-01-05
+Echo Peak 5,EP5,swe_latest,15.3,2020-01-05
+Echo Peak 5,EP5,swe_percapr1,39,2020-01-05
+Rubicon Peak 2,RP2,swe_latest,9.5,2020-01-05
+Rubicon Peak 2,RP2,swe_percapr1,33,2020-01-05
+Tahoe City Cross,TCC,swe_latest,6.3,2020-01-05
+Tahoe City Cross,TCC,swe_percapr1,39,2020-01-05
+Ward Creek 3,WC3,swe_latest,12.2,2020-01-05
+Ward Creek 3,WC3,swe_percapr1,31,2020-01-05
+Fallen Leaf Lake,FLL,swe_latest,2.1,2020-01-05
+Fallen Leaf Lake,FLL,swe_percapr1,30,2020-01-05
+Ebbetts Pass,EBB,swe_latest,14.5,2020-01-05
+Ebbetts Pass,EBB,swe_percapr1,37,2020-01-05
+Horse Meadow,HOR,swe_latest,9.7,2020-01-05
+Monitor Pass,MNT,swe_latest,5.9,2020-01-05
+Burnside Lake,BSK,swe_latest,12.5,2020-01-05
+Forestdale Creek,FDC,swe_latest,15.7,2020-01-05
+Poison Flat,PSN,swe_latest,7,2020-01-05
+Poison Flat,PSN,swe_percapr1,43,2020-01-05
+Spratt Creek,SPT,swe_latest,3.3,2020-01-05
+Spratt Creek,SPT,swe_percapr1,73,2020-01-05
+Leavitt Lake,LVT,swe_latest,18,2020-01-05
+Summit Meadow,SDW,swe_latest,6.7,2020-01-05
+Virginia Lakes,VRG,swe_latest,4.3,2020-01-05
+Virginia Lakes,VRG,swe_percapr1,21,2020-01-05
+Lobdell Lake,LBD,swe_latest,3.3,2020-01-05
+Lobdell Lake,LBD,swe_percapr1,19,2020-01-05
+Sonora Pass Bridge,SPS,swe_latest,7.2,2020-01-05
+Sonora Pass Bridge,SPS,swe_percapr1,28,2020-01-05
+Leavitt Meadows,LVM,swe_latest,5.4,2020-01-05
+Leavitt Meadows,LVM,swe_percapr1,68,2020-01-05
+Gem Pass,GEM,swe_latest,6.9,2020-01-05
+Gem Pass,GEM,swe_percapr1,22,2020-01-05
+Sawmill,SWM,swe_latest,6.6,2020-01-05
+Sawmill,SWM,swe_percapr1,34,2020-01-05
+Cottonwood Lakes,CWD,swe_latest,7.4,2020-01-05
+Cottonwood Lakes,CWD,swe_percapr1,64,2020-01-05
+Rock Creek Lakes,RCK,swe_latest,4.6,2020-01-05
+Rock Creek Lakes,RCK,swe_percapr1,33,2020-01-05
+South Lake,SLK,swe_latest,4.9,2020-01-05
+South Lake,SLK,swe_percapr1,31,2020-01-05
+Mammoth Pass,MHP,swe_latest,10.9,2020-01-05
+Mammoth Pass,MHP,swe_percapr1,26,2020-01-05
+Peterson Flat,PET,swe_latest,6.2,2020-01-06
+Peterson Flat,PET,swe_percapr1,21,2020-01-06
+Red Rock Mountain,RRM,swe_latest,15.2,2020-01-06
+Red Rock Mountain,RRM,swe_percapr1,38,2020-01-06
+Bonanza King,BNK,swe_latest,9.2,2020-01-06
+Bonanza King,BNK,swe_percapr1,23,2020-01-06
+Shimmy Lake,SHM,swe_latest,8.6,2020-01-06
+Shimmy Lake,SHM,swe_percapr1,21,2020-01-06
+Middle Boulder 3,MB3,swe_latest,10.3,2020-01-06
+Middle Boulder 3,MB3,swe_percapr1,36,2020-01-06
+Scott Mountain,SCT,swe_latest,2.6,2020-01-06
+Scott Mountain,SCT,swe_percapr1,16,2020-01-06
+Mumbo Basin,MUM,swe_latest,6.7,2020-01-06
+Mumbo Basin,MUM,swe_percapr1,30,2020-01-06
+Big Flat,BFL,swe_latest,4.8,2020-01-06
+Big Flat,BFL,swe_percapr1,30,2020-01-06
+Crowder Flat,CWF,swe_latest,1.1,2020-01-06
+Cedar Pass,CDP,swe_latest,6,2020-01-06
+Cedar Pass,CDP,swe_percapr1,33,2020-01-06
+Sand Flat,SDF,swe_latest,8.8,2020-01-06
+Sand Flat,SDF,swe_percapr1,21,2020-01-06
+Medicine Lake,MED,swe_latest,8.9,2020-01-06
+Medicine Lake,MED,swe_percapr1,27,2020-01-06
+Adin Mountain,ADM,swe_latest,3.6,2020-01-06
+Adin Mountain,ADM,swe_percapr1,26,2020-01-06
+Snow Mountain,SNM,swe_latest,5.6,2020-01-06
+Snow Mountain,SNM,swe_percapr1,21,2020-01-06
+Slate Creek,SLT,swe_latest,2.2,2020-01-06
+Slate Creek,SLT,swe_percapr1,7,2020-01-06
+Stouts Meadow,STM,swe_latest,7.3,2020-01-06
+Stouts Meadow,STM,swe_percapr1,20,2020-01-06
+Kettle Rock,KTL,swe_latest,8.9,2020-01-06
+Kettle Rock,KTL,swe_percapr1,35,2020-01-06
+Grizzly Ridge,GRZ,swe_latest,9.8,2020-01-06
+Grizzly Ridge,GRZ,swe_percapr1,33,2020-01-06
+Pilot Peak,PLP,swe_latest,14.1,2020-01-06
+Pilot Peak,PLP,swe_percapr1,27,2020-01-06
+Gold Lake,GOL,swe_latest,11.6,2020-01-06
+Gold Lake,GOL,swe_percapr1,32,2020-01-06
+Humbug,HMB,swe_latest,15.4,2020-01-06
+Humbug,HMB,swe_percapr1,55,2020-01-06
+Harkness Flat,HRK,swe_latest,7.7,2020-01-06
+Harkness Flat,HRK,swe_percapr1,27,2020-01-06
+Rattlesnake,RTL,swe_latest,8,2020-01-06
+Rattlesnake,RTL,swe_percapr1,57,2020-01-06
+Bucks Lake,BKL,swe_latest,12.4,2020-01-06
+Bucks Lake,BKL,swe_percapr1,28,2020-01-06
+Four Trees,FOR,swe_latest,5.3,2020-01-06
+Four Trees,FOR,swe_percapr1,26,2020-01-06
+Noel Spring,NLS,swe_latest,1.1,2020-01-06
+Schneiders,SCN,swe_latest,18.4,2020-01-06
+Schneiders,SCN,swe_percapr1,53,2020-01-06
+Carson Pass,CXS,swe_latest,14.1,2020-01-06
+Alpha,ALP,swe_latest,13.1,2020-01-06
+Alpha,ALP,swe_percapr1,37,2020-01-06
+Forni Ridge,FRN,swe_latest,13.5,2020-01-06
+Forni Ridge,FRN,swe_percapr1,36,2020-01-06
+Meadow Lake,MDW,swe_latest,16.6,2020-01-06
+Meadow Lake,MDW,swe_percapr1,30,2020-01-06
+Silver Lake,SIL,swe_latest,12.2,2020-01-06
+Silver Lake,SIL,swe_percapr1,54,2020-01-06
+Central Sierra Snow Lab,CSL,swe_latest,12.1,2020-01-06
+Central Sierra Snow Lab,CSL,swe_percapr1,36,2020-01-06
+Van Vleck,VVL,swe_latest,14.1,2020-01-06
+Van Vleck,VVL,swe_percapr1,39,2020-01-06
+Robbs Saddle,RBB,swe_latest,3.5,2020-01-06
+Robbs Saddle,RBB,swe_percapr1,16,2020-01-06
+Blue Canyon,BLC,swe_latest,1.8,2020-01-06
+Blue Canyon,BLC,swe_percapr1,19,2020-01-06
+Robbs Powerhouse,RBP,swe_latest,0.9,2020-01-06
+Robbs Powerhouse,RBP,swe_percapr1,18,2020-01-06
+Deadman Creek,DDM,swe_latest,6.1,2020-01-06
+Deadman Creek,DDM,swe_percapr1,16,2020-01-06
+Highland Meadow,HHM,swe_latest,16.3,2020-01-06
+Highland Meadow,HHM,swe_percapr1,34,2020-01-06
+Gianelli Meadow,GNL,swe_latest,15.5,2020-01-06
+Gianelli Meadow,GNL,swe_percapr1,28,2020-01-06
+Blue Lakes,BLK,swe_latest,12.2,2020-01-06
+Blue Lakes,BLK,swe_percapr1,37,2020-01-06
+Stanislaus Meadow,SLM,swe_latest,19.1,2020-01-06
+Stanislaus Meadow,SLM,swe_percapr1,40,2020-01-06
+Bloods Creek,BLD,swe_latest,16.8,2020-01-06
+Bloods Creek,BLD,swe_percapr1,47,2020-01-06
+Black Springs,BLS,swe_latest,12.7,2020-01-06
+Black Springs,BLS,swe_percapr1,40,2020-01-06
+Dana Meadows,DAN,swe_latest,8.3,2020-01-06
+Dana Meadows,DAN,swe_percapr1,30,2020-01-06
+Slide Canyon,SLI,swe_latest,10.9,2020-01-06
+Slide Canyon,SLI,swe_percapr1,26,2020-01-06
+Tuolumne Meadows,TUM,swe_latest,6.3,2020-01-06
+Tuolumne Meadows,TUM,swe_percapr1,28,2020-01-06
+Horse Meadow,HRS,swe_latest,17.2,2020-01-06
+Horse Meadow,HRS,swe_percapr1,35,2020-01-06
+Ostrander Lake,STR,swe_latest,12.5,2020-01-06
+Ostrander Lake,STR,swe_percapr1,36,2020-01-06
+Lake Tenaya,TNY,swe_latest,11.2,2020-01-06
+Lake Tenaya,TNY,swe_percapr1,34,2020-01-06
+Paradise Meadow,PDS,swe_latest,12.9,2020-01-06
+Paradise Meadow,PDS,swe_percapr1,31,2020-01-06
+Gin Flat,GIN,swe_latest,8.5,2020-01-06
+Gin Flat,GIN,swe_percapr1,25,2020-01-06
+Lower Kibbie Ridge,KIB,swe_latest,6.3,2020-01-06
+Lower Kibbie Ridge,KIB,swe_percapr1,23,2020-01-06
+Volcanic Knob,VLC,swe_latest,10.6,2020-01-06
+Volcanic Knob,VLC,swe_percapr1,35,2020-01-06
+Kaiser Point,KSP,swe_latest,9.6,2020-01-06
+Kaiser Point,KSP,swe_percapr1,25,2020-01-06
+Green Mountain,GRM,swe_latest,9.6,2020-01-06
+Green Mountain,GRM,swe_percapr1,31,2020-01-06
+Chilkoot Meadow,CHM,swe_latest,10.3,2020-01-06
+Chilkoot Meadow,CHM,swe_percapr1,27,2020-01-06
+Huntington Lake,HNT,swe_latest,7.8,2020-01-06
+Huntington Lake,HNT,swe_percapr1,39,2020-01-06
+Graveyard Meadow,GRV,swe_latest,7.7,2020-01-06
+Graveyard Meadow,GRV,swe_percapr1,41,2020-01-06
+Poison Ridge,PSR,swe_latest,12.3,2020-01-06
+Poison Ridge,PSR,swe_percapr1,43,2020-01-06
+Charlotte Lake,CRL,swe_latest,12.7,2020-01-06
+Charlotte Lake,CRL,swe_percapr1,46,2020-01-06
+State Lakes,STL,swe_latest,11.3,2020-01-06
+State Lakes,STL,swe_percapr1,39,2020-01-06
+Mitchell Meadow,MTM,swe_latest,12.9,2020-01-06
+Mitchell Meadow,MTM,swe_percapr1,39,2020-01-06
+Upper Burnt Corral,UBC,swe_latest,12.4,2020-01-06
+Upper Burnt Corral,UBC,swe_percapr1,36,2020-01-06
+West Woodchuck Meadow,WWC,swe_latest,13.9,2020-01-06
+West Woodchuck Meadow,WWC,swe_percapr1,42,2020-01-06
+Quaking Aspen,QUA,swe_latest,9.3,2020-01-06
+Quaking Aspen,QUA,swe_percapr1,44,2020-01-06
+Giant Forest,GNF,swe_latest,4.7,2020-01-06
+Giant Forest,GNF,swe_percapr1,47,2020-01-06
+Upper Tyndall Creek,UTY,swe_latest,6.4,2020-01-06
+Upper Tyndall Creek,UTY,swe_percapr1,23,2020-01-06
+Crabtree Meadow,CBT,swe_latest,5.5,2020-01-06
+Crabtree Meadow,CBT,swe_percapr1,28,2020-01-06
+Chagoopa Plateau,CHP,swe_latest,7.5,2020-01-06
+Chagoopa Plateau,CHP,swe_percapr1,34,2020-01-06
+Pascoes,PSC,swe_latest,9.9,2020-01-06
+Pascoes,PSC,swe_percapr1,40,2020-01-06
+Wet Meadows,WTM,swe_latest,10.9,2020-01-06
+Wet Meadows,WTM,swe_percapr1,36,2020-01-06
+Casa Vieja Meadows,CSV,swe_latest,8.1,2020-01-06
+Casa Vieja Meadows,CSV,swe_percapr1,39,2020-01-06
+Beach Meadows,BCH,swe_latest,6.6,2020-01-06
+Beach Meadows,BCH,swe_percapr1,60,2020-01-06
+Dismal Swamp,DSS,swe_latest,11.5,2020-01-06
+Dismal Swamp,DSS,swe_percapr1,39,2020-01-06
+Big Meadows,BMW,swe_latest,9,2020-01-06
+Big Meadows,BMW,swe_percapr1,35,2020-01-06
+Squaw Valley,SQV,swe_latest,16.5,2020-01-06
+Squaw Valley,SQV,swe_percapr1,35,2020-01-06
+Independence Creek,INN,swe_latest,4.7,2020-01-06
+Independence Creek,INN,swe_percapr1,37,2020-01-06
+Truckee 2,TK2,swe_latest,6.7,2020-01-06
+Truckee 2,TK2,swe_percapr1,47,2020-01-06
+Mount Rose Ski Area,MSK,swe_latest,15.8,2020-01-06
+Mount Rose Ski Area,MSK,swe_percapr1,41,2020-01-06
+Heavenly Valley,HVN,swe_latest,7.3,2020-01-06
+Heavenly Valley,HVN,swe_percapr1,26,2020-01-06
+Hagans Meadow,HGM,swe_latest,7.8,2020-01-06
+Hagans Meadow,HGM,swe_percapr1,47,2020-01-06
+Marlette Lake,MRL,swe_latest,9.5,2020-01-06
+Marlette Lake,MRL,swe_percapr1,45,2020-01-06
+Echo Peak 5,EP5,swe_latest,15.3,2020-01-06
+Echo Peak 5,EP5,swe_percapr1,39,2020-01-06
+Rubicon Peak 2,RP2,swe_latest,9.5,2020-01-06
+Rubicon Peak 2,RP2,swe_percapr1,33,2020-01-06
+Tahoe City Cross,TCC,swe_latest,6.4,2020-01-06
+Tahoe City Cross,TCC,swe_percapr1,40,2020-01-06
+Ward Creek 3,WC3,swe_latest,11.9,2020-01-06
+Ward Creek 3,WC3,swe_percapr1,30,2020-01-06
+Fallen Leaf Lake,FLL,swe_latest,2,2020-01-06
+Fallen Leaf Lake,FLL,swe_percapr1,29,2020-01-06
+Ebbetts Pass,EBB,swe_latest,14.3,2020-01-06
+Ebbetts Pass,EBB,swe_percapr1,37,2020-01-06
+Horse Meadow,HOR,swe_latest,9.6,2020-01-06
+Monitor Pass,MNT,swe_latest,5.7,2020-01-06
+Burnside Lake,BSK,swe_latest,12.3,2020-01-06
+Forestdale Creek,FDC,swe_latest,15.3,2020-01-06
+Poison Flat,PSN,swe_latest,7,2020-01-06
+Poison Flat,PSN,swe_percapr1,43,2020-01-06
+Spratt Creek,SPT,swe_latest,3.2,2020-01-06
+Spratt Creek,SPT,swe_percapr1,71,2020-01-06
+Leavitt Lake,LVT,swe_latest,17.9,2020-01-06
+Summit Meadow,SDW,swe_latest,6.4,2020-01-06
+Virginia Lakes,VRG,swe_latest,4.3,2020-01-06
+Virginia Lakes,VRG,swe_percapr1,21,2020-01-06
+Lobdell Lake,LBD,swe_latest,3.1,2020-01-06
+Lobdell Lake,LBD,swe_percapr1,18,2020-01-06
+Sonora Pass Bridge,SPS,swe_latest,7,2020-01-06
+Sonora Pass Bridge,SPS,swe_percapr1,27,2020-01-06
+Leavitt Meadows,LVM,swe_latest,5.6,2020-01-06
+Leavitt Meadows,LVM,swe_percapr1,70,2020-01-06
+Gem Pass,GEM,swe_latest,6.9,2020-01-06
+Gem Pass,GEM,swe_percapr1,22,2020-01-06
+Sawmill,SWM,swe_latest,6.6,2020-01-06
+Sawmill,SWM,swe_percapr1,34,2020-01-06
+Cottonwood Lakes,CWD,swe_latest,7.5,2020-01-06
+Cottonwood Lakes,CWD,swe_percapr1,65,2020-01-06
+Rock Creek Lakes,RCK,swe_latest,4.7,2020-01-06
+Rock Creek Lakes,RCK,swe_percapr1,34,2020-01-06
+South Lake,SLK,swe_latest,4.8,2020-01-06
+South Lake,SLK,swe_percapr1,30,2020-01-06
+Mammoth Pass,MHP,swe_latest,10.9,2020-01-06
+Mammoth Pass,MHP,swe_percapr1,26,2020-01-06
+Peterson Flat,PET,swe_latest,6.1,2020-01-07
+Peterson Flat,PET,swe_percapr1,21,2020-01-07
+Red Rock Mountain,RRM,swe_latest,15.4,2020-01-07
+Red Rock Mountain,RRM,swe_percapr1,39,2020-01-07
+Bonanza King,BNK,swe_latest,9.4,2020-01-07
+Bonanza King,BNK,swe_percapr1,23,2020-01-07
+Shimmy Lake,SHM,swe_latest,8.6,2020-01-07
+Shimmy Lake,SHM,swe_percapr1,21,2020-01-07
+Middle Boulder 3,MB3,swe_latest,10.3,2020-01-07
+Middle Boulder 3,MB3,swe_percapr1,36,2020-01-07
+Scott Mountain,SCT,swe_latest,2.8,2020-01-07
+Scott Mountain,SCT,swe_percapr1,17,2020-01-07
+Mumbo Basin,MUM,swe_latest,6.5,2020-01-07
+Mumbo Basin,MUM,swe_percapr1,29,2020-01-07
+Big Flat,BFL,swe_latest,5.2,2020-01-07
+Big Flat,BFL,swe_percapr1,33,2020-01-07
+Crowder Flat,CWF,swe_latest,1.1,2020-01-07
+Cedar Pass,CDP,swe_latest,6.1,2020-01-07
+Cedar Pass,CDP,swe_percapr1,34,2020-01-07
+Sand Flat,SDF,swe_latest,8.8,2020-01-07
+Sand Flat,SDF,swe_percapr1,21,2020-01-07
+Medicine Lake,MED,swe_latest,8.9,2020-01-07
+Medicine Lake,MED,swe_percapr1,27,2020-01-07
+Adin Mountain,ADM,swe_latest,4.5,2020-01-07
+Adin Mountain,ADM,swe_percapr1,33,2020-01-07
+Snow Mountain,SNM,swe_latest,5.8,2020-01-07
+Snow Mountain,SNM,swe_percapr1,21,2020-01-07
+Slate Creek,SLT,swe_latest,2,2020-01-07
+Slate Creek,SLT,swe_percapr1,7,2020-01-07
+Stouts Meadow,STM,swe_latest,7.7,2020-01-07
+Stouts Meadow,STM,swe_percapr1,21,2020-01-07
+Kettle Rock,KTL,swe_latest,9.1,2020-01-07
+Kettle Rock,KTL,swe_percapr1,36,2020-01-07
+Grizzly Ridge,GRZ,swe_latest,10,2020-01-07
+Grizzly Ridge,GRZ,swe_percapr1,34,2020-01-07
+Pilot Peak,PLP,swe_latest,13.7,2020-01-07
+Pilot Peak,PLP,swe_percapr1,26,2020-01-07
+Gold Lake,GOL,swe_latest,11.6,2020-01-07
+Gold Lake,GOL,swe_percapr1,32,2020-01-07
+Humbug,HMB,swe_latest,15.5,2020-01-07
+Humbug,HMB,swe_percapr1,55,2020-01-07
+Harkness Flat,HRK,swe_latest,7.7,2020-01-07
+Harkness Flat,HRK,swe_percapr1,27,2020-01-07
+Rattlesnake,RTL,swe_latest,8.2,2020-01-07
+Rattlesnake,RTL,swe_percapr1,58,2020-01-07
+Bucks Lake,BKL,swe_latest,12.4,2020-01-07
+Bucks Lake,BKL,swe_percapr1,28,2020-01-07
+Four Trees,FOR,swe_latest,5.4,2020-01-07
+Four Trees,FOR,swe_percapr1,27,2020-01-07
+Noel Spring,NLS,swe_latest,1.1,2020-01-07
+Carson Pass,CXS,swe_latest,14.1,2020-01-07
+Alpha,ALP,swe_latest,13.2,2020-01-07
+Alpha,ALP,swe_percapr1,37,2020-01-07
+Forni Ridge,FRN,swe_latest,13.6,2020-01-07
+Forni Ridge,FRN,swe_percapr1,37,2020-01-07
+Meadow Lake,MDW,swe_latest,16.5,2020-01-07
+Meadow Lake,MDW,swe_percapr1,30,2020-01-07
+Silver Lake,SIL,swe_latest,12.3,2020-01-07
+Silver Lake,SIL,swe_percapr1,54,2020-01-07
+Central Sierra Snow Lab,CSL,swe_latest,12,2020-01-07
+Central Sierra Snow Lab,CSL,swe_percapr1,36,2020-01-07
+Van Vleck,VVL,swe_latest,14.2,2020-01-07
+Van Vleck,VVL,swe_percapr1,40,2020-01-07
+Huysink,HYS,swe_latest,10.8,2020-01-07
+Huysink,HYS,swe_percapr1,25,2020-01-07
+Robbs Saddle,RBB,swe_latest,3.5,2020-01-07
+Robbs Saddle,RBB,swe_percapr1,16,2020-01-07
+Blue Canyon,BLC,swe_latest,2,2020-01-07
+Blue Canyon,BLC,swe_percapr1,22,2020-01-07
+Robbs Powerhouse,RBP,swe_latest,0.7,2020-01-07
+Robbs Powerhouse,RBP,swe_percapr1,14,2020-01-07
+Deadman Creek,DDM,swe_latest,6.1,2020-01-07
+Deadman Creek,DDM,swe_percapr1,16,2020-01-07
+Highland Meadow,HHM,swe_latest,16.2,2020-01-07
+Highland Meadow,HHM,swe_percapr1,34,2020-01-07
+Gianelli Meadow,GNL,swe_latest,15.6,2020-01-07
+Gianelli Meadow,GNL,swe_percapr1,28,2020-01-07
+Blue Lakes,BLK,swe_latest,12.3,2020-01-07
+Blue Lakes,BLK,swe_percapr1,37,2020-01-07
+Stanislaus Meadow,SLM,swe_latest,19.3,2020-01-07
+Stanislaus Meadow,SLM,swe_percapr1,41,2020-01-07
+Bloods Creek,BLD,swe_latest,17,2020-01-07
+Bloods Creek,BLD,swe_percapr1,48,2020-01-07
+Black Springs,BLS,swe_latest,12.7,2020-01-07
+Black Springs,BLS,swe_percapr1,40,2020-01-07
+Dana Meadows,DAN,swe_latest,8.5,2020-01-07
+Dana Meadows,DAN,swe_percapr1,31,2020-01-07
+Slide Canyon,SLI,swe_latest,10.8,2020-01-07
+Slide Canyon,SLI,swe_percapr1,26,2020-01-07
+Tuolumne Meadows,TUM,swe_latest,6.4,2020-01-07
+Tuolumne Meadows,TUM,swe_percapr1,28,2020-01-07
+Horse Meadow,HRS,swe_latest,17.2,2020-01-07
+Horse Meadow,HRS,swe_percapr1,35,2020-01-07
+Ostrander Lake,STR,swe_latest,12.4,2020-01-07
+Ostrander Lake,STR,swe_percapr1,36,2020-01-07
+Lake Tenaya,TNY,swe_latest,11.1,2020-01-07
+Lake Tenaya,TNY,swe_percapr1,34,2020-01-07
+Paradise Meadow,PDS,swe_latest,12.9,2020-01-07
+Paradise Meadow,PDS,swe_percapr1,31,2020-01-07
+Gin Flat,GIN,swe_latest,8.3,2020-01-07
+Gin Flat,GIN,swe_percapr1,24,2020-01-07
+Lower Kibbie Ridge,KIB,swe_latest,6.2,2020-01-07
+Lower Kibbie Ridge,KIB,swe_percapr1,23,2020-01-07
+Volcanic Knob,VLC,swe_latest,10.6,2020-01-07
+Volcanic Knob,VLC,swe_percapr1,35,2020-01-07
+Kaiser Point,KSP,swe_latest,9.6,2020-01-07
+Kaiser Point,KSP,swe_percapr1,25,2020-01-07
+Green Mountain,GRM,swe_latest,9.6,2020-01-07
+Green Mountain,GRM,swe_percapr1,31,2020-01-07
+Chilkoot Meadow,CHM,swe_latest,10.3,2020-01-07
+Chilkoot Meadow,CHM,swe_percapr1,27,2020-01-07
+Huntington Lake,HNT,swe_latest,7.8,2020-01-07
+Huntington Lake,HNT,swe_percapr1,39,2020-01-07
+Graveyard Meadow,GRV,swe_latest,7.7,2020-01-07
+Graveyard Meadow,GRV,swe_percapr1,41,2020-01-07
+Poison Ridge,PSR,swe_latest,12.3,2020-01-07
+Poison Ridge,PSR,swe_percapr1,43,2020-01-07
+Charlotte Lake,CRL,swe_latest,12.7,2020-01-07
+Charlotte Lake,CRL,swe_percapr1,46,2020-01-07
+State Lakes,STL,swe_latest,11.3,2020-01-07
+State Lakes,STL,swe_percapr1,39,2020-01-07
+Mitchell Meadow,MTM,swe_latest,12.9,2020-01-07
+Mitchell Meadow,MTM,swe_percapr1,39,2020-01-07
+Upper Burnt Corral,UBC,swe_latest,12.5,2020-01-07
+Upper Burnt Corral,UBC,swe_percapr1,36,2020-01-07
+West Woodchuck Meadow,WWC,swe_latest,14.1,2020-01-07
+West Woodchuck Meadow,WWC,swe_percapr1,43,2020-01-07
+Quaking Aspen,QUA,swe_latest,9.4,2020-01-07
+Quaking Aspen,QUA,swe_percapr1,45,2020-01-07
+Giant Forest,GNF,swe_latest,4.7,2020-01-07
+Giant Forest,GNF,swe_percapr1,47,2020-01-07
+Upper Tyndall Creek,UTY,swe_latest,6.4,2020-01-07
+Upper Tyndall Creek,UTY,swe_percapr1,23,2020-01-07
+Crabtree Meadow,CBT,swe_latest,5.6,2020-01-07
+Crabtree Meadow,CBT,swe_percapr1,28,2020-01-07
+Chagoopa Plateau,CHP,swe_latest,7.5,2020-01-07
+Chagoopa Plateau,CHP,swe_percapr1,34,2020-01-07
+Pascoes,PSC,swe_latest,9.9,2020-01-07
+Pascoes,PSC,swe_percapr1,40,2020-01-07
+Wet Meadows,WTM,swe_latest,10.9,2020-01-07
+Wet Meadows,WTM,swe_percapr1,36,2020-01-07
+Casa Vieja Meadows,CSV,swe_latest,8.1,2020-01-07
+Casa Vieja Meadows,CSV,swe_percapr1,39,2020-01-07
+Beach Meadows,BCH,swe_latest,6.5,2020-01-07
+Beach Meadows,BCH,swe_percapr1,59,2020-01-07
+Dismal Swamp,DSS,swe_latest,11.6,2020-01-07
+Dismal Swamp,DSS,swe_percapr1,40,2020-01-07
+Big Meadows,BMW,swe_latest,8.9,2020-01-07
+Big Meadows,BMW,swe_percapr1,35,2020-01-07
+Squaw Valley,SQV,swe_latest,16.6,2020-01-07
+Squaw Valley,SQV,swe_percapr1,36,2020-01-07
+Independence Creek,INN,swe_latest,4.9,2020-01-07
+Independence Creek,INN,swe_percapr1,39,2020-01-07
+Truckee 2,TK2,swe_latest,6.8,2020-01-07
+Truckee 2,TK2,swe_percapr1,48,2020-01-07
+Mount Rose Ski Area,MSK,swe_latest,15.8,2020-01-07
+Mount Rose Ski Area,MSK,swe_percapr1,41,2020-01-07
+Heavenly Valley,HVN,swe_latest,7.3,2020-01-07
+Heavenly Valley,HVN,swe_percapr1,26,2020-01-07
+Hagans Meadow,HGM,swe_latest,7.8,2020-01-07
+Hagans Meadow,HGM,swe_percapr1,47,2020-01-07
+Marlette Lake,MRL,swe_latest,9.5,2020-01-07
+Marlette Lake,MRL,swe_percapr1,45,2020-01-07
+Echo Peak 5,EP5,swe_latest,15.6,2020-01-07
+Echo Peak 5,EP5,swe_percapr1,39,2020-01-07
+Rubicon Peak 2,RP2,swe_latest,9.4,2020-01-07
+Rubicon Peak 2,RP2,swe_percapr1,32,2020-01-07
+Tahoe City Cross,TCC,swe_latest,6.7,2020-01-07
+Tahoe City Cross,TCC,swe_percapr1,42,2020-01-07
+Ward Creek 3,WC3,swe_latest,11.8,2020-01-07
+Ward Creek 3,WC3,swe_percapr1,30,2020-01-07
+Fallen Leaf Lake,FLL,swe_latest,2,2020-01-07
+Fallen Leaf Lake,FLL,swe_percapr1,29,2020-01-07
+Ebbetts Pass,EBB,swe_latest,14.4,2020-01-07
+Ebbetts Pass,EBB,swe_percapr1,37,2020-01-07
+Horse Meadow,HOR,swe_latest,9.6,2020-01-07
+Monitor Pass,MNT,swe_latest,5.8,2020-01-07
+Burnside Lake,BSK,swe_latest,12.3,2020-01-07
+Forestdale Creek,FDC,swe_latest,15.5,2020-01-07
+Poison Flat,PSN,swe_latest,7.2,2020-01-07
+Poison Flat,PSN,swe_percapr1,44,2020-01-07
+Spratt Creek,SPT,swe_latest,3.4,2020-01-07
+Spratt Creek,SPT,swe_percapr1,76,2020-01-07
+Leavitt Lake,LVT,swe_latest,18.1,2020-01-07
+Summit Meadow,SDW,swe_latest,6.6,2020-01-07
+Virginia Lakes,VRG,swe_latest,4.3,2020-01-07
+Virginia Lakes,VRG,swe_percapr1,21,2020-01-07
+Lobdell Lake,LBD,swe_latest,3.3,2020-01-07
+Lobdell Lake,LBD,swe_percapr1,19,2020-01-07
+Sonora Pass Bridge,SPS,swe_latest,7.1,2020-01-07
+Sonora Pass Bridge,SPS,swe_percapr1,27,2020-01-07
+Leavitt Meadows,LVM,swe_latest,5.1,2020-01-07
+Leavitt Meadows,LVM,swe_percapr1,64,2020-01-07
+Gem Pass,GEM,swe_latest,6.9,2020-01-07
+Gem Pass,GEM,swe_percapr1,22,2020-01-07
+Sawmill,SWM,swe_latest,6.6,2020-01-07
+Sawmill,SWM,swe_percapr1,34,2020-01-07
+Cottonwood Lakes,CWD,swe_latest,7.5,2020-01-07
+Cottonwood Lakes,CWD,swe_percapr1,65,2020-01-07
+Rock Creek Lakes,RCK,swe_latest,4.9,2020-01-07
+Rock Creek Lakes,RCK,swe_percapr1,35,2020-01-07
+South Lake,SLK,swe_latest,4.8,2020-01-07
+South Lake,SLK,swe_percapr1,30,2020-01-07
+Mammoth Pass,MHP,swe_latest,10.9,2020-01-07
+Mammoth Pass,MHP,swe_percapr1,26,2020-01-07
+Peterson Flat,PET,swe_latest,6,2020-01-08
+Peterson Flat,PET,swe_percapr1,21,2020-01-08
+Red Rock Mountain,RRM,swe_latest,15.8,2020-01-08
+Red Rock Mountain,RRM,swe_percapr1,40,2020-01-08
+Bonanza King,BNK,swe_latest,9.5,2020-01-08
+Bonanza King,BNK,swe_percapr1,23,2020-01-08
+Shimmy Lake,SHM,swe_latest,8.7,2020-01-08
+Shimmy Lake,SHM,swe_percapr1,22,2020-01-08
+Middle Boulder 3,MB3,swe_latest,10.5,2020-01-08
+Middle Boulder 3,MB3,swe_percapr1,37,2020-01-08
+Scott Mountain,SCT,swe_latest,2.8,2020-01-08
+Scott Mountain,SCT,swe_percapr1,17,2020-01-08
+Mumbo Basin,MUM,swe_latest,6.5,2020-01-08
+Mumbo Basin,MUM,swe_percapr1,29,2020-01-08
+Big Flat,BFL,swe_latest,5.8,2020-01-08
+Big Flat,BFL,swe_percapr1,36,2020-01-08
+Crowder Flat,CWF,swe_latest,1.2,2020-01-08
+Cedar Pass,CDP,swe_latest,6.2,2020-01-08
+Cedar Pass,CDP,swe_percapr1,34,2020-01-08
+Sand Flat,SDF,swe_latest,8.9,2020-01-08
+Sand Flat,SDF,swe_percapr1,21,2020-01-08
+Medicine Lake,MED,swe_latest,9.1,2020-01-08
+Medicine Lake,MED,swe_percapr1,28,2020-01-08
+Adin Mountain,ADM,swe_latest,4.7,2020-01-08
+Adin Mountain,ADM,swe_percapr1,35,2020-01-08
+Snow Mountain,SNM,swe_latest,5.6,2020-01-08
+Snow Mountain,SNM,swe_percapr1,21,2020-01-08
+Slate Creek,SLT,swe_latest,2.2,2020-01-08
+Slate Creek,SLT,swe_percapr1,7,2020-01-08
+Stouts Meadow,STM,swe_latest,8.2,2020-01-08
+Stouts Meadow,STM,swe_percapr1,23,2020-01-08
+Kettle Rock,KTL,swe_latest,9.1,2020-01-08
+Kettle Rock,KTL,swe_percapr1,36,2020-01-08
+Grizzly Ridge,GRZ,swe_latest,10.1,2020-01-08
+Grizzly Ridge,GRZ,swe_percapr1,34,2020-01-08
+Pilot Peak,PLP,swe_latest,13.8,2020-01-08
+Pilot Peak,PLP,swe_percapr1,26,2020-01-08
+Gold Lake,GOL,swe_latest,11.9,2020-01-08
+Gold Lake,GOL,swe_percapr1,33,2020-01-08
+Humbug,HMB,swe_latest,15.5,2020-01-08
+Humbug,HMB,swe_percapr1,55,2020-01-08
+Harkness Flat,HRK,swe_latest,7.7,2020-01-08
+Harkness Flat,HRK,swe_percapr1,27,2020-01-08
+Rattlesnake,RTL,swe_latest,8.3,2020-01-08
+Rattlesnake,RTL,swe_percapr1,59,2020-01-08
+Bucks Lake,BKL,swe_latest,12.5,2020-01-08
+Bucks Lake,BKL,swe_percapr1,28,2020-01-08
+Four Trees,FOR,swe_latest,5.4,2020-01-08
+Four Trees,FOR,swe_percapr1,27,2020-01-08
+Noel Spring,NLS,swe_latest,1,2020-01-08
+Carson Pass,CXS,swe_latest,14.1,2020-01-08
+Alpha,ALP,swe_latest,13.3,2020-01-08
+Alpha,ALP,swe_percapr1,37,2020-01-08
+Forni Ridge,FRN,swe_latest,13.7,2020-01-08
+Forni Ridge,FRN,swe_percapr1,37,2020-01-08
+Meadow Lake,MDW,swe_latest,16.8,2020-01-08
+Meadow Lake,MDW,swe_percapr1,30,2020-01-08
+Silver Lake,SIL,swe_latest,12.3,2020-01-08
+Silver Lake,SIL,swe_percapr1,54,2020-01-08
+Central Sierra Snow Lab,CSL,swe_latest,12,2020-01-08
+Central Sierra Snow Lab,CSL,swe_percapr1,36,2020-01-08
+Van Vleck,VVL,swe_latest,14.5,2020-01-08
+Van Vleck,VVL,swe_percapr1,40,2020-01-08
+Huysink,HYS,swe_latest,11,2020-01-08
+Huysink,HYS,swe_percapr1,26,2020-01-08
+Robbs Saddle,RBB,swe_latest,3.5,2020-01-08
+Robbs Saddle,RBB,swe_percapr1,16,2020-01-08
+Blue Canyon,BLC,swe_latest,2.2,2020-01-08
+Blue Canyon,BLC,swe_percapr1,25,2020-01-08
+Robbs Powerhouse,RBP,swe_latest,1.1,2020-01-08
+Robbs Powerhouse,RBP,swe_percapr1,20,2020-01-08
+Deadman Creek,DDM,swe_latest,6.1,2020-01-08
+Deadman Creek,DDM,swe_percapr1,16,2020-01-08
+Highland Meadow,HHM,swe_latest,16.2,2020-01-08
+Highland Meadow,HHM,swe_percapr1,34,2020-01-08
+Gianelli Meadow,GNL,swe_latest,15.6,2020-01-08
+Gianelli Meadow,GNL,swe_percapr1,28,2020-01-08
+Blue Lakes,BLK,swe_latest,12.5,2020-01-08
+Blue Lakes,BLK,swe_percapr1,38,2020-01-08
+Stanislaus Meadow,SLM,swe_latest,19.3,2020-01-08
+Stanislaus Meadow,SLM,swe_percapr1,41,2020-01-08
+Bloods Creek,BLD,swe_latest,17,2020-01-08
+Bloods Creek,BLD,swe_percapr1,48,2020-01-08
+Black Springs,BLS,swe_latest,12.7,2020-01-08
+Black Springs,BLS,swe_percapr1,40,2020-01-08
+Dana Meadows,DAN,swe_latest,8.6,2020-01-08
+Dana Meadows,DAN,swe_percapr1,31,2020-01-08
+Slide Canyon,SLI,swe_latest,10.8,2020-01-08
+Slide Canyon,SLI,swe_percapr1,26,2020-01-08
+Tuolumne Meadows,TUM,swe_latest,6.5,2020-01-08
+Tuolumne Meadows,TUM,swe_percapr1,29,2020-01-08
+Horse Meadow,HRS,swe_latest,17.2,2020-01-08
+Horse Meadow,HRS,swe_percapr1,35,2020-01-08
+Ostrander Lake,STR,swe_latest,12.3,2020-01-08
+Ostrander Lake,STR,swe_percapr1,35,2020-01-08
+Lake Tenaya,TNY,swe_latest,11.1,2020-01-08
+Lake Tenaya,TNY,swe_percapr1,34,2020-01-08
+Paradise Meadow,PDS,swe_latest,12.9,2020-01-08
+Paradise Meadow,PDS,swe_percapr1,31,2020-01-08
+Gin Flat,GIN,swe_latest,8.4,2020-01-08
+Gin Flat,GIN,swe_percapr1,24,2020-01-08
+Lower Kibbie Ridge,KIB,swe_latest,6.3,2020-01-08
+Lower Kibbie Ridge,KIB,swe_percapr1,23,2020-01-08
+Volcanic Knob,VLC,swe_latest,10.6,2020-01-08
+Volcanic Knob,VLC,swe_percapr1,35,2020-01-08
+Kaiser Point,KSP,swe_latest,9.6,2020-01-08
+Kaiser Point,KSP,swe_percapr1,25,2020-01-08
+Green Mountain,GRM,swe_latest,9.5,2020-01-08
+Green Mountain,GRM,swe_percapr1,31,2020-01-08
+Chilkoot Meadow,CHM,swe_latest,10.3,2020-01-08
+Chilkoot Meadow,CHM,swe_percapr1,27,2020-01-08
+Huntington Lake,HNT,swe_latest,7.8,2020-01-08
+Huntington Lake,HNT,swe_percapr1,39,2020-01-08
+Graveyard Meadow,GRV,swe_latest,7.6,2020-01-08
+Graveyard Meadow,GRV,swe_percapr1,40,2020-01-08
+Poison Ridge,PSR,swe_latest,12.2,2020-01-08
+Poison Ridge,PSR,swe_percapr1,42,2020-01-08
+Charlotte Lake,CRL,swe_latest,12.5,2020-01-08
+Charlotte Lake,CRL,swe_percapr1,46,2020-01-08
+State Lakes,STL,swe_latest,11.4,2020-01-08
+State Lakes,STL,swe_percapr1,39,2020-01-08
+Mitchell Meadow,MTM,swe_latest,12.9,2020-01-08
+Mitchell Meadow,MTM,swe_percapr1,39,2020-01-08
+Upper Burnt Corral,UBC,swe_latest,12.8,2020-01-08
+Upper Burnt Corral,UBC,swe_percapr1,37,2020-01-08
+West Woodchuck Meadow,WWC,swe_latest,14.2,2020-01-08
+West Woodchuck Meadow,WWC,swe_percapr1,43,2020-01-08
+Quaking Aspen,QUA,swe_latest,9.3,2020-01-08
+Quaking Aspen,QUA,swe_percapr1,44,2020-01-08
+Giant Forest,GNF,swe_latest,4.7,2020-01-08
+Giant Forest,GNF,swe_percapr1,47,2020-01-08
+Upper Tyndall Creek,UTY,swe_latest,6.4,2020-01-08
+Upper Tyndall Creek,UTY,swe_percapr1,23,2020-01-08
+Crabtree Meadow,CBT,swe_latest,5.6,2020-01-08
+Crabtree Meadow,CBT,swe_percapr1,28,2020-01-08
+Chagoopa Plateau,CHP,swe_latest,7.5,2020-01-08
+Chagoopa Plateau,CHP,swe_percapr1,35,2020-01-08
+Pascoes,PSC,swe_latest,9.9,2020-01-08
+Pascoes,PSC,swe_percapr1,40,2020-01-08
+Wet Meadows,WTM,swe_latest,10.9,2020-01-08
+Wet Meadows,WTM,swe_percapr1,36,2020-01-08
+Casa Vieja Meadows,CSV,swe_latest,8.1,2020-01-08
+Casa Vieja Meadows,CSV,swe_percapr1,39,2020-01-08
+Beach Meadows,BCH,swe_latest,6.7,2020-01-08
+Beach Meadows,BCH,swe_percapr1,61,2020-01-08
+Dismal Swamp,DSS,swe_latest,12,2020-01-08
+Dismal Swamp,DSS,swe_percapr1,41,2020-01-08
+Big Meadows,BMW,swe_latest,8.9,2020-01-08
+Big Meadows,BMW,swe_percapr1,35,2020-01-08
+Squaw Valley,SQV,swe_latest,16.7,2020-01-08
+Squaw Valley,SQV,swe_percapr1,36,2020-01-08
+Independence Creek,INN,swe_latest,4.8,2020-01-08
+Independence Creek,INN,swe_percapr1,38,2020-01-08
+Truckee 2,TK2,swe_latest,6.4,2020-01-08
+Truckee 2,TK2,swe_percapr1,45,2020-01-08
+Mount Rose Ski Area,MSK,swe_latest,15.8,2020-01-08
+Mount Rose Ski Area,MSK,swe_percapr1,41,2020-01-08
+Heavenly Valley,HVN,swe_latest,7.3,2020-01-08
+Heavenly Valley,HVN,swe_percapr1,26,2020-01-08
+Hagans Meadow,HGM,swe_latest,7.7,2020-01-08
+Hagans Meadow,HGM,swe_percapr1,47,2020-01-08
+Marlette Lake,MRL,swe_latest,9.6,2020-01-08
+Marlette Lake,MRL,swe_percapr1,45,2020-01-08
+Echo Peak 5,EP5,swe_latest,15.9,2020-01-08
+Echo Peak 5,EP5,swe_percapr1,40,2020-01-08
+Rubicon Peak 2,RP2,swe_latest,9.4,2020-01-08
+Rubicon Peak 2,RP2,swe_percapr1,32,2020-01-08
+Tahoe City Cross,TCC,swe_latest,6.8,2020-01-08
+Tahoe City Cross,TCC,swe_percapr1,42,2020-01-08
+Ward Creek 3,WC3,swe_latest,11.9,2020-01-08
+Ward Creek 3,WC3,swe_percapr1,30,2020-01-08
+Fallen Leaf Lake,FLL,swe_latest,2.1,2020-01-08
+Fallen Leaf Lake,FLL,swe_percapr1,30,2020-01-08
+Ebbetts Pass,EBB,swe_latest,14.5,2020-01-08
+Ebbetts Pass,EBB,swe_percapr1,37,2020-01-08
+Horse Meadow,HOR,swe_latest,9.5,2020-01-08
+Monitor Pass,MNT,swe_latest,5.9,2020-01-08
+Burnside Lake,BSK,swe_latest,12.4,2020-01-08
+Forestdale Creek,FDC,swe_latest,15.5,2020-01-08
+Poison Flat,PSN,swe_latest,7.3,2020-01-08
+Poison Flat,PSN,swe_percapr1,45,2020-01-08
+Spratt Creek,SPT,swe_latest,3.4,2020-01-08
+Spratt Creek,SPT,swe_percapr1,76,2020-01-08
+Leavitt Lake,LVT,swe_latest,18,2020-01-08
+Summit Meadow,SDW,swe_latest,6.6,2020-01-08
+Virginia Lakes,VRG,swe_latest,4.2,2020-01-08
+Virginia Lakes,VRG,swe_percapr1,21,2020-01-08
+Lobdell Lake,LBD,swe_latest,3.3,2020-01-08
+Lobdell Lake,LBD,swe_percapr1,19,2020-01-08
+Sonora Pass Bridge,SPS,swe_latest,7.1,2020-01-08
+Sonora Pass Bridge,SPS,swe_percapr1,27,2020-01-08
+Leavitt Meadows,LVM,swe_latest,5.2,2020-01-08
+Leavitt Meadows,LVM,swe_percapr1,65,2020-01-08
+Gem Pass,GEM,swe_latest,7,2020-01-08
+Gem Pass,GEM,swe_percapr1,22,2020-01-08
+Sawmill,SWM,swe_latest,6.6,2020-01-08
+Sawmill,SWM,swe_percapr1,34,2020-01-08
+Cottonwood Lakes,CWD,swe_latest,7.5,2020-01-08
+Cottonwood Lakes,CWD,swe_percapr1,65,2020-01-08
+Rock Creek Lakes,RCK,swe_latest,5,2020-01-08
+Rock Creek Lakes,RCK,swe_percapr1,35,2020-01-08
+South Lake,SLK,swe_latest,4.9,2020-01-08
+South Lake,SLK,swe_percapr1,31,2020-01-08
+Mammoth Pass,MHP,swe_latest,10.9,2020-01-08
+Mammoth Pass,MHP,swe_percapr1,26,2020-01-08

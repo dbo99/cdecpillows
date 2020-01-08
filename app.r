@@ -4,14 +4,7 @@
 #setwd("~/Documents/shiny_nohrsc/final")
 #setwd("~/R/proj/nohrsc/shiny/final")
 
-
-
 source("df_build.r")
-source("df_build.r")
-
-
-source("df_build.r")
-
 
 ui <- 
   
@@ -24,11 +17,11 @@ ui <-
       fluidRow(
         column(3, dateInput('start_date',
                             label = 'start day',
-                            value = Sys.Date()-27)), 
+                            value = "2018-11-15")), 
         
         column(3,dateInput('end_date',
                            label = 'end day',
-                           value = Sys.Date()-1)),
+                           value = Sys.Date()-3)),
         
         column(3,dateInput('map_date',
                            label = 'map day',
@@ -36,50 +29,44 @@ ui <-
       # column(3,actionButton("goButton", "run"))),
       
       selectizeInput(
-        "nws_basin_code", "nwsid", choices = unique(df$nws_basin_code), 
-        selected = c("San Joaquin - Friant Dam (FRAC1)"), 
+        "pillow", "pillow", choices = unique(df$pillow), 
+        selected = c("Central Sierra Snow Lab (Yuba) (CSSC1) (CSL)"), 
         multiple = TRUE),
-      
-      radioButtons("entirebasin", "by elevation zone? (map: no zones)",                
-                   choices = c("yes", "no"), selected = "no", inline = T),
       
       #   uiOutput("secondSelection"),
       fluidRow(
-        column(5, checkboxGroupInput("parameter", "plot parameter [24-hr avg]",                
-                                     choices = unique(df$paramnam),
-                                     selected = "water equivalent (swe)") ),
+        column(5, checkboxGroupInput("parameter", "plot parameter",                
+                                     choices = unique(df$pname),
+                                     selected = "swe_latest") ),
         column(5, radioButtons("map_param", "map parameter",                
-                               choices = unique(df$p_unit),
-                               selected = "swe [in]") )),
+                               choices = unique(df$pname),
+                               selected = "swe_latest") )),
       
       fluidRow(
-        column(5, radioButtons('x', 'x-axis', c("date", "dowy"), inline = T)),
+        column(5, radioButtons('x', 'x-axis', c("date", "dowy"), selected = "dowy", inline = T)),
         
         
         column(5,radioButtons("free_scale", "y scale",                
-                              choices = c("free", "fixed"), selected = "free", inline = T))),
+                              choices = c("free", "fixed"), selected = "fixed", inline = T))),
       
       radioButtons("resctricttodowy", "only dates within day of year range",                
                    choices = c("yes", "no"), selected = "no", inline = T),
       
-      radioButtons('color', 'color', c("none",  "basin_zone", "param", "nws_basin_code","wy"), selected  = "basin_zone", inline = T ),
+      radioButtons('color', 'color', c("none",   "pname", "pillow","wateryear", "basin"), selected  = "pillow", inline = T ),
       
-      radioButtons('linetype', 'line type (eg dashed)', c("none",  "basin_zone", "param", "nws_basin_code","wy"), selected  = "none", inline = T ),
+      radioButtons('linetype', 'line type (eg dashed)', c("none",  "pname", "pillow","wateryear", "basin"), selected  = "none", inline = T ),
       
       
       radioButtons('facet_row', 'plot row group',
                    
-                   c(none='.', "basin_zone", "param", "nws_basin_code","wy"), inline = T,
-                   selected = "nws_basin_code"),
+                   c(none='.',  "pname", "pillow","wateryear", "basin"), inline = T,
+                   selected = "wateryear"),
       
       radioButtons('facet_col', 'plot column group',
                    
-                   c(none='.', "basin_zone", "param", "nws_basin_code","wy"), inline = T,
-                   selected = "param")
-      
-      
-      
-      
+                   c(none='.',  "pname", "pillow","wateryear", "basin"), inline = T,
+                   selected = "pname")
+    
     ),
     
     mainPanel(
@@ -122,31 +109,20 @@ server <- function(input, output) {
     enddowy <- dowy %>% filter(date == input$end_date) 
     enddowy <- enddowy$dowy
     
-    if (input$resctricttodowy == "no" && input$entirebasin == "yes")
+    if (input$resctricttodowy == "no" )
       df <- df  %>% filter(date >= input$start_date) %>% filter(date <= input$end_date) %>%
-      filter(nws_basin_code %in% input$nws_basin_code)   %>% 
-      filter(paramnam %in% input$parameter)
+      filter(pillow %in% input$pillow)   %>% 
+      filter(pname %in% input$parameter)
     
-    if (input$resctricttodowy == "yes" && input$entirebasin == "yes")
+    if (input$resctricttodowy == "yes" )
       
       df <- df  %>% filter(date >= input$start_date) %>% filter(date <= input$end_date) %>%
-      filter(nws_basin_code %in% input$nws_basin_code)   %>% 
-      filter(paramnam %in% input$parameter) %>% filter(dowy >= startdowy) %>% filter(dowy <= enddowy)
+      filter(pillow %in% input$pillow)   %>% 
+      filter(pname %in% input$parameter) %>% filter(dowy >= startdowy) %>% filter(dowy <= enddowy)
     
-    if (input$resctricttodowy == "no" && input$entirebasin == "no")
-      df <- df  %>% filter(date >= input$start_date) %>% filter(date <= input$end_date) %>%
-      filter(nws_basin_code %in% input$nws_basin_code)   %>% 
-      filter(paramnam %in% input$parameter) %>% filter(basin_zone == "Entire Basin")
     
-    if (input$resctricttodowy == "yes" && input$entirebasin == "no")
-      
-      df <- df  %>% filter(date >= input$start_date) %>% filter(date <= input$end_date) %>%
-      filter(nws_basin_code %in% input$nws_basin_code)   %>% 
-      filter(paramnam %in% input$parameter) %>% filter(dowy >= startdowy) %>% filter(dowy <= enddowy) %>%
-      filter(basin_zone == "Entire Basin")
-    
-    df <- df %>% mutate(wy = as.factor(wy))
-    p <- ggplot(df, aes_string(x=input$x, y= "numval")) + geom_point(size = 0.5) + geom_line()  + labs(y = NULL, x = NULL) +
+    df <- df %>% mutate(wateryear = as.factor(wateryear))
+    p <- ggplot(df, aes_string(x=input$x, y= "value")) + geom_point(size = 0.5) + geom_line()  + labs(y = NULL, x = NULL) +
       scale_y_continuous(sec.axis = dup_axis(name = NULL)) + theme_bw(base_size=18)
     
     if (input$color != 'none')
@@ -181,29 +157,29 @@ server <- function(input, output) {
     
     if (input$resctricttodowy == "no" && input$entirebasin == "yes")
       df <- df  %>% filter(date >= input$start_date) %>% filter(date <= input$end_date) %>%
-      filter(nws_basin_code %in% input$nws_basin_code)   %>% 
-      filter(paramnam %in% input$parameter)
+      filter(pillow %in% input$pillow)   %>% 
+      filter(pname %in% input$parameter)
     
     if (input$resctricttodowy == "yes" && input$entirebasin == "yes")
       
       df <- df  %>% filter(date >= input$start_date) %>% filter(date <= input$end_date) %>%
-      filter(nws_basin_code %in% input$nws_basin_code)   %>% 
-      filter(paramnam %in% input$parameter) %>% filter(dowy >= startdowy) %>% filter(dowy <= enddowy)
+      filter(pillow %in% input$pillow)   %>% 
+      filter(pname %in% input$parameter) %>% filter(dowy >= startdowy) %>% filter(dowy <= enddowy)
     
     if (input$resctricttodowy == "no" && input$entirebasin == "no")
       df <- df  %>% filter(date >= input$start_date) %>% filter(date <= input$end_date) %>%
-      filter(nws_basin_code %in% input$nws_basin_code)   %>% 
-      filter(paramnam %in% input$parameter) %>% filter(basin_zone == "Entire Basin")
+      filter(pillow %in% input$pillow)   %>% 
+      filter(pname %in% input$parameter) %>% filter(basin_zone == "Entire Basin")
     
     if (input$resctricttodowy == "yes" && input$entirebasin == "no")
       
       df <- df  %>% filter(date >= input$start_date) %>% filter(date <= input$end_date) %>%
-      filter(nws_basin_code %in% input$nws_basin_code)   %>% 
-      filter(paramnam %in% input$parameter) %>% filter(dowy >= startdowy) %>% filter(dowy <= enddowy) %>%
+      filter(pillow %in% input$pillow)   %>% 
+      filter(pname %in% input$parameter) %>% filter(dowy >= startdowy) %>% filter(dowy <= enddowy) %>%
       filter(basin_zone == "Entire Basin")
     
     df <- df %>% mutate(wy = as.factor(wy))
-    p <- ggplot(df, aes_string(x=input$x, y= "numval")) + geom_point(size = 0.5) + geom_line()  + labs(y = NULL, x = NULL) +
+    p <- ggplot(df, aes_string(x=input$x, y= "value")) + geom_point(size = 0.5) + geom_line()  + labs(y = NULL, x = NULL) +
       scale_y_continuous(sec.axis = dup_axis(name = NULL)) + theme_bw(base_size=18)
     
     if (input$color != 'none')
@@ -227,72 +203,72 @@ server <- function(input, output) {
     
   })
   
-  output$mapplot <- renderLeaflet({
-    
-    # input$goButton
-    
-    df_map <- df %>% filter(basin_zone == "Entire Basin", date == input$map_date, p_unit %in% input$map_param)
-    df_mapcolrange <- df %>% filter(basin_zone == "Entire Basin", p_unit %in% input$map_param)
-    viridmax <- max(df_mapcolrange$numval)
-    viridmin <- min(df_mapcolrange$numval)
-    
-    # Convert spatialpolydf to an sf object
-    sf_ebasin_kml  <- ebasin_kml  %>%  st_as_sf() %>% transmute(Name, geometry)  %>%
-      left_join(df_map, by = c("Name" = "nwscode"))
-    
-    sf_ebasin_kml_hlite  <- sf_ebasin_kml  %>%  
-      filter(nws_basin_code %in% input$nws_basin_code) 
-    
-    maptypes = c("Stamen.TonerLite", "Stamen.Terrain", "Stamen.TopOSMRelief", "Esri.WorldTopoMap" , "Esri.WorldPhysical",  "OpenTopoMap" ,
-                 "NASAGIBS.ModisTerraSnowCover", "NASAGIBS.ModisTerraTrueColorCR", "NASAGIBS.ModisTerraBands367CR")
-    
-    grp <- c(    "usgs hydrography",   "0.5 reflectivity") #,"hrrr p_1hr", "hrrr p_2hr",   "hrrr p_4hr", "hrrr p_6hr",
-    #"mrms p_1hr", "mrms p_24hr", "mrms p_48hr", "mrms p_72hr") # "Coarse Geo") # 
-    
-    
-    m <- mapview(sf_ebasin_kml["numval"], burst = TRUE, hide = TRUE, col.regions = viridisLite::viridis, 
-                 alpha.regions = 0.4,  map.types = maptypes,
-                 popup = popupTable(sf_ebasin_kml, zcol = c("nws_basin_code", "date", "numval", "paramnam")), 
-                 layer.name = "nohrsc daily data")   +
-      mapview(sf_ebasin_kml_hlite["numval"], color = "red", 
-              alpha.regions = 0.0, 
-              popup = popupTable(sf_ebasin_kml_hlite, zcol = c("nws_basin_code", "date", "numval", "paramnam")),
-              layer.name = "selected basin(s' ) outline", legend = FALSE) 
-    
-    m@map = m@map %>% 
-      
-      addTiles() %>%
-      setView(-119.6, 38.05, zoom = 7)  %>%   
-      
-      addWMSTiles(group= grp[1], baseUrl="https://basemap.nationalmap.gov/arcgis/services/USGSHydroCached/MapServer/WmsServer", layers = "0",
-                  options = WMSTileOptions(format = "image/png", transparent = TRUE), attribution = "USGS") %>% 
-      
-      
-      
-      addWMSTiles( group = grp[2],baseUrl = 
-                     "http://mesonet.agron.iastate.edu/cgi-bin/wms/nexrad/n0r.cgi", 
-                   #"https://mesonet.agron.iastate.edu/cgi-bin/wms/nexrad/n0q.cgi?",
-                   layers = "nexrad-n0r-900913",
-                   options = WMSTileOptions(format = "image/png", transparent = TRUE),
-                   attribution = "Weather data  2012 IEM Nexrad") %>%
-      
-      # addWMSTiles( group = grp[3],baseUrl = 
-      #                "https://gibs.earthdata.nasa.gov/twms/epsg4326/best/twms.cgi", 
-      #              #"https://mesonet.agron.iastate.edu/cgi-bin/wms/nexrad/n0q.cgi?",
-      #              layers = "0",
-      #              options = WMSTileOptions(format = "image/png", transparent = TRUE),
-      #              attribution = "NASA GIBS imagery") %>%
-      #
-      
-      
-      
-    mapview:::mapViewLayersControl(names = grp) %>% #hideGroup(grp[1]) #%>% 
-      hideGroup(grp[2]) 
-    
-    
-    
-    m@map
-  })
+ # output$mapplot <- renderLeaflet({
+ #   
+ #   # input$goButton
+ #   
+ #   df_map <- df %>% filter(basin_zone == "Entire Basin", date == input$map_date, p_unit %in% input$map_param)
+ #   df_mapcolrange <- df %>% filter(basin_zone == "Entire Basin", p_unit %in% input$map_param)
+ #   viridmax <- max(df_mapcolrange$value)
+ #   viridmin <- min(df_mapcolrange$value)
+ #   
+ #   # Convert spatialpolydf to an sf object
+ #   sf_ebasin_kml  <- ebasin_kml  %>%  st_as_sf() %>% transmute(Name, geometry)  %>%
+ #     left_join(df_map, by = c("Name" = "nwscode"))
+ #   
+ #   sf_ebasin_kml_hlite  <- sf_ebasin_kml  %>%  
+ #     filter(pillow %in% input$pillow) 
+ #   
+ #   maptypes = c("Stamen.TonerLite", "Stamen.Terrain", "Stamen.TopOSMRelief", "Esri.WorldTopoMap" , "Esri.WorldPhysical",  "OpenTopoMap" ,
+ #                "NASAGIBS.ModisTerraSnowCover", "NASAGIBS.ModisTerraTrueColorCR", "NASAGIBS.ModisTerraBands367CR")
+ #   
+ #   grp <- c(    "usgs hydrography",   "0.5 reflectivity") #,"hrrr p_1hr", "hrrr p_2hr",   "hrrr p_4hr", "hrrr p_6hr",
+ #   #"mrms p_1hr", "mrms p_24hr", "mrms p_48hr", "mrms p_72hr") # "Coarse Geo") # 
+ #   
+ #   
+ #   m <- mapview(sf_ebasin_kml["value"], burst = TRUE, hide = TRUE, col.regions = viridisLite::viridis, 
+ #                alpha.regions = 0.4,  map.types = maptypes,
+ #                popup = popupTable(sf_ebasin_kml, zcol = c("pillow", "date", "value", "pname")), 
+ #                layer.name = "nohrsc daily data")   +
+ #     mapview(sf_ebasin_kml_hlite["value"], color = "red", 
+ #             alpha.regions = 0.0, 
+ #             popup = popupTable(sf_ebasin_kml_hlite, zcol = c("pillow", "date", "value", "pname")),
+ #             layer.name = "selected basin(s' ) outline", legend = FALSE) 
+ #   
+ #   m@map = m@map %>% 
+ #     
+ #     addTiles() %>%
+ #     setView(-119.6, 38.05, zoom = 7)  %>%   
+ #     
+ #     addWMSTiles(group= grp[1], baseUrl="https://basemap.nationalmap.gov/arcgis/services/USGSHydroCached/MapServer/WmsServer", layers = "0",
+ #                 options = WMSTileOptions(format = "image/png", transparent = TRUE), attribution = "USGS") %>% 
+ #     
+ #     
+ #     
+ #     addWMSTiles( group = grp[2],baseUrl = 
+ #                    "http://mesonet.agron.iastate.edu/cgi-bin/wms/nexrad/n0r.cgi", 
+ #                  #"https://mesonet.agron.iastate.edu/cgi-bin/wms/nexrad/n0q.cgi?",
+ #                  layers = "nexrad-n0r-900913",
+ #                  options = WMSTileOptions(format = "image/png", transparent = TRUE),
+ #                  attribution = "Weather data  2012 IEM Nexrad") %>%
+ #     
+ #     # addWMSTiles( group = grp[3],baseUrl = 
+ #     #                "https://gibs.earthdata.nasa.gov/twms/epsg4326/best/twms.cgi", 
+ #     #              #"https://mesonet.agron.iastate.edu/cgi-bin/wms/nexrad/n0q.cgi?",
+ #     #              layers = "0",
+ #     #              options = WMSTileOptions(format = "image/png", transparent = TRUE),
+ #     #              attribution = "NASA GIBS imagery") %>%
+ #     #
+ #     
+ #     
+ #     
+ #   mapview:::mapViewLayersControl(names = grp) %>% #hideGroup(grp[1]) #%>% 
+ #     hideGroup(grp[2]) 
+ #   
+ #   
+ #   
+ #   m@map
+ # })
   
 }
 
