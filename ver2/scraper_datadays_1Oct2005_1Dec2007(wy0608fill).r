@@ -7,11 +7,11 @@ source("df_init.r")
 
 
 #### make list of recent days for which cdec published pillow data ###
-{
+#{
 # b/c data consistently revised, start from week before day through which we already have data
-start_date <- ymd("2001-10-01")
+start_date <- ymd("2005-07-19")
 # assume we want data through today
-end_date <- ymd("2005-09-30")  
+end_date <- ymd("2005-07-19")  
 
 dates <- seq(start_date, end_date, by = "days") #%>% rev()
 dates <- gsub("-","",dates)
@@ -23,45 +23,47 @@ urlbase <- "http://cdec.water.ca.gov/reportapp/javareports?name=PAGE6."
 dayswithdata <- vector(mode = "list")
 head(dayswithdata)
 
-for (i in 1:length(dates)) { 
+#for (i in 1:length(dates)) { 
 
-url <- paste0(urlbase, dates[i])
-dayswithdata_i <- html_text(html_node(read_html(url),"h2 , h2"))
+url <- paste0(urlbase, dates[1])
+dayswithdata_i <- html_text(html_node(read_html(url),"h1 , b"))
    
 dayswithdata <- append(dayswithdata,dayswithdata_i) #%>% unique()
-message(dates[i])
+message(dates[1])
 
-}
+#}
+dayswithdata_i
+
    
 dayswithdata
 dayswithdata <- dayswithdata %>% unlist() %>% as.data.frame()
 as_tibble(dayswithdata)
 # rename column
-colnames(dayswithdata)[colnames(dayswithdata)=="."] <- "h2"
-as_tibble(dayswithdata)
+colnames(dayswithdata)[colnames(dayswithdata)=="."] <- "b"
+#as_tibble(dayswithdata)
 # remove no data days with mdy (long strings won't parse as dates)
-dayswithdata <- dayswithdata %>% mutate(h2 = mdy(h2), h2 = as.character(h2))
-as_tibble(dayswithdata)
+#dayswithdata <- dayswithdata %>% mutate(h2 = mdy(h2), h2 = as.character(h2))
+#as_tibble(dayswithdata)
 # remove hyphens to match url format
-dayswithdata$h2 <- gsub("-","",dayswithdata$h2)
-as_tibble(dayswithdata)
+#dayswithdata$h2 <- gsub("-","",dayswithdata$h2)
+#as_tibble(dayswithdata)
 
 # remove the days with no data (the NAs)
-dayswithdata <- dayswithdata[complete.cases(dayswithdata), ]
-as_tibble(dayswithdata)
-dayswithdata <- data.frame(dayswithdata)
+#dayswithdata <- dayswithdata[complete.cases(dayswithdata), ]
+#as_tibble(dayswithdata)
+#dayswithdata <- data.frame(dayswithdata)
 
-as_tibble(dayswithdata)
+#as_tibble(dayswithdata)
 
 ## make list of urls of these days with data
 
-dayswithdata <- dayswithdata %>% transmute(url = paste0(urlbase, dayswithdata), dayswithdata = 
-                                             ymd(dayswithdata))
-as_tibble(dayswithdata)  
+#dayswithdata <- dayswithdata %>% transmute(url = paste0(urlbase, dayswithdata), dayswithdata = 
+#                                             ymd(dayswithdata))
+#as_tibble(dayswithdata)  
 # make sure no duplicates
-dayswithdata <- dayswithdata %>% distinct()
+#dayswithdata <- dayswithdata %>% distinct()
 as_tibble(dayswithdata) 
 
 }
 
-write_csv(dayswithdata, "cdecpillowdatadays_wy02wy05.csv")
+write_csv(dayswithdata, "cdecpillowdatadays_wy06wy16.csv")
