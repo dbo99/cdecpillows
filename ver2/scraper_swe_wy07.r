@@ -1,14 +1,9 @@
 # new cdec report format starts 11/27/2018
 # last day of available old style format is 6/14/18
-source("fun_defs.r")
-source("libs.r")
+
 source("df_init.r")
-dayswithdata <- read_csv("cdecpillowdatadays_wy17wy18.csv") %>%
-                mutate(daywithdata = mdy(daywithdata)) %>% 
-               filter(daywithdata <= ymd("2017-10-01"))
-                
-# 
-# dayswithdata defined in scraper_datadays.r
+dayswithdata <- read_csv("cdecpillowdatadays_wy07.csv") %>%
+                mutate(daywithdata = ymd(daywithdata)) 
 
 {
 for (i in 1:length(dayswithdata$url)) { 
@@ -108,8 +103,7 @@ cdec_swe_table <- cdec_swe_table %>% transmute(Station, ID,
 
 
 
-filename <- "cdecpillow_wy17wy18archive.csv"
+filename <- "cdecpillow_wy07archive.csv"
 #setwd("~/R/proj/nohrsc/shiny/final/firstpublish")
 write_csv(df,filename)
                 }
-       
