@@ -15,25 +15,33 @@ ui <-
     sidebarLayout(sidebarPanel(
       
       fluidRow(
-        column(3, dateInput('start_date',
-                            label = 'start day',
-                            value = "2018-11-15")), 
+#        column(3, dateInput('start_date',
+#                            label = 'start day',
+#                            value = "2018-11-15")), 
+#        
+#        column(3,dateInput('end_date',
+#                           label = 'end day',
+#                           value = Sys.Date()-3)),
         
-        column(3,dateInput('end_date',
-                           label = 'end day',
-                           value = Sys.Date()-3)),
         
-        column(3,dateInput('map_date',
-                           label = 'map day',
-                           value = Sys.Date()-1))),
-      # column(3,actionButton("goButton", "run"))),
+        column(12, checkboxGroupInput('wateryear',
+                                      choices = sort(unique(df$wateryear)),
+                                      label = 'wateryear',
+                                      inline = TRUE,
+                                      selected = c(2006, 2011, 2017, 2019, 2020)))), 
+
+         column(12, checkboxGroupInput('basin',
+                              choices = sort(unique(df$basin)),
+                              label = 'basin',
+                              inline = TRUE,
+                              selected = "American")), 
       
-      selectizeInput(
-        "pillow", "pillow", choices = unique(df$pillow), 
-        selected = c("Central Sierra Snow Lab (Yuba) (CSSC1) (CSL)"), 
-        multiple = TRUE),
+     # selectizeInput(
+     #   "pillow", "pillow", choices = unique(df$pillow), 
+     #   selected = c("Central Sierra Snow Lab (Yuba) (CSSC1) (CSL)"), 
+     #   multiple = TRUE),
       
-      #   uiOutput("secondSelection"),
+      uiOutput("selectizepillow"),
       fluidRow(
         column(5, checkboxGroupInput("parameter", "plot parameter",                
                                      choices = unique(df$pname),
@@ -48,14 +56,13 @@ ui <-
         
         column(5,radioButtons("free_scale", "y scale",                
                               choices = c("free", "fixed"), selected = "fixed", inline = T))),
-      
-      radioButtons("resctricttodowy", "only dates within day of year range",                
-                   choices = c("yes", "no"), selected = "no", inline = T),
+   #  
+   #  radioButtons("resctricttodowy", "only dates within day of year range",                
+   #               choices = c("yes", "no"), selected = "no", inline = T),
       
       radioButtons('color', 'color', c("none",   "pname", "pillow","wateryear", "basin"), selected  = "pillow", inline = T ),
       
       radioButtons('linetype', 'line type (eg dashed)', c("none",  "pname", "pillow","wateryear", "basin"), selected  = "none", inline = T ),
-      
       
       radioButtons('facet_row', 'plot row group',
                    
@@ -65,7 +72,10 @@ ui <-
       radioButtons('facet_col', 'plot column group',
                    
                    c(none='.',  "pname", "pillow","wateryear", "basin"), inline = T,
-                   selected = "pname")
+                   selected = "pname"),
+      dateInput('map_date',
+                   label = 'map day',
+                   value = Sys.Date()-1)
     
     ),
     
@@ -100,28 +110,22 @@ server <- function(input, output) {
   
   options(shiny.maxRequestSize=225*1024^2) 
   
+  output$selectizepillow <- renderUI({
+    choice <-  unique(df[df$pillow %in% input$basin, "pillow"])
+    #print(choice)
+    selectizeInput("selectizepillow","Select pillow", choices = choice) #,
+                    #selected = choice[1])
+    
+  })
+  
   output$reg_plot <- renderPlot({
     
-    input$goButton
+      df <- df    %>%
+        filter(wateryear %in% input$wateryear)   %>% 
+      filter(basin %in% input$basin)   %>% 
+       # filter(pillow %in% input$selectizepillow) %>%
+      filter(pname %in% input$parameter) 
     
-    startdowy <- dowy %>% filter(date == input$start_date )
-    startdowy <- startdowy$dowy
-    enddowy <- dowy %>% filter(date == input$end_date) 
-    enddowy <- enddowy$dowy
-    
-    if (input$resctricttodowy == "no" )
-      df <- df  %>% filter(date >= input$start_date) %>% filter(date <= input$end_date) %>%
-      filter(pillow %in% input$pillow)   %>% 
-      filter(pname %in% input$parameter)
-    
-    if (input$resctricttodowy == "yes" )
-      
-      df <- df  %>% filter(date >= input$start_date) %>% filter(date <= input$end_date) %>%
-      filter(pillow %in% input$pillow)   %>% 
-      filter(pname %in% input$parameter) %>% filter(dowy >= startdowy) %>% filter(dowy <= enddowy)
-    
-    
-    df <- df %>% mutate(wateryear = as.factor(wateryear))
     p <- ggplot(df, aes_string(x=input$x, y= "value")) + geom_point(size = 0.5) + geom_line()  + labs(y = NULL, x = NULL) +
       scale_y_continuous(sec.axis = dup_axis(name = NULL)) + theme_bw(base_size=18)
     
@@ -150,33 +154,12 @@ server <- function(input, output) {
     
     #input$goButton
     
-    startdowy <- dowy %>% filter(date == input$start_date)
-    startdowy <- startdowy$dowy
-    enddowy <- dowy %>% filter(date == input$end_date) 
-    enddowy <- enddowy$dowy
-    
-    if (input$resctricttodowy == "no" && input$entirebasin == "yes")
-      df <- df  %>% filter(date >= input$start_date) %>% filter(date <= input$end_date) %>%
-      filter(pillow %in% input$pillow)   %>% 
-      filter(pname %in% input$parameter)
-    
-    if (input$resctricttodowy == "yes" && input$entirebasin == "yes")
+
       
-      df <- df  %>% filter(date >= input$start_date) %>% filter(date <= input$end_date) %>%
+      df <- df  %>%  
       filter(pillow %in% input$pillow)   %>% 
-      filter(pname %in% input$parameter) %>% filter(dowy >= startdowy) %>% filter(dowy <= enddowy)
-    
-    if (input$resctricttodowy == "no" && input$entirebasin == "no")
-      df <- df  %>% filter(date >= input$start_date) %>% filter(date <= input$end_date) %>%
-      filter(pillow %in% input$pillow)   %>% 
-      filter(pname %in% input$parameter) %>% filter(basin_zone == "Entire Basin")
-    
-    if (input$resctricttodowy == "yes" && input$entirebasin == "no")
-      
-      df <- df  %>% filter(date >= input$start_date) %>% filter(date <= input$end_date) %>%
-      filter(pillow %in% input$pillow)   %>% 
-      filter(pname %in% input$parameter) %>% filter(dowy >= startdowy) %>% filter(dowy <= enddowy) %>%
-      filter(basin_zone == "Entire Basin")
+      filter(pname %in% input$parameter)  
+  
     
     df <- df %>% mutate(wy = as.factor(wy))
     p <- ggplot(df, aes_string(x=input$x, y= "value")) + geom_point(size = 0.5) + geom_line()  + labs(y = NULL, x = NULL) +
