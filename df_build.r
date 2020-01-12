@@ -16,7 +16,7 @@ cdec_stations <- fread("cdec_stations.csv") %>% transmute(dwr3id, elev_cdec,lat,
 as_tibble(cdec_stations)
 
 
-df <- as.data.frame(fread("fulldb_wy17thru_2020-01-08.csv"))
+df <- as.data.frame(fread("cdecpillowscrape_wy2001_thru8Jan2020.csv"))
 df <- df %>% mutate(date = as.character(cdecday)) %>% mutate(date = ymd(date)) %>% select(-cdecday)
 df <- df %>% mutate(year = year(date), yday = yday(date))
 
