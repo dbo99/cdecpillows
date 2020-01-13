@@ -1,4 +1,4 @@
-#rm(list = ls()) 
+rm(list = ls()) 
 
 source("libs.r")
 source("fun_defs.r")
@@ -16,9 +16,10 @@ cdec_stations <- fread("cdec_stations.csv") %>% transmute(dwr3id, elev_cdec,lat,
 as_tibble(cdec_stations)
 
 
-df <- as.data.frame(fread("fulldb_wy17thru_2020-01-08.csv"))
-df <- df %>% mutate(date = as.character(cdecday)) %>% mutate(date = ymd(date)) %>% select(-cdecday)
-df <- df %>% mutate(year = year(date), yday = yday(date))
+df <- as.data.frame(fread("fulldb_wy17thru_2020-01-13.csv")) %>% 
+             mutate(date = as.character(cdecday)) %>% 
+             mutate(date = ymd(date)) %>% select(-cdecday)  %>%
+              mutate(year = year(date), yday = yday(date))
 
 as_tibble(df)
 
@@ -46,12 +47,16 @@ df <- df %>% mutate(pillow = as.factor(paste0(station,
                                               dwr3id, ")" )),
                     nws5id = as.factor(nws5id), basin = as.factor(basin),
                     pname = as.factor(pname)) %>% 
-                    select(-cumdoy, -yday)
+                    select(-cumdoy, -yday) %>%
+                    mutate(date_md = format(date, format = "%m-%d")) #%>%
+                    #mutate(date_ch = as.character(date))
                     
 as_tibble(df)
 
 df <- with(df, df[order(basin,elev_cdec) , ])
-                    
+df$pillow <- gsub("'","",df$pillow)
+
+#df <- df %>% mutate(swe = swe_latest) %>% select(-swe_latest)                    
 #ebasin_kml <- readOGR("basins.kml", "cnrfc_09122018_basins_thin")
 
 

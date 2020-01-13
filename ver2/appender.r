@@ -2,7 +2,7 @@
 
 
 {
-new <-  as.data.frame(fread("2020-01-08.csv")) %>% mutate(cdecday = as.character(cdecday)) %>% 
+new <-  as.data.frame(fread("2020-01-13.csv")) %>% mutate(cdecday = as.character(cdecday)) %>% 
         mutate(cdecday = ymd(cdecday)) #%>% mutate(wy = water_year(date), yday = yday(date))
 
 if (nrow(new) > 0 ) {justscraped_lastdate <- max(new$cdecday)}
