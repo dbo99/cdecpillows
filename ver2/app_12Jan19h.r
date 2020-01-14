@@ -39,18 +39,22 @@ ui <-
    br(),
    br(),
       
-   radioButtons('legend', 'legend', c("on", "off"), 
+   fluidRow(column(5,radioButtons('legend', 'legend', c("on", "off"), 
        selected = "on", 
-       inline = T),
+       inline = F)),
         
-   radioButtons("free_scale", "y scale",                
+   column(5,radioButtons("free_scale", "y scale",                
         choices = c("free", "fixed"), 
         selected = "fixed", 
-        inline = T),
+        inline = F))),
    
    radioButtons("parameter", "plot parameter",                
                 choices = unique(df$pname),
-                selected = "inch") 
+                selected = "inch", inline = T),
+   
+   sliderInput("mapdates", "map date range", 
+               min = minmapdate,
+               max = maxmapdate, value = c(maxmapdate-7, maxmapdate))
    
   
          
